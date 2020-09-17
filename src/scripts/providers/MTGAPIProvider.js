@@ -1,24 +1,19 @@
-import React, {useState, useEffect} from "react"
+import React, {useState} from "react"
 
 export const MTGContext=React.createContext()
 
 export const MTGProvider=(props)=>{
     const mtg=require('mtgsdk')
     const [cards, setCards]=useState([])
-    const getCards=()=>{
-        mtg.card.where({name:"Black Lotus"})
-        .then(card=>{
-            console.log(card)
-        })
+    const getCards=(cardObj)=>{
+        mtg.card.where(cardObj)
+        .then(setCards)
+        .then(()=>{console.log(cards)})
     }
-    useEffect(()=>{
-        console.log(cards)
-        getCards()
-    },[])
 
     return (
         <MTGContext.Provider value={{
-            cards
+            cards,getCards
         }}>
             {props.children}
         </MTGContext.Provider>
