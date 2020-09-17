@@ -1,31 +1,44 @@
-import React, {useContext, useRef, useEffect} from "react"
+import React, {useContext, useRef, useState, useEffect} from "react"
 import {Card} from "./MyCards"
 import { cardsOwnedContext } from "../providers/cardsOwnedProvider"
 import {cardCashContext} from "../providers/cardCashingProvider"
 
-export const MyCardList=({history})=>{
+export const MyCardList=({props})=>{
+    const [filteredCard, setCard]=useState([])
     const color=useRef("")
     const content=useRef("")
     const {cards}=useContext(cardsOwnedContext)
     const {cashedCards}=useContext(cardCashContext)
     const ownedCards=cards.filter(card=>card.ownerId===parseInt(localStorage.getItem("user")))
-    console.log(color)
-    const colorseleted=(colorValue)=>{
-        ownedCards.map(card=>{
+    const filterCards=(colorValue)=>{
+        console.log(colorValue)
+        setCard([])
+        ownedCards.map(ownedCard=>{
+            console.log(ownedCard)
             return(
             cashedCards.map(cashedCard=>{
-            if (card.cardId===cashedCard.id&&parseInt(colorValue)===0){
-                content.current.outerHTML+=<Card key={cashedCard.id} card={cashedCard} />
+                console.log(cashedCard)
+            if (ownedCard.cardId===cashedCard.id&&colorValue===0){
+                console.log("in if")
+                setCard(filteredCard=>[...filteredCard,cashedCard])
+            }
+            if (ownedCard.cardId===cashedCard.id&&colorValue===1){
+                setCard(filteredCard=>[...filteredCard,cashedCard])
             }
         })
             )
         })
     }
+    useEffect(()=>{
+        filterCards(0)
+    },[])
     return(
         <>
         <h1>Cards</h1>
-        <select ref={color} name="color">
-            <option value="0" onClick={event=>{colorseleted(event.target.value)}}>Color Select </option>
+        <select ref={color} 
+        name="color" 
+        onChange={event=>{filterCards(parseInt(event.target.value))}}>
+            <option value="0">Color Select </option>
             <option value="1">Black</option>
             <option value="2">Blue</option>
             <option value="3">Green</option>
@@ -34,8 +47,12 @@ export const MyCardList=({history})=>{
         </select>
     <div className="cards" ref={content}>
         {
-            console.log(content)
-    }</div>
+            
+            filteredCard.map(card=>{
+                return(<Card key={card.id} card={card}/>)
+            })
+    }
+    </div>
     </>
     )
 }

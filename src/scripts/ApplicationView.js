@@ -11,13 +11,13 @@ export const ApplicationView=(props)=>{
         <>
         <CardCashProvider>
         <CardsOwnedProvider>
-            <Route exact path="/">
+            <Route exact path="/myCards">
                 <MyCardList/>
             </Route>
         </CardsOwnedProvider>
         </CardCashProvider>
         <MTGProvider>
-            <Route path="/search">
+            <Route exact path="/">
                 <CardSearch />
             </Route>
         </MTGProvider>

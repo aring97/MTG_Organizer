@@ -5,10 +5,10 @@ import {Card} from "../mycards/MyCards"
 export const CardSearch=(props)=>{
     const {cards,getCards}=useContext(MTGContext)
     const newCardSearch=useRef(null)
-    
     return (
         <>
-        Search Cards:
+        <h1>search Cards</h1>
+        
         <input ref={newCardSearch}
         type="text" 
         className="search__input"

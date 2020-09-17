@@ -8,7 +8,6 @@ export const MTGProvider=(props)=>{
     const getCards=(cardObj)=>{
         mtg.card.where(cardObj)
         .then(setCards)
-        .then(()=>{console.log(cards)})
     }
 
     return (
