@@ -16,11 +16,16 @@ export const ApplicationView=(props)=>{
             </Route>
         </CardsOwnedProvider>
         </CardCashProvider>
+        
+        <CardsOwnedProvider>
+        <CardCashProvider>
         <MTGProvider>
             <Route exact path="/">
                 <CardSearch />
             </Route>
         </MTGProvider>
+        </CardCashProvider>
+        </CardsOwnedProvider>
         </>
     )
 }

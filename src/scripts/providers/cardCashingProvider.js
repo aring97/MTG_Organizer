@@ -10,13 +10,23 @@ export const CardCashProvider=(props)=>{
         .then(res=>res.json())
         .then(setCashed)
     }
+    const addToCardsCashed=(cardObject)=>{
+        return fetch("http://localhost:8088/cardCashing",{
+            method: "POST",
+            headers:{
+                "Content-Type":"application/json"
+            },
+            body: JSON.stringify(cardObject)
+        })
+        .then(GetCashedCards)
+        }
     useEffect(()=>{
         GetCashedCards()
-    },[])
+    },[cashedCards])
 
     return(
         <cardCashContext.Provider value={{
-            cashedCards
+            cashedCards, addToCardsCashed, GetCashedCards
         }}>
             {props.children}
         </cardCashContext.Provider>
