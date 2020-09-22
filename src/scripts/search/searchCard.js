@@ -1,7 +1,7 @@
 import React, {useContext} from "react"
 import {cardCashContext} from "../providers/cardCashingProvider"
 import{cardsOwnedContext} from "../providers/cardsOwnedProvider"
-export const SearchCard=({card})=>{
+export const SearchCard=({card, history})=>{
     const {addToCardsCashed}=useContext(cardCashContext)
     const {cards, addToCardsOwned}=useContext(cardsOwnedContext)
     

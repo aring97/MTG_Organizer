@@ -20,9 +20,9 @@ export const ApplicationView=(props)=>{
         <CardsOwnedProvider>
         <CardCashProvider>
         <MTGProvider>
-            <Route exact path="/">
-                <CardSearch />
-            </Route>
+            <Route exact path="/" render={
+                props=><CardSearch {...props}/>
+            } />
         </MTGProvider>
         </CardCashProvider>
         </CardsOwnedProvider>

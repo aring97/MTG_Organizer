@@ -28,7 +28,7 @@ export const CardSearch=(props)=>{
                     if(card.imageUrl===undefined){
                         card.imageUrl="https://www.tcdb.com/Images/Cards/Gaming/104945/104945-7275963RepBk.jpg"
                     }
-                    return<SearchCard key={card.id} card={card}/>
+                    return<SearchCard key={card.id} card={card} {...props}/>
             })
             }
         </div>

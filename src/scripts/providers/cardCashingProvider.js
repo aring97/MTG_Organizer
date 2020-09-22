@@ -22,7 +22,7 @@ export const CardCashProvider=(props)=>{
         }
     useEffect(()=>{
         GetCashedCards()
-    },[cashedCards])
+    },[])
 
     return(
         <cardCashContext.Provider value={{
