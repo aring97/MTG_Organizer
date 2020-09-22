@@ -4,10 +4,10 @@ export const MTGContext=React.createContext()
 
 export const MTGProvider=(props)=>{
     const mtg=require('mtgsdk')
-    const [cards, setCards]=useState([])
+    const [cards, setColors]=useState([])
     const getCards=(cardObj)=>{
         mtg.card.where(cardObj)
-        .then(setCards)
+        .then(setColors)
     }
 
     return (

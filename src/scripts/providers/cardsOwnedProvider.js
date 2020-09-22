@@ -3,12 +3,12 @@ import React, {useState, useEffect} from "react"
 export const cardsOwnedContext=React.createContext()
 
 export const CardsOwnedProvider=(props)=>{
-    const [cards, setCards]=useState([])
+    const [cards, setColors]=useState([])
 
     const GetCardsOwned=()=>{
         return fetch(`http://localhost:8088/cardsOwned`)
         .then(res=>res.json())
-        .then(setCards)
+        .then(setColors)
     }
     const addToCardsOwned=(cardObject)=>{
         return (fetch(`http://localhost:8088/cardsOwned`,{
