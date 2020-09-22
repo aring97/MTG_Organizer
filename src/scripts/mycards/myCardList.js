@@ -2,7 +2,7 @@ import React, {useContext, useState, useEffect} from "react";
 import {Card} from "./MyCards";
 import { cardsOwnedContext } from "../providers/cardsOwnedProvider";
 import {cardCashContext} from "../providers/cardCashingProvider";
-
+import "../../styles/cards/cards.css"
 export const MyCardList=()=>{
     const [filteredCard, setCard]=useState([]);
     const {cards, GetCardsOwned}=useContext(cardsOwnedContext);
@@ -64,9 +64,9 @@ export const MyCardList=()=>{
     },[])
     return(
         <>
-        <h1 onLoadStartCapture={()=>{console.log("load")}}>Cards</h1>
+        <h1 className="title">Cards</h1>
         <select
-        name="color" 
+        className="color" 
         onChange={event=>{
                 filterCards(parseInt(event.target.value))
             }}>

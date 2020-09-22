@@ -1,5 +1,7 @@
 import React,{useContext}from "react"
 import { cardsOwnedContext } from "../providers/cardsOwnedProvider"
+import "../../styles/cards/cards.css"
+
 export const Card=(props)=>{
     const {deleteOwnedCard}=useContext(cardsOwnedContext)
 
@@ -7,7 +9,6 @@ export const Card=(props)=>{
     <div className="card">
     <div className="card__name">{props.card.name} </div>
     <img className="MTGCard" src={props.card.imageUrl} alt={props.card.name}/>
-<p>{props.ownedId}</p>
     <button className="card__delete" 
     onClick={()=>{deleteOwnedCard(props.ownedId)}}>Delete</button>
         </div>

@@ -7,12 +7,13 @@ export const CardSearch=(props)=>{
     const newCardSearch=useRef(null)
     return (
         <>
-        <h1>search Cards</h1>
+        <h1 className="title">search Cards</h1>
         
         <input ref={newCardSearch}
         type="text" 
         className="search__input"
         placeholder=""/>
+        
         <button type="submit"
         onClick={event=>{
             event.preventDefault()
