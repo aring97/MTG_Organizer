@@ -1,0 +1,10 @@
+ul.navbar{
+    display:flex;
+    background-color: silver;
+    height: 25px;
+}
+
+.navbar__item{
+    flex-basis: 10%;
+    list-style-type: none;
+}
