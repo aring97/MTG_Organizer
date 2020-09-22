@@ -1,0 +1,5115 @@
+{
+  "user": [
+    {
+      "userName": "aring97",
+      "password": "1tat1ger",
+      "name": "Austin Ring",
+      "id": 1
+    },
+    {
+      "userName": "jsmith001",
+      "password": "test",
+      "name": "john smith",
+      "id": 2
+    }
+  ],
+  "cardCashing": [
+    {
+      "name": "Hymn to Tourach",
+      "manaCost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "FEM",
+      "setName": "Fallen Empires",
+      "text": "Target player discards two cards at random.",
+      "flavor": "\"The eerie, wailing Hymn caused insanity even in hardened warriors.\"\n—*Sarpadian Empires, vol. II*",
+      "artist": "Susan Van Camp",
+      "number": "38a",
+      "layout": "normal",
+      "multiverseid": 1850,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1850&type=card",
+      "variations": [
+        "50f88621-1e4b-5bf0-96cf-162610353ba3",
+        "b254a280-2308-5141-a2c9-1c92cc255348",
+        "fa38b87b-b04e-5ab0-a382-f748eb395a7f"
+      ],
+      "rulings": [],
+      "foreignNames": [],
+      "printings": [
+        "ATH",
+        "EMA",
+        "FEM",
+        "ME1",
+        "PRM",
+        "PTC",
+        "V13",
+        "VMA"
+      ],
+      "originalText": "Target player discards two cards at random from his or her hand. If target player does not have enough cards, his or her entire hand is discarded.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Oldschool",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "9c6a4349-e9f7-5ce3-9368-135fa13e325e"
+    },
+    {
+      "name": "Hymn to Tourach",
+      "manaCost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "FEM",
+      "setName": "Fallen Empires",
+      "text": "Target player discards two cards at random.",
+      "flavor": "Knowing the Hymn's power, the followers of Leitbur carefully guarded their pillaged transcriptions.",
+      "artist": "Quinton Hoover",
+      "number": "38c",
+      "layout": "normal",
+      "multiverseid": 1851,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1851&type=card",
+      "variations": [
+        "9c6a4349-e9f7-5ce3-9368-135fa13e325e",
+        "50f88621-1e4b-5bf0-96cf-162610353ba3",
+        "fa38b87b-b04e-5ab0-a382-f748eb395a7f"
+      ],
+      "rulings": [],
+      "foreignNames": [],
+      "printings": [
+        "ATH",
+        "EMA",
+        "FEM",
+        "ME1",
+        "PRM",
+        "PTC",
+        "V13",
+        "VMA"
+      ],
+      "originalText": "Target player discards two cards at random from his or her hand. If target player does not have enough cards, his or her entire hand is discarded.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Oldschool",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "b254a280-2308-5141-a2c9-1c92cc255348"
+    },
+    {
+      "name": "Hymn to Tourach",
+      "manaCost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Uncommon",
+      "set": "ME1",
+      "setName": "Masters Edition",
+      "text": "Target player discards two cards at random.",
+      "flavor": "Knowing the hymn's power, the followers of Leitbur carefully guarded their pillaged transciptions.",
+      "artist": "Quinton Hoover",
+      "number": "73",
+      "layout": "normal",
+      "multiverseid": 159180,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159180&type=card",
+      "rulings": [],
+      "foreignNames": [],
+      "printings": [
+        "ATH",
+        "EMA",
+        "FEM",
+        "ME1",
+        "PRM",
+        "PTC",
+        "V13",
+        "VMA"
+      ],
+      "originalText": "Target player discards two cards at random.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f317c47b-4751-522a-bac9-9a07109d24f1"
+    },
+    {
+      "name": "Invoke Prejudice",
+      "manaCost": "{U}{U}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Enchantment",
+      "supertypes": [],
+      "types": [
+        "Enchantment"
+      ],
+      "subtypes": [],
+      "rarity": "Rare",
+      "set": "LEG",
+      "setName": "Legends",
+      "text": "Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless that player pays {X}, where X is its converted mana cost.",
+      "artist": "Harold McNeill",
+      "number": "62",
+      "layout": "normal",
+      "multiverseid": 485302,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=485302&type=card",
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "In a multi-player game, it affects all opposing players."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "This ability triggers when the spell is cast."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Invoca Pregiudizio",
+          "text": null,
+          "flavor": null,
+          "imageUrl": null,
+          "language": "Italian",
+          "multiverseid": null
+        }
+      ],
+      "printings": [
+        "LEG"
+      ],
+      "originalText": "If opponent casts a Summon spell that does not match the color of one of the creatures under your control, that spell is countered unless the caster pays an additional oX where X is the casting cost of the Summon spell.",
+      "originalType": "Enchantment",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Banned"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Oldschool",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Banned"
+        }
+      ],
+      "id": "81010f20-aa1b-5d1d-8b0b-728f4995fccb"
+    },
+    {
+      "name": "Teferi, Master of Time",
+      "manaCost": "{2}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Legendary Planeswalker — Teferi",
+      "supertypes": [
+        "Legendary"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "subtypes": [
+        "Teferi"
+      ],
+      "rarity": "Mythic",
+      "set": "M21",
+      "setName": "Core Set 2021",
+      "text": "You may activate loyalty abilities of Teferi, Master of Time on any player's turn any time you could cast an instant.\n[+1]: Draw a card, then discard a card.\n[−3]: Target creature you don't control phases out. (Treat it and anything attached to it as though they don't exist until its controller's next turn.)\n[−10]: Take two extra turns after this one.",
+      "artist": "Yongjae Choi",
+      "number": "275",
+      "layout": "normal",
+      "multiverseid": 489165,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=489165&type=card",
+      "loyalty": "3",
+      "variations": [
+        "3929b4f9-b154-5ebf-a778-00d322aa89f9",
+        "ec25c254-7ab1-533e-b1dc-edc1db10666c",
+        "7c50248a-98cf-520b-8573-a3505e49e212",
+        "b417189e-1fbc-5dd8-9132-14c7e027003a",
+        "07dd7463-5e9d-5aaa-a821-76df2a67be0d",
+        "d13288f1-4265-519a-89d9-429c887fed8c",
+        "9e8c671c-aa3c-5b66-8eb1-4e147b324d26",
+        "c7fa281a-c2cd-59cf-a023-c87d2094fb88"
+      ],
+      "rulings": [
+        {
+          "date": "2020-06-23",
+          "text": "Any creatures that phase in during their controller’s untap step will be able to attack and pay a cost of {T} during that turn."
+        },
+        {
+          "date": "2020-06-23",
+          "text": "Teferi’s first ability doesn’t change how many of his abilities you can activate during each turn."
+        },
+        {
+          "date": "2020-06-23",
+          "text": "You draw a card and discard a card all while Teferi’s first loyalty ability is resolving. Nothing can happen between the two, and no player may choose to take actions."
+        },
+        {
+          "date": "2020-06-23",
+          "text": "While a permanent is phased out, it’s treated as though it doesn’t exist. It can’t be the target of spells or abilities, its static abilities have no effect on the game, its triggered abilities can’t trigger, it can’t attack or block, and so on."
+        },
+        {
+          "date": "2020-06-23",
+          "text": "An attacking creature that phases out is removed from combat."
+        },
+        {
+          "date": "2020-06-23",
+          "text": "Phasing out doesn’t cause any “leaves the battlefield” abilities to trigger. Similarly, phasing in won’t cause any “enters the battlefield” abilities to trigger."
+        },
+        {
+          "date": "2020-06-23",
+          "text": "Any one-shot effects that are waiting “until [this] leaves the battlefield,” such as that of Kitesail Freebooter, won’t happen when a permanent phases out."
+        },
+        {
+          "date": "2020-06-23",
+          "text": "Any continuous effects with a “for as long as” duration such as that of Awakener Druid ignore phased-out objects. Any such effects will expire if their conditions are no longer met after ignoring the phased-out objects."
+        },
+        {
+          "date": "2020-06-23",
+          "text": "Each Aura and Equipment attached to a permanent that’s phasing out also phases out. They will phase in with that permanent and still be attached to it. Similarly, permanents that phase out with counters phase in with those counters."
+        },
+        {
+          "date": "2020-06-23",
+          "text": "Choices made for permanents as they entered the battlefield are remembered when they phase in."
+        },
+        {
+          "date": "2020-06-23",
+          "text": "If an opponent gains control of your creature and it phases out and the duration of the control-change effect expires before it phases in, that permanent phases in under your control as that opponent’s next untap step begins. If they leave the game before their next untap step, it phases in as the next untap step begins after their turn would have begun."
+        }
+      ],
+      "foreignNames": [],
+      "printings": [
+        "M21",
+        "PM21"
+      ],
+      "originalText": "You may activate loyalty abilities of Teferi, Master of Time on any player's turn any time you could cast an instant.\n+1: Draw a card, then discard a card.\n−3: Target creature you don't control phases out. (Treat it and anything attached to it as though they don't exist until its controller's next turn.)\n−10: Take two extra turns after this one.",
+      "originalType": "Legendary Planeswalker — Teferi",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "769e0b35-61c0-53bc-815e-bebcd9e57272"
+    },
+    {
+      "name": "Mogg Fanatic",
+      "manaCost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Creature — Goblin",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Goblin"
+      ],
+      "rarity": "Uncommon",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Sacrifice Mogg Fanatic: It deals 1 damage to any target.",
+      "flavor": "\"I got it! I got it! I—\"",
+      "artist": "Brom",
+      "number": "219",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 134748,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=134748&type=card",
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Once Mogg Fanatic has dealt and been dealt combat damage, it’s too late to activate its ability before it’s destroyed."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Fanatischer Mogg",
+          "text": "Opfere den Fanatischen Mogg: Der Fanatischer Mogg fügt einer Kreatur oder einem Spieler deiner Wahl 1 Schadenspunkt zu.",
+          "flavor": "„Ich hab' ihn Ich hab' ihn Ich...\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148601&type=card",
+          "language": "German",
+          "multiverseid": 148601
+        },
+        {
+          "name": "Fanático mogg",
+          "text": "Sacrificar el Fanático mogg: El Fanático mogg hace 1 punto de daño a la criatura o jugador objetivo.",
+          "flavor": "\"¡Lo tengo ¡Lo tengo ¡Lo...\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150535&type=card",
+          "language": "Spanish",
+          "multiverseid": 150535
+        },
+        {
+          "name": "Mogg fanatique",
+          "text": "Sacrifiez le Mogg fanatique : Le Mogg fanatique inflige 1 blessure à une cible, créature ou joueur.",
+          "flavor": "« Je l'ai Je l'ai Je — »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150152&type=card",
+          "language": "French",
+          "multiverseid": 150152
+        },
+        {
+          "name": "Mogg Fanatico",
+          "text": "Sacrifica il Mogg Fanatico: Il Mogg Fanatico infligge 1 danno a una creatura o a un giocatore bersaglio.",
+          "flavor": "\"Ce l'ho \"Ce l'ho Ce. . .\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148984&type=card",
+          "language": "Italian",
+          "multiverseid": 148984
+        },
+        {
+          "name": "モグの狂信者",
+          "text": "モグの狂信者を生け贄に捧げる：クリーチャー１体かプレイヤー１人を対象とする。モグの狂信者はそれに１点のダメージを与える。",
+          "flavor": "やったぞ！ やったぞ！ やっ――",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148218&type=card",
+          "language": "Japanese",
+          "multiverseid": 148218
+        },
+        {
+          "name": "Mogg Fanático",
+          "text": "Sacrifique Mogg Fanático: Mogg Fanático causa 1 ponto de dano à criatura ou ao jogador alvo.",
+          "flavor": "\"Eu peguei Eu peguei Eu—\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149769&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149769
+        },
+        {
+          "name": "Могг-Фанатик",
+          "text": "Пожертвуйте Могга-Фанатика: Могг-Фанатик наносит 1 повреждение целевому существу или игроку.",
+          "flavor": "\"Поймал Поймал Пойма...\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149386&type=card",
+          "language": "Russian",
+          "multiverseid": 149386
+        },
+        {
+          "name": "迷乱莫葛",
+          "text": "牺牲迷乱莫葛：迷乱莫葛对目标生物或牌手造成1点伤害。",
+          "flavor": "「我抓到了！ 我抓到了！ 我～」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147835&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147835
+        }
+      ],
+      "printings": [
+        "10E",
+        "ATH",
+        "DD1",
+        "EMA",
+        "EVG",
+        "F02",
+        "MB1",
+        "PD2",
+        "PG07",
+        "PRM",
+        "TMP",
+        "TPR",
+        "WC98",
+        "WC99"
+      ],
+      "originalText": "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.",
+      "originalType": "Creature - Goblin",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "54d21013-620c-59b7-a0f6-5084d92516fb"
+    },
+    {
+      "name": "Omnispell Adept",
+      "manaCost": "{4}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Human Wizard",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "rarity": "Rare",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "{2}{U}, {T}: You may cast an instant or sorcery spell from your hand without paying its mana cost.",
+      "flavor": "She memorized every arcane text in the Ismeri Library by the time she was sixteen. Now she quizzes sphinxes in her spare time.",
+      "artist": "Jason Rainville",
+      "number": "49",
+      "power": "3",
+      "toughness": "4",
+      "layout": "normal",
+      "multiverseid": 452799,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452799&type=card",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "You may cast a sorcery this way even if it’s not your turn."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If you cast a spell “without paying its mana cost,” you can’t choose to cast it for any alternative costs. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, such as that of Severed Strands, those must be paid to cast the card."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If a spell has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Omnimagische Adeptin",
+          "text": "{2}{U}, {T}: Du kannst eine Spontanzauber- oder Hexerei-Karte aus deiner Hand wirken, ohne ihre Manakosten zu bezahlen.",
+          "flavor": "Bereits im Alter von sechzehn Jahren hatte sie jeden arkanen Text in der Ismeri-Bibliothek auswendig gelernt. Nun fragt sie in ihrer Freizeit die Sphingen ab.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453058&type=card",
+          "language": "German",
+          "multiverseid": 453058
+        },
+        {
+          "name": "Adepta omnihechizo",
+          "text": "{2}{U}, {T}: Puedes lanzar una carta de instantáneo o de conjuro desde tu mano sin pagar su coste de maná.",
+          "flavor": "Con 16 años, ya había memorizado todos los textos arcanos de la Biblioteca Ismeri. Ahora plantea acertijos a las esfinges en su tiempo libre.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453317&type=card",
+          "language": "Spanish",
+          "multiverseid": 453317
+        },
+        {
+          "name": "Experte omnisort",
+          "text": "{2}{U}, {T} : Vous pouvez lancer une carte d'éphémère ou de rituel de votre main sans payer son coût de mana.",
+          "flavor": "À seize ans, elle avait déjà mémorisé tous les textes ésotériques de la Bibliothèque d'Ismeri. Aujourd'hui, elle pose des énigmes aux sphinx pendant son temps libre.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453576&type=card",
+          "language": "French",
+          "multiverseid": 453576
+        },
+        {
+          "name": "Esperta di Omnimagia",
+          "text": "{2}{U}, {T}: Puoi lanciare una carta istantaneo o stregoneria dalla tua mano senza pagare il suo costo di mana.",
+          "flavor": "A sedici anni aveva già memorizzato ogni testo arcano nella biblioteca di Ismeri. Ora passa il tempo libero interrogando le sfingi.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453835&type=card",
+          "language": "Italian",
+          "multiverseid": 453835
+        },
+        {
+          "name": "万呪文の達人",
+          "text": "{2}{U}, {T}：あなたは、あなたの手札からインスタントかソーサリーであるカード１枚を、そのマナ・コストを支払うことなく唱えてもよい。",
+          "flavor": "16歳になるまでにイスメーリ図書館にあった秘儀書をすべて暗記した。今では空き時間にスフィンクスに謎を出題している。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454094&type=card",
+          "language": "Japanese",
+          "multiverseid": 454094
+        },
+        {
+          "name": "주문통달 숙련자",
+          "text": "{2}{U}, {T}: 당신은 당신의 손에서 순간마법 또는 집중마법 카드 한 장을 마나 비용을 지불하지 않고 발동할 수 있다.",
+          "flavor": "그녀는 16세 때 이스미어리 도서관의 모든 비술 장서들을 암기했다. 이제 그녀는 한가할 때 스핑크스들에게 문제를 낸다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454353&type=card",
+          "language": "Korean",
+          "multiverseid": 454353
+        },
+        {
+          "name": "Adepta de Onimagia",
+          "text": "{2}{U}, {T}: Você pode conjurar um card de mágica instantânea ou feitiço da sua mão sem pagar seu custo de mana.",
+          "flavor": "Ela havia memorizado todos os textos arcanos da Biblioteca Ismeri aos 16 anos. Agora, ela propõe enigmas a esfinges nas horas vagas.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454612&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454612
+        },
+        {
+          "name": "Адепт Всеволшебства",
+          "text": "{2}{U}, {T}: вы можете разыграть из вашей руки карту мгновенного заклинания или волшебства без уплаты ее мана-стоимости.",
+          "flavor": "К шестнадцати годам она наизусть знала все тайные тексты из библиотеки Исмери. Сейчас в свободное время ей нравится загадывать загадки сфинксам.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454871&type=card",
+          "language": "Russian",
+          "multiverseid": 454871
+        },
+        {
+          "name": "千咒专家",
+          "text": "{2}{U}，{T}：你可以从你手上施放一张瞬间或法术牌，且不需支付其法术力费用。",
+          "flavor": "她在十六岁时就已将依梅里图书馆内每条秘法咒文倒背如流。如今她在闲暇之余以给史芬斯出题为乐。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455130&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455130
+        },
+        {
+          "name": "千咒專家",
+          "text": "{2}{U}，{T}：你可以從你手上施放一張瞬間或巫術牌，且不需支付其魔法力費用。",
+          "flavor": "她在十六歲時就已將依梅里圖書館內每條秘法咒文倒背如流。如今她在閒暇之餘以給史芬斯出題為樂。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455389&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455389
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "{2}{U}, {T}: You may cast an instant or sorcery card from your hand without paying its mana cost.",
+      "originalType": "Creature — Human Wizard",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "3b3719c6-3b8c-529a-b0f3-75e0c07a018d"
+    },
+    {
+      "name": "Selesnya Guildgate",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "G",
+        "W"
+      ],
+      "type": "Land — Gate",
+      "supertypes": [],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [
+        "Gate"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Selesnya Guildgate enters the battlefield tapped.\n{T}: Add {G} or {W}.",
+      "flavor": "\"We leave our gardens open, so all may know wonder, but guarded, so all may know peace.\"\n—Emmara",
+      "artist": "Dimitar Marinski",
+      "number": "256",
+      "layout": "normal",
+      "multiverseid": 453006,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453006&type=card",
+      "variations": [
+        "c503b134-3dce-5465-b284-1f95260fa4b5"
+      ],
+      "watermark": "selesnya",
+      "rulings": [],
+      "foreignNames": [],
+      "printings": [
+        "C13",
+        "C17",
+        "CMA",
+        "DGM",
+        "GRN",
+        "MM3",
+        "RTR"
+      ],
+      "originalText": "Selesnya Guildgate enters the battlefield tapped.\n{T}: Add {G} or {W}.",
+      "originalType": "Land — Gate",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "9510acef-3e46-5db9-b4e8-188701d12bc5"
+    },
+    {
+      "name": "Watery Grave",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "B",
+        "U"
+      ],
+      "type": "Land — Island Swamp",
+      "supertypes": [],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [
+        "Island",
+        "Swamp"
+      ],
+      "rarity": "Rare",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "({T}: Add {U} or {B}.)\nAs Watery Grave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+      "flavor": "Few believe Duskmantle exists. Fewer find it. None live to bear witness.",
+      "artist": "Cliff Childs",
+      "number": "259",
+      "layout": "normal",
+      "multiverseid": 453009,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453009&type=card",
+      "watermark": "dimir",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "Unlike most dual lands, this land has two basic land types. It’s not basic, so cards such as District Guide can’t find it, but it does have the appropriate land types for effects such as that of Drowned Catacomb (from the Ixalan set)."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If an effect puts this land onto the battlefield tapped, you may pay 2 life, but it still enters tapped."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Nasses Grab",
+          "text": "({T}: Erzeuge {U} oder {B}.)\nSowie das Nasse Grab ins Spiel kommt, kannst du 2 Lebenspunkte bezahlen. Falls du dies nicht tust, kommt es getappt ins Spiel.",
+          "flavor": "Nur wenige glauben, dass die Dämmerhülle existiert. Noch weniger finden sie. Niemand lebt lange genug, um von ihr zu berichten.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453268&type=card",
+          "language": "German",
+          "multiverseid": 453268
+        },
+        {
+          "name": "Tumba inundada",
+          "text": "({T}: Agrega {U} o {B}.)\nEn cuanto la Tumba inundada entre al campo de batalla, puedes pagar 2 vidas. Si no lo haces, entra al campo de batalla girada.",
+          "flavor": "Pocos creen en la existencia de Mantoscuro. Menos aún lo encuentran. Ninguno vive para ser testigo.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453527&type=card",
+          "language": "Spanish",
+          "multiverseid": 453527
+        },
+        {
+          "name": "Tombe aquatique",
+          "text": "({T} : Ajoutez {U} ou {B}.)\nAu moment où la Tombe aquatique arrive sur le champ de bataille, vous pouvez payer 2 points de vie. Si vous ne le faites pas, elle arrive sur le champ de bataille engagée.",
+          "flavor": "Rares sont ceux qui croient à l'existence de Manteaubrune. Ceux qui y accèdent sont encore moins nombreux. Aucun ne vit pour en témoigner.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453786&type=card",
+          "language": "French",
+          "multiverseid": 453786
+        },
+        {
+          "name": "Tomba d'Acqua",
+          "text": "({T}: Aggiungi {U} o {B}.)\nMentre la Tomba d'Acqua entra nel campo di battaglia, puoi pagare 2 punti vita. Se non lo fai, entra nel campo di battaglia TAPpata.",
+          "flavor": "In pochi credono nell'esistenza di Mantoscuro. Sono ancora meno coloro che la trovano. Nessuno sopravvive per raccontarlo.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454045&type=card",
+          "language": "Italian",
+          "multiverseid": 454045
+        },
+        {
+          "name": "湿った墓",
+          "text": "（{T}：{U}か{B}を加える。）\n湿った墓が戦場に出るに際し、あなたは２点のライフを支払ってもよい。そうしないなら、これはタップ状態で戦場に出る。",
+          "flavor": "ダスクマントルの存在を信じる者は少ない。それを見た者はもっと少ない。それを証言する生存者はいない。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454304&type=card",
+          "language": "Japanese",
+          "multiverseid": 454304
+        },
+        {
+          "name": "수몰된 무덤",
+          "text": "({T}: {U} 또는 {B}를 추가한다.)\n수몰된 무덤이 전장에 들어오면서, 당신은 생명 2점을 지불할 수 있다. 그러지 않으면, 수몰된 무덤은 탭된 채로 전장에 들어온다.",
+          "flavor": "아주 소수만이 더스크맨틀이 존재한다고 믿는다. 더 적은 수만이 더스크맨틀을 발견한다. 아무도 살아남아서 이를 증언할 수 없다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454563&type=card",
+          "language": "Korean",
+          "multiverseid": 454563
+        },
+        {
+          "name": "Túmulo Aquático",
+          "text": "({T}: Adicione {U} ou {B}.)\nConforme Túmulo Aquático entra no campo de batalha, você pode pagar 2 pontos de vida. Se não fizer isso, ele entrará no campo de batalha virado.",
+          "flavor": "Poucos creem que o Manto do Crepúsculo exista. Pouquíssimos o encontram. Ninguém vive para contar.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454822&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454822
+        },
+        {
+          "name": "Водная Могила",
+          "text": "({T}: добавьте {U} или {B}.)\nПри выходе Водной Могилы на поле битвы вы можете заплатить 2 жизни. Если вы этого не делаете, она выходит на поле битвы повернутой.",
+          "flavor": "Немногие верят в существование Мантии Сумрака. Еще меньше тех, кто ее находил. И никого не осталось в живых, чтобы рассказать об этом.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455081&type=card",
+          "language": "Russian",
+          "multiverseid": 455081
+        },
+        {
+          "name": "积水墓地",
+          "text": "（{T}：加{U}或{B}。）\n于积水墓地进战场时，你可以支付2点生命。如果你未如此作，则积水墓地须横置进战场。",
+          "flavor": "没什么人相信暮篷存在。亲眼见到者更少。而见到后还能报信的，则一个都没有。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455340&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455340
+        },
+        {
+          "name": "積水墓地",
+          "text": "（{T}：加{U}或{B}。）\n於積水墓地進戰場時，你可以支付2點生命。如果你未如此作，則積水墓地須橫置進戰場。",
+          "flavor": "沒什麼人相信暮篷存在。親眼見到者更少。而見到後還能報信的，則一個都沒有。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455599&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455599
+        }
+      ],
+      "printings": [
+        "EXP",
+        "GRN",
+        "GTC",
+        "PGRN",
+        "PRM",
+        "RAV"
+      ],
+      "originalText": "({T}: Add {U} or {B}.)\nAs Watery Grave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",
+      "originalType": "Land — Island Swamp",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "6595f7ca-cbc1-5d05-a2b9-155a62bb24cf"
+    },
+    {
+      "name": "Blade Instructor",
+      "manaCost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Human Soldier",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)",
+      "flavor": "\"Watch carefully. The gap between death and victory is thinner than your blade.\"",
+      "artist": "Zoltan Boros",
+      "number": "1",
+      "power": "3",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 452751,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452751&type=card",
+      "watermark": "boros",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "Mentor compares the power of the creature with mentor with that of the target creature at two different times: once as the triggered ability is put onto the stack, and once as the triggered ability resolves. If you wish to raise a creature’s power so its mentor ability can target a bigger creature, the last chance you have to do so is during the beginning of combat step."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If the target creature’s power is no longer less than the attacking creature’s power as the ability resolves, mentor doesn’t add a +1/+1 counter. For example, if two 3/3 creatures with mentor attack and both mentor triggers target the same 2/2 creature, the first to resolve puts a +1/+1 counter on it and the second does nothing."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If the creature with mentor leaves the battlefield with mentor on the stack, use its power as that creature last existed on the battlefield to determine whether the target creature has less power."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Klingen-Ausbilderin",
+          "text": "Mentor (Immer wenn diese Kreatur angreift, lege eine +1/+1-Marke auf eine angreifende Kreatur deiner Wahl, deren Stärke niedriger ist.)",
+          "flavor": "„Sei auf der Hut. Der Grat zwischen Sieg und Tod ist schmaler als deine Klinge.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453010&type=card",
+          "language": "German",
+          "multiverseid": 453010
+        },
+        {
+          "name": "Instructora de filos",
+          "text": "Mentor. (Siempre que esta criatura ataque, pon un contador +1/+1 sobre la criatura atacante objetivo con menor fuerza.)",
+          "flavor": "\"Fíjate bien. La línea que separa la muerte de la victoria es más fina que tu espada\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453269&type=card",
+          "language": "Spanish",
+          "multiverseid": 453269
+        },
+        {
+          "name": "Instructrice de lame",
+          "text": "Mentor (À chaque fois que cette créature attaque, mettez un marqueur +1/+1 sur une créature attaquante ciblée de force inférieure.)",
+          "flavor": "« Regardez bien. La différence entre la mort et la victoire est encore plus fine que votre lame. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453528&type=card",
+          "language": "French",
+          "multiverseid": 453528
+        },
+        {
+          "name": "Istruttrice delle Lame",
+          "text": "Mentore (Ogniqualvolta questa creatura attacca, metti un segnalino +1/+1 su una creatura attaccante bersaglio con forza inferiore.)",
+          "flavor": "\"Osservate con attenzione. La differenza tra la morte e la vittoria è più sottile del filo delle vostre lame.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453787&type=card",
+          "language": "Italian",
+          "multiverseid": 453787
+        },
+        {
+          "name": "刃の教官",
+          "text": "教導（このクリーチャーが攻撃するたび、パワーがこれよりも小さい攻撃クリーチャー１体を対象とする。それの上に＋１/＋１カウンターを１個置く。）",
+          "flavor": "「よく見なさい。死と勝利の境目は、あなたの刃よりも薄いのよ。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454046&type=card",
+          "language": "Japanese",
+          "multiverseid": 454046
+        },
+        {
+          "name": "검술 지도관",
+          "text": "지도 (이 생물이 공격할 때마다, 공격력이 더 낮은 공격 중인 생물을 목표로 정한다. 그 생물에 +1/+1 카운터 한 개를 올려놓는다.)",
+          "flavor": "\"자세히 보아라. 죽음과 승리의 간극은 네 칼날보다 얇다.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454305&type=card",
+          "language": "Korean",
+          "multiverseid": 454305
+        },
+        {
+          "name": "Instrutora de Lâminas",
+          "text": "Mentor (Toda vez que esta criatura atacar, coloque um marcador +1/+1 na criatura atacante alvo com poder inferior.)",
+          "flavor": "\"Tome cuidado. A distância entre a morte e a vitória é menor que a espessura de sua lâmina.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454564&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454564
+        },
+        {
+          "name": "Инструктор-Мечник",
+          "text": "Наставник (Каждый раз, когда это существо атакует, положите один жетон +1/+1 на целевое атакующее существо с меньшим значением силы.)",
+          "flavor": "«Смотри внимательно. Между смертью и победой расстояние меньше, чем длина твоего клинка».",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454823&type=card",
+          "language": "Russian",
+          "multiverseid": 454823
+        },
+        {
+          "name": "舞剑教官",
+          "text": "训导（每当此生物攻击时，在目标进行攻击且力量小于它的生物上放置一个+1/+1指示物。）",
+          "flavor": "「看仔细了。丧命与获胜之间的距离，比剑刃还窄。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455082&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455082
+        },
+        {
+          "name": "舞劍教官",
+          "text": "訓導（每當此生物攻擊時，在目標進行攻擊且力量小於它的生物上放置一個+1/+1指示物。）",
+          "flavor": "「看仔細了。喪命與獲勝之間的距離，比劍刃還窄。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455341&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455341
+        }
+      ],
+      "printings": [
+        "GRN",
+        "MB1"
+      ],
+      "originalText": "Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)",
+      "originalType": "Creature — Human Soldier",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "a6eaddd5-7be0-52ab-9bf7-f943d33b3141"
+    },
+    {
+      "name": "Gatekeeper Gargoyle",
+      "manaCost": "{6}",
+      "cmc": 6,
+      "colors": [],
+      "colorIdentity": [],
+      "type": "Artifact Creature — Gargoyle",
+      "supertypes": [],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Gargoyle"
+      ],
+      "rarity": "Uncommon",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Flying\nGatekeeper Gargoyle enters the battlefield with a +1/+1 counter on it for each Gate you control.",
+      "flavor": "Each night it visits a different guildgate around the city, digging its talons into fresh stone.",
+      "artist": "Adam Paquette",
+      "number": "235",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 452985,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452985&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Torwächter-Gargoyle",
+          "text": "Fliegend\nDer Torwächter-Gargoyle kommt für jedes Tor, das du kontrollierst, mit einer +1/+1-Marke ins Spiel.",
+          "flavor": "Jede Nacht besucht er einen anderen Gildeneingang der Stadt und gräbt seine Klauen in frischen Stein.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453244&type=card",
+          "language": "German",
+          "multiverseid": 453244
+        },
+        {
+          "name": "Gárgola guardiana",
+          "text": "Vuela.\nLa Gárgola guardiana entra al campo de batalla con un contador +1/+1 sobre ella por cada Portal que controlas.",
+          "flavor": "Cada noche, visita el Portal de un gremio distinto de la ciudad y clava sus garras en la fría roca.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453503&type=card",
+          "language": "Spanish",
+          "multiverseid": 453503
+        },
+        {
+          "name": "Gargouille gardienne de la porte",
+          "text": "Vol\nLa Gargouille gardienne de la porte arrive sur le champ de bataille avec, sur elle, un marqueur +1/+1 pour chaque porte que vous contrôlez.",
+          "flavor": "Chaque nuit, elle se rend sur une porte de guilde différente dans la ville, plantant ses serres dans de la pierre fraîche.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453762&type=card",
+          "language": "French",
+          "multiverseid": 453762
+        },
+        {
+          "name": "Gargoyle Guardacancelli",
+          "text": "Volare\nIl Gargoyle Guardacancelli entra nel campo di battaglia con un segnalino +1/+1 per ogni Cancello che controlli.",
+          "flavor": "Ogni notte visita il cancello di una gilda diversa, affondando gli artigli nella pietra intonsa.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454021&type=card",
+          "language": "Italian",
+          "multiverseid": 454021
+        },
+        {
+          "name": "門番のガーゴイル",
+          "text": "飛行\n門番のガーゴイルは、あなたがコントロールしている門１つにつき＋１/＋１カウンターが１個置かれた状態で戦場に出る。",
+          "flavor": "毎晩、都市にあるギルド門のうち別の一箇所を訪れては、新しい石に鉤爪を立てる。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454280&type=card",
+          "language": "Japanese",
+          "multiverseid": 454280
+        },
+        {
+          "name": "문지기 가고일",
+          "text": "비행\n문지기 가고일은 당신이 조종하는 관문 한 개당 +1/+1 카운터 한 개를 가지고 전장에 들어온다.",
+          "flavor": "그것은 매일 밤마다 도시의 서로 다른 길드관문을 찾아가, 새로 놓인 바위를 발톱으로 후벼판다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454539&type=card",
+          "language": "Korean",
+          "multiverseid": 454539
+        },
+        {
+          "name": "Gárgula Porteira",
+          "text": "Voar\nGárgula Porteira entra no campo de batalha com um marcador +1/+1 para cada Portão que você controla.",
+          "flavor": "A cada noite ela visita um portão de guilda diferente, cravando seus gadanhos na pedra nua.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454798&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454798
+        },
+        {
+          "name": "Горгулья-Привратник",
+          "text": "Полет\nГоргулья-Привратник выходит на поле битвы с одним жетоном +1/+1 на ней за каждые Врата под вашим контролем.",
+          "flavor": "Каждую ночь она пересаживается на врата следующей городской гильдии, впиваясь когтями в еще целые камни.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455057&type=card",
+          "language": "Russian",
+          "multiverseid": 455057
+        },
+        {
+          "name": "石像鬼门卫",
+          "text": "飞行\n石像鬼门卫进战场时上面有数个+1/+1指示物，其数量为由你操控的门数量。",
+          "flavor": "它每晚都会前往城内不同的公会门，在此前从未停留过的石块上歇脚。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455316&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455316
+        },
+        {
+          "name": "石像鬼門衛",
+          "text": "飛行\n石像鬼門衛進戰場時上面有數個+1/+1指示物，其數量為由你操控的門數量。",
+          "flavor": "它每晚都會前往城內不同的公會門，在此前從未停留過的石塊上歇腳。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455575&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455575
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Flying\nGatekeeper Gargoyle enters the battlefield with a +1/+1 counter on it for each Gate you control.",
+      "originalType": "Artifact Creature — Gargoyle",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "de2d1a04-0284-56e5-96e0-9243d97967b8"
+    },
+    {
+      "name": "Fresh-Faced Recruit",
+      "manaCost": "{1}{R/W}",
+      "cmc": 2,
+      "colors": [
+        "Red",
+        "White"
+      ],
+      "colorIdentity": [
+        "R",
+        "W"
+      ],
+      "type": "Creature — Human Soldier",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "As long as it's your turn, Fresh-Faced Recruit has first strike.",
+      "flavor": "\"Hold on to your ideals. They'll be tested more than your armor or the edge of your blade.\"\n—Tajic",
+      "artist": "Anthony Palumbo",
+      "number": "216",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 452966,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452966&type=card",
+      "watermark": "boros",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Junger Rekrut",
+          "text": "Solange es dein Zug ist, hat der Junge Rekrut Erstschlag.",
+          "flavor": "„Halte an deinen Idealen fest. Sie werden noch stärker auf die Probe gestellt als deine Rüstung.\"\n—Tajic",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453225&type=card",
+          "language": "German",
+          "multiverseid": 453225
+        },
+        {
+          "name": "Recluta novato",
+          "text": "Mientras sea tu turno, el Recluta novato tiene la habilidad de dañar primero.",
+          "flavor": "\"Aférrate a tus ideales. Serán puestos a prueba más que tu armadura y que el filo de tu espada\".\n—Tájic",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453484&type=card",
+          "language": "Spanish",
+          "multiverseid": 453484
+        },
+        {
+          "name": "Recrue au teint frais",
+          "text": "Tant que c'est votre tour, la Recrue au teint frais a l'initiative.",
+          "flavor": "« Accrochez-vous à vos idéaux. Ils seront mis à l'épreuve plus durement que votre armure ou le tranchant de votre épée. »\n—Tajic",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453743&type=card",
+          "language": "French",
+          "multiverseid": 453743
+        },
+        {
+          "name": "Recluta Imberbe",
+          "text": "Fintanto che è il tuo turno, la Recluta Imberbe ha attacco improvviso.",
+          "flavor": "\"Tieniti stretti i tuoi ideali. Saranno messi a dura prova, più della tua armatura o del filo della tua spada.\"\n—Tajic",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454002&type=card",
+          "language": "Italian",
+          "multiverseid": 454002
+        },
+        {
+          "name": "初々しい補充兵",
+          "text": "あなたのターンであるかぎり、初々しい補充兵は先制攻撃を持つ。",
+          "flavor": "「理想を持ち続けるんだ。鎧や剣よりも、それが試されることになる。」\n――タージク",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454261&type=card",
+          "language": "Japanese",
+          "multiverseid": 454261
+        },
+        {
+          "name": "홍안의 신병",
+          "text": "당신의 턴인 한, 홍안의 신병은 선제공격을 가진다.",
+          "flavor": "\"네 이상을 놓지 말아라. 네 갑옷이나 칼날보다 그것이 더 시험을 받게 될 거다.\"\n—타직",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454520&type=card",
+          "language": "Korean",
+          "multiverseid": 454520
+        },
+        {
+          "name": "Recruta Novato",
+          "text": "Enquanto for o seu turno, Recruta Novato terá iniciativa.",
+          "flavor": "\"Seja fiel aos seus ideais. Eles serão mais testados que sua armadura ou o fio de sua lâmina.\"\n— Tajic",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454779&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454779
+        },
+        {
+          "name": "Безусый Новобранец",
+          "text": "Пока длится ваш ход, Безусый Новобранец имеет Первый удар.",
+          "flavor": "«Держись своих идеалов. Их ждет испытание куда суровее, чем броню и клинок твоего меча».\n— Тажик",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455038&type=card",
+          "language": "Russian",
+          "multiverseid": 455038
+        },
+        {
+          "name": "稚嫩新兵",
+          "text": "只要是在你的回合中，稚嫩新兵便具有先攻异能。",
+          "flavor": "「请始终坚持心中理念。行伍一生当中，它要比身上盔甲或手中利剑经受更多考验。」\n～塔疾克",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455297&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455297
+        },
+        {
+          "name": "稚嫩新兵",
+          "text": "只要是在你的回合中，稚嫩新兵便具有先攻異能。",
+          "flavor": "「請始終堅持心中理念。行伍一生當中，它要比身上盔甲或手中利劍經受更多考驗。」\n～塔疾克",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455556&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455556
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "As long as it's your turn, Fresh-Faced Recruit has first strike.",
+      "originalType": "Creature — Human Soldier",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "41fc6530-ee14-5631-89d7-32b03e060408"
+    },
+    {
+      "name": "Generous Stray",
+      "manaCost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "G"
+      ],
+      "type": "Creature — Cat",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Cat"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "When Generous Stray enters the battlefield, draw a card.",
+      "flavor": "Cats place their gifts with care, so that a bare foot will step on them in the middle of the night.",
+      "artist": "Milivoj Ćeran",
+      "number": "129",
+      "power": "1",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 452879,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452879&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Spendabler Streuner",
+          "text": "Wenn der Spendable Streuner ins Spiel kommt, ziehe eine Karte.",
+          "flavor": "Katzen platzieren ihre Geschenke sorgsam, sodass man sie nachts mit den nackten Füßen findet.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453138&type=card",
+          "language": "German",
+          "multiverseid": 453138
+        },
+        {
+          "name": "Minino generoso",
+          "text": "Cuando el Minino generoso entre al campo de batalla, roba una carta.",
+          "flavor": "Los gatos colocan sus regalos con cuidado para que un pie descalzo los pise en mitad de la noche.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453397&type=card",
+          "language": "Spanish",
+          "multiverseid": 453397
+        },
+        {
+          "name": "Chat de gouttière généreux",
+          "text": "Quand le Chat de gouttière généreux arrive sur le champ de bataille, piochez une carte.",
+          "flavor": "Les chats déposent leurs cadeaux avec soin, pour qu'un pied nu marche dessus au milieu de la nuit.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453656&type=card",
+          "language": "French",
+          "multiverseid": 453656
+        },
+        {
+          "name": "Randagio Generoso",
+          "text": "Quando il Randagio Generoso entra nel campo di battaglia, pesca una carta.",
+          "flavor": "I gatti studiano con cura dove deporre i loro doni, in modo che un piede scalzo li calpesti nel cuore della notte.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453915&type=card",
+          "language": "Italian",
+          "multiverseid": 453915
+        },
+        {
+          "name": "気前のいい野良猫",
+          "text": "気前のいい野良猫が戦場に出たとき、カードを１枚引く。",
+          "flavor": "猫は丁寧に贈り物を置く。真夜中に裸足でそれを踏みつけるように。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454174&type=card",
+          "language": "Japanese",
+          "multiverseid": 454174
+        },
+        {
+          "name": "관대한 떠돌이",
+          "text": "관대한 떠돌이가 전장에 들어올 때, 카드 한 장을 뽑는다.",
+          "flavor": "고양이들은 그들의 선물을 조심스럽게 놓아 두어, 한밤중에 맨발로 그것을 밟게 만든다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454433&type=card",
+          "language": "Korean",
+          "multiverseid": 454433
+        },
+        {
+          "name": "Vira-lata Generoso",
+          "text": "Quando Vira-lata Generoso entrar no campo de batalha, compre um card.",
+          "flavor": "Os gatos colocam seus presentes com cuidado, para que um pé descalço pise neles no meio da noite.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454692&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454692
+        },
+        {
+          "name": "Щедрый Бродяга",
+          "text": "Когда Щедрый Бродяга выходит на поле битвы, возьмите карту.",
+          "flavor": "Кошки очень старательно раскладывают свои дары — так, чтобы посредине ночи на них удобнее всего было наступить голой ногой.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454951&type=card",
+          "language": "Russian",
+          "multiverseid": 454951
+        },
+        {
+          "name": "高贵野猫",
+          "text": "当高贵野猫进战场时，抓一张牌。",
+          "flavor": "猫会精心摆放自己的礼物，好让打⾚脚的⼈在深夜踩个正着。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455210&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455210
+        },
+        {
+          "name": "高貴野貓",
+          "text": "當高貴野貓進戰場時，抽一張牌。",
+          "flavor": "貓會精心擺放自己的禮物，好讓打赤腳的人在深夜踩個正著。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455469&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455469
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "When Generous Stray enters the battlefield, draw a card.",
+      "originalType": "Creature — Cat",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "4add5329-c510-5e0a-940f-466e0541806e"
+    },
+    {
+      "name": "Wee Dragonauts",
+      "manaCost": "{1}{U}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "R",
+        "U"
+      ],
+      "type": "Creature — Faerie Wizard",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Faerie",
+        "Wizard"
+      ],
+      "rarity": "Uncommon",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Flying\nWhenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.",
+      "flavor": "\"Something's causing electrospheric disruption in the blazekite's spire-vanes. Find the cause, and tell them to keep it up!\"\n—Juzba, Izzet tinker",
+      "artist": "Greg Staples",
+      "number": "214",
+      "power": "1",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 452964,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452964&type=card",
+      "watermark": "izzet",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "Wee Dragonauts’s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Winzige Dragonauten",
+          "text": "Fliegend\nImmer wenn du einen Spontanzauber oder eine Hexerei wirkst, erhalten die Winzigen Dragonauten +2/+0 bis zum Ende des Zuges.",
+          "flavor": "„Etwas verursacht elektrosphärische Unterbrechungen in der Gitterleitung des Blitzdrachen. Findet die Ursache und sagt ihnen, sie sollen weitermachen!\"\n—Juzba, Izzet-Bastler",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453223&type=card",
+          "language": "German",
+          "multiverseid": 453223
+        },
+        {
+          "name": "Dragonautas diminutos",
+          "text": "Vuela.\nSiempre que lances un hechizo de instantáneo o de conjuro, los Dragonautas diminutos obtienen +2/+0 hasta el final del turno.",
+          "flavor": "\"Hay algo que provoca una disrupción electroesférica en las aspas de la cometa llameante. ¡Encuentra la causa y dile que siga así!\".\n—Juzba, hojalatero ízzet",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453482&type=card",
+          "language": "Spanish",
+          "multiverseid": 453482
+        },
+        {
+          "name": "Mini dragonautes",
+          "text": "Vol\nÀ chaque fois que vous lancez un sort d'éphémère ou de rituel, les Mini dragonautes gagnent +2/+0 jusqu'à la fin du tour.",
+          "flavor": "« Il y a une perturbation électrosphérique dans les flèches des girouettes des électro-cerfs-volants. Trouvez le responsable, et dites-lui de continuer comme ça ! »\n—Juzba, rétameur d'Izzet",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453741&type=card",
+          "language": "French",
+          "multiverseid": 453741
+        },
+        {
+          "name": "Dragonauti in Miniatura",
+          "text": "Volare\nOgniqualvolta lanci una magia istantaneo o stregoneria, i Dragonauti in Miniatura prendono +2/+0 fino alla fine del turno.",
+          "flavor": "\"Qualcosa sta producendo perturbazioni elettrosferiche nelle banderuole apicali dello sfavillone. Trovate chi le sta causando e ditegli di continuare così!\"\n—Juzba, riparatore Izzet",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454000&type=card",
+          "language": "Italian",
+          "multiverseid": 454000
+        },
+        {
+          "name": "小柄な竜装者",
+          "text": "飛行\nあなたがインスタントかソーサリーである呪文を唱えるたび、ターン終了時まで、小柄な竜装者は＋２/＋０の修整を受ける。",
+          "flavor": "「何らかの理由により、猛火凧の尖翼で電気球崩壊が生じている。原因を見つけ出し、そいつにはそのまま続けるように言え！」\n――イゼットの修繕士、ジュズバ",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454259&type=card",
+          "language": "Japanese",
+          "multiverseid": 454259
+        },
+        {
+          "name": "소형 용비행사",
+          "text": "비행\n당신이 순간마법 또는 집중마법 주문을 발동할 때마다, 소형 용비행사는 턴종료까지 +2/+0을 받는다.",
+          "flavor": "\"무엇인가가 불길연의 나선형 날개에 전기구체 분열을 일으키고 있군. 원인을 찾아내서, 계속하라고 말해 주게!\"\n—이젯 발명가, 주즈바",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454518&type=card",
+          "language": "Korean",
+          "multiverseid": 454518
+        },
+        {
+          "name": "Dragonautas Minúsculos",
+          "text": "Voar\nToda vez que você conjura uma mágica instantânea ou feitiço, Dragonautas Minúsculos recebe +2/+0 até o final do turno.",
+          "flavor": "\"Alguma coisa está causando disrupção eletrosférica nas espirogrimpas da pipa-labareda. Descubra os responsáveis e diga para continuarem!\"\n— Juzba, latoeiro Izzet",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454777&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454777
+        },
+        {
+          "name": "Крохотные Драгонавты",
+          "text": "Полет\nКаждый раз, когда вы разыгрываете мгновенное заклинание или заклинание волшебства, Крохотные Драгонавты получают +2/+0 до конца хода.",
+          "flavor": "«Что-то вызывает электросферные возмущения во флюгерных стержнях электрозмея. Найдите причину — и скажите им, чтобы не останавливались!»\n— Юзба, механик Иззетов",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455036&type=card",
+          "language": "Russian",
+          "multiverseid": 455036
+        },
+        {
+          "name": "袖珍龙航师",
+          "text": "飞行\n每当你施放瞬间或法术咒语时，袖珍龙航师得+2/+0直到回合结束。",
+          "flavor": "「有东西导致火焰风筝螺旋叶上的电子层受到干扰。找出原因，让他们再加把劲！」\n～伊捷修补匠裘巴",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455295&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455295
+        },
+        {
+          "name": "袖珍龍航師",
+          "text": "飛行\n每當你施放瞬間或巫術咒語時，袖珍龍航師得+2/+0直到回合結束。",
+          "flavor": "「有東西導致火焰風箏螺旋葉上的電子層受到干擾。找出原因，讓他們再加把勁！」\n～伊捷修補匠裘巴",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455554&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455554
+        }
+      ],
+      "printings": [
+        "DDJ",
+        "EMA",
+        "GPT",
+        "GRN",
+        "MB1",
+        "PAL06",
+        "PRM"
+      ],
+      "originalText": "Flying\nWhenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.",
+      "originalType": "Creature — Faerie Wizard",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "fa5d85f4-0f8a-5e2c-9d2a-6c40fbfbdea5"
+    },
+    {
+      "name": "Hellkite Whelp",
+      "manaCost": "{4}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Creature — Dragon",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Flying\nWhenever Hellkite Whelp attacks, it deals 1 damage to target creature defending player controls.",
+      "flavor": "\"They play by spitting fire at each other. Don't be offended if one gives you a love-scorch.\"\n—Esfir, Rakdos dragon wrangler",
+      "artist": "Johann Bodin",
+      "number": "106",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 452856,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452856&type=card",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "If a creature attacks a planeswalker, that planeswalker’s controller is the defending player."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "In a Two-Headed Giant game, Hellkite Whelp’s triggered ability can target only a creature controlled by the player it’s attacking. It can’t target a creature controlled by that player’s teammate."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Höllendrachen-Welpe",
+          "text": "Fliegend\nImmer wenn der Höllendrachen-Welpe angreift, fügt er einer Kreatur deiner Wahl, die der verteidigende Spieler kontrolliert, 1 Schadenspunkt zu.",
+          "flavor": "„Sie bespucken sich spielerisch mit Feuer. Brandnarben sind also Zeugnis ihrer Zuneigung.\"\n—Esfir, Rakdos-Drachenzähmerin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453115&type=card",
+          "language": "German",
+          "multiverseid": 453115
+        },
+        {
+          "name": "Cachorro de engendro",
+          "text": "Vuela.\nSiempre que el Cachorro de engendro ataque, hace 1 punto de daño a la criatura objetivo que controla el jugador defensor.",
+          "flavor": "\"Juegan lanzándose llamaradas los unos a los otros. No te ofendas si alguno te chamusca, solo está siendo cariñoso\".\n—Esfir, domadora de dragones rakdos",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453374&type=card",
+          "language": "Spanish",
+          "multiverseid": 453374
+        },
+        {
+          "name": "Dragonnet escouflenfer",
+          "text": "Vol\nÀ chaque fois que le Dragonnet escouflenfer attaque, il inflige 1 blessure à une créature ciblée que le joueur défenseur contrôle.",
+          "flavor": "« Ils se crachent du feu les uns sur les autres pour s'amuser. Ne vous offusquez pas si l'un d'eux vous brûle légèrement en signe d'affection. »\n—Esfir, dompteuse de dragon Rakdos",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453633&type=card",
+          "language": "French",
+          "multiverseid": 453633
+        },
+        {
+          "name": "Piccolo di Nibbio Infernale",
+          "text": "Volare\nOgniqualvolta il Piccolo di Nibbio Infernale attacca, infligge 1 danno a una creatura bersaglio controllata dal giocatore in difesa.",
+          "flavor": "\"Giocano sputandosi fuoco addosso a vicenda. Non offenderti se ti danno una bruciatina affettuosa.\"\n—Esfir, domatrice di draghi Rakdos",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453892&type=card",
+          "language": "Italian",
+          "multiverseid": 453892
+        },
+        {
+          "name": "ヘルカイトの仔",
+          "text": "飛行\nヘルカイトの仔が攻撃するたび、防御プレイヤーがコントロールしているクリーチャー１体を対象とする。これはそれに１点のダメージを与える。",
+          "flavor": "「あの子たちは互いに火を吐いて遊ぶの。愛の焦げをもらっても、気を悪くしないでね。」\n――ラクドスのドラゴン番、エスフィール",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454151&type=card",
+          "language": "Japanese",
+          "multiverseid": 454151
+        },
+        {
+          "name": "새끼 지옥룡",
+          "text": "비행\n새끼 지옥룡이 공격할 때마다, 수비플레이어가 조종하는 생물을 목표로 정한다. 새끼 지옥룡은 그 목표에게 피해 1점을 입힌다.",
+          "flavor": "\"저 녀석들은 서로에게 불길을 토하며 놀지. 한 녀석이 널 홀랑 태워 놓아도 너무 마음 상하진 마, 애정 표현이니까.\"\n—락도스 용 조련사, 에스피르",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454410&type=card",
+          "language": "Korean",
+          "multiverseid": 454410
+        },
+        {
+          "name": "Filhote de Dragão Avérneo",
+          "text": "Voar\nToda vez que Filhote de Dragão Avérneo ataca, ele causa 1 ponto de dano à criatura alvo que o jogador defensor controla.",
+          "flavor": "\"Eles brincam de cuspir fogo uns nos outros. Não se ofenda se ele te der uma flambadinha afetuosa.\"\n— Esfir, peão de dragões Rakdos",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454669&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454669
+        },
+        {
+          "name": "Детеныш Огненного Змея",
+          "text": "Полет\nКаждый раз, когда Детеныш Огненного Змея атакует, он наносит 1 повреждение целевому существу под контролем защищающегося игрока.",
+          "flavor": "«Они плюются огнем друг в друга — это у них такая игра. Не обижайся, если они тебе от большой любви оставят ожоги».\n— Эсфирь, объездчица драконов Ракдосов",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454928&type=card",
+          "language": "Russian",
+          "multiverseid": 454928
+        },
+        {
+          "name": "残虐者幼龙",
+          "text": "飞行\n每当残虐者幼龙攻击时，它对目标由防御牌手操控的生物造成1点伤害。",
+          "flavor": "「它们平时就会相互吐火嬉闹。如果哪天有条龙向你喷出爱的火焰，可别觉得它恨你。」\n～拉铎司训龙师艾丝菲",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455187&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455187
+        },
+        {
+          "name": "殘虐者幼龍",
+          "text": "飛行\n每當殘虐者幼龍攻擊時，它對目標由防禦玩家操控的生物造成1點傷害。",
+          "flavor": "「牠們平時就會相互吐火嬉鬧。如果哪天有條龍向你噴出愛的火焰，可別覺得牠恨你。」\n～拉鐸司訓龍師艾絲菲",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455446&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455446
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Flying\nWhenever Hellkite Whelp attacks, it deals 1 damage to target creature defending player controls.",
+      "originalType": "Creature — Dragon",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "bbfeb69e-f89a-5ded-a14d-c9449f548eb5"
+    },
+    {
+      "name": "Rubblebelt Boar",
+      "manaCost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Creature — Boar",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Boar"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "When Rubblebelt Boar enters the battlefield, target creature gets +2/+0 until end of turn.",
+      "flavor": "Some Gruul druids believe that boars are spawn of the great Ilharg, the mighty Raze-Boar who will one day rise and level the city.",
+      "artist": "Tomasz Jedruszek",
+      "number": "114",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 452864,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452864&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Geröllstreifen-Wildschwein",
+          "text": "Wenn das Geröllstreifen-Wildschwein ins Spiel kommt, erhält eine Kreatur deiner Wahl +2/+0 bis zum Ende des Zuges.",
+          "flavor": "Manche Gruul-Druiden glauben, dass Wildschweine Sprösslinge vom großen Ilharg sind, dem Keiler der Vernichtung, der eines Tages kommen und die Stadt dem Erdboden gleichmachen wird.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453123&type=card",
+          "language": "German",
+          "multiverseid": 453123
+        },
+        {
+          "name": "Jabalí de Barrioescombros",
+          "text": "Cuando el Jabalí de Barrioescombros entre al campo de batalla, la criatura objetivo obtiene +2/+0 hasta el final del turno.",
+          "flavor": "Algunos druidas gruul creen que los jabalíes son engendros del gran Ilharg, el poderoso Jabalí Arrasador que algún día se alzará y aplastará la ciudad.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453382&type=card",
+          "language": "Spanish",
+          "multiverseid": 453382
+        },
+        {
+          "name": "Sanglier des Éboulis",
+          "text": "Quand le Sanglier des Éboulis arrive sur le champ de bataille, la créature ciblée gagne +2/+0 jusqu'à la fin du tour.",
+          "flavor": "Certains druides de Gruul croient que les sangliers sont les enfants du grand Ilharg, le puissant Sanglier terrasseur qui s'élèvera un jour et rasera la ville.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453641&type=card",
+          "language": "French",
+          "multiverseid": 453641
+        },
+        {
+          "name": "Cinghiale della Zona di Macerie",
+          "text": "Quando il Cinghiale della Zona di Macerie entra nel campo di battaglia, una creatura bersaglio prende +2/+0 fino alla fine del turno.",
+          "flavor": "Alcuni druidi dei Gruul credono che i cinghiali siano la progenie del grande Ilharg, il possente cinghiale devastatore che un giorno sorgerà per radere al suolo la città.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453900&type=card",
+          "language": "Italian",
+          "multiverseid": 453900
+        },
+        {
+          "name": "瓦礫帯の猪",
+          "text": "瓦礫帯の猪が戦場に出たとき、クリーチャー１体を対象とする。ターン終了時まで、それは＋２/＋０の修整を受ける。",
+          "flavor": "グルールのドルイドの中には、猪は偉大なるイルハグの落とし子であると信じる者もいる。イルハグは猪の祟神で、いつか起き上がり都市を破壊するというのだ。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454159&type=card",
+          "language": "Japanese",
+          "multiverseid": 454159
+        },
+        {
+          "name": "폐허지구 멧돼지",
+          "text": "폐허지구 멧돼지가 전장에 들어올 때, 생물을 목표로 정한다. 그 생물은 턴종료까지 +2/+0을 받는다.",
+          "flavor": "그룰 드루이드 중 몇몇은 멧돼지들이 도시를 초토화시키기 위해 언젠가 부활할 강력한 멧돼지인 위대한 일하르그의 자손들이라고 믿는다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454418&type=card",
+          "language": "Korean",
+          "multiverseid": 454418
+        },
+        {
+          "name": "Javali da Faixa de Escombros",
+          "text": "Quando Javali da Faixa de Escombros entra no campo de batalha, a criatura alvo recebe +2/+0 até o final do turno.",
+          "flavor": "Alguns druidas Gruul acreditam que os javalis são prole do grande Ilharg, o poderoso Javali Arrasador que um dia surgirá e demolirá a cidade.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454677&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454677
+        },
+        {
+          "name": "Вепрь Кольца Руин",
+          "text": "Когда Вепрь Кольца Руин выходит на поле битвы, целевое существо получает +2/+0 до конца хода.",
+          "flavor": "Некоторые груульские друиды верят, что эти вепри — потомки великого Вепря-Разрушителя Ильхарга, который однажды воскреснет и сровняет город с землей.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454936&type=card",
+          "language": "Russian",
+          "multiverseid": 454936
+        },
+        {
+          "name": "瓦砾区野猪",
+          "text": "当瓦砾区野猪进战场时，目标生物得+2/+0直到回合结束。",
+          "flavor": "某些古鲁的德鲁伊相信，野猪都是伟大的衣哈格留下的后代，并且这位强大的蛮野猪神总有一天会崛起并夷平整座城市。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455195&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455195
+        },
+        {
+          "name": "瓦礫區野豬",
+          "text": "當瓦礫區野豬進戰場時，目標生物得+2/+0直到回合結束。",
+          "flavor": "某些古魯的德魯伊相信，野豬都是偉大的衣哈格留下的後代，並且這位強大的蠻野豬神總有一天會崛起並夷平整座城市。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455454&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455454
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "When Rubblebelt Boar enters the battlefield, target creature gets +2/+0 until end of turn.",
+      "originalType": "Creature — Boar",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "d170698f-8b3c-5826-a562-e34bcf7bdec4"
+    },
+    {
+      "name": "Direct Current",
+      "manaCost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Direct Current deals 2 damage to any target.\nJump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",
+      "artist": "Dan Scott",
+      "number": "96",
+      "layout": "normal",
+      "multiverseid": 452846,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452846&type=card",
+      "watermark": "izzet",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "You must still follow any timing restrictions and permissions, including those based on the card’s type. For instance, you can cast a sorcery using jump-start only when you could normally cast a sorcery."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "A spell cast using jump-start will always be exiled afterward, whether it resolves, it’s countered, or it leaves the stack in some other way."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If an effect allows you to pay an alternative cost rather than a spell’s mana cost, you may pay that alternative cost when you jump-start a spell. You’ll still discard a card as an additional cost to cast it."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If a card with jump-start is put into your graveyard during your turn, you’ll be able to cast it right away if it’s legal to do so, before an opponent can take any actions."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Stromschlag",
+          "text": "Der Stromschlag fügt einem Ziel deiner Wahl 2 Schadenspunkte zu.\nKatalyse (Du kannst diese Karte aus deinem Friedhof wirken, indem du zusätzlich zu ihren anderen Kosten eine Karte abwirfst. Schicke sie danach ins Exil.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453105&type=card",
+          "language": "German",
+          "multiverseid": 453105
+        },
+        {
+          "name": "Corriente directa",
+          "text": "La Corriente directa hace 2 puntos de daño a cualquier objetivo.\nRecargar. (Puedes lanzar esta carta desde tu cementerio descartando una carta además de pagar sus otros costes. Luego, exilia esta carta.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453364&type=card",
+          "language": "Spanish",
+          "multiverseid": 453364
+        },
+        {
+          "name": "Courant continu",
+          "text": "Le Courant continu inflige 2 blessures à n'importe quelle cible.\nRelancez (Vous pouvez lancer cette carte depuis votre cimetière en vous défaussant d'une carte en plus de payer ses autres coûts. Puis exilez cette carte.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453623&type=card",
+          "language": "French",
+          "multiverseid": 453623
+        },
+        {
+          "name": "Corrente Continua",
+          "text": "La Corrente Continua infligge 2 danni a un qualsiasi bersaglio.\nCarica d'avvio (Puoi lanciare questa carta dal tuo cimitero scartando una carta oltre a pagare i suoi altri costi. Poi esilia questa carta.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453882&type=card",
+          "language": "Italian",
+          "multiverseid": 453882
+        },
+        {
+          "name": "直流",
+          "text": "クリーチャー１体かプレインズウォーカー１体かプレイヤー１人を対象とする。直流はそれに２点のダメージを与える。\n再活（あなたはあなたの墓地から、このカードを、これの他のコストの支払いに加えてカード１枚を捨てることで唱えてもよい。その後、このカードを追放する。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454141&type=card",
+          "language": "Japanese",
+          "multiverseid": 454141
+        },
+        {
+          "name": "직류",
+          "text": "원하는 목표를 정한다. 직류는 그 목표에게 피해 2점을 입힌다.\n강제 시동 (당신은 이 카드의 다른 비용들을 지불하는 것에 추가로 카드를 한 장 버리는 것으로 이 카드를 당신의 무덤에서 발동할 수 있다. 그 후 이 카드를 추방한다.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454400&type=card",
+          "language": "Korean",
+          "multiverseid": 454400
+        },
+        {
+          "name": "Corrente Direta",
+          "text": "Corrente Direta causa 2 pontos de dano a qualquer alvo.\nRecarregar (Você pode conjurar este card de seu cemitério descartando um card além de pagar seus outros custos. Depois, exile este card.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454659&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454659
+        },
+        {
+          "name": "Направленный Ток",
+          "text": "Направленный Ток наносит 2 повреждения любой цели.\nИмпульс (Вы можете разыграть эту карту из вашего кладбища, сбросив карту в дополнение к оплате других ее стоимостей. Затем изгоните эту карту.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454918&type=card",
+          "language": "Russian",
+          "multiverseid": 454918
+        },
+        {
+          "name": "导引电流",
+          "text": "导引电流对任意一个目标造成2点伤害。\n再起（你可以从你的坟墓场施放此牌，但必须支付其所需费用并额外弃一张牌。然后放逐此牌。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455177&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455177
+        },
+        {
+          "name": "導引電流",
+          "text": "導引電流對任意一個目標造成2點傷害。\n再起（你可以從你的墳墓場施放此牌，但必須支付其所需費用並額外棄一張牌。）然後放逐此牌。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455436&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455436
+        }
+      ],
+      "printings": [
+        "GRN",
+        "MB1"
+      ],
+      "originalText": "Direct Current deals 2 damage to any target.\nJump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "fd1e1d4f-b7db-551d-9a4b-d9ad456b5e85"
+    },
+    {
+      "name": "Precision Bolt",
+      "manaCost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Precision Bolt deals 3 damage to any target.",
+      "flavor": "Ral had wielded lightning all his life but had never harnessed the power of an entire guild.",
+      "artist": "Grzegorz Rutkowski",
+      "number": "267",
+      "layout": "normal",
+      "multiverseid": 455607,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455607&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Gezielte Entladung",
+          "text": "Die Gezielte Entladung fügt einem Ziel deiner Wahl 3 Schadenspunkte zu.",
+          "flavor": "Ral herrscht schon sein ganzes Leben über die Blitze, doch nie zuvor besaß er die Macht über eine ganze Gilde.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455621&type=card",
+          "language": "German",
+          "multiverseid": 455621
+        },
+        {
+          "name": "Rayo de precisión",
+          "text": "El Rayo de precisión hace 3 puntos de daño a cualquier objetivo.",
+          "flavor": "Ral había empleado el poder del rayo toda su vida, pero nunca había tenido en sus manos el poder de un gremio entero.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455635&type=card",
+          "language": "Spanish",
+          "multiverseid": 455635
+        },
+        {
+          "name": "Éclair de précision",
+          "text": "L'Éclair de précision inflige 3 blessures à n'importe quelle cible.",
+          "flavor": "Ral avait manipulé la foudre toute sa vie, mais n'avait jamais maîtrisé la puissance de toute une guilde.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455649&type=card",
+          "language": "French",
+          "multiverseid": 455649
+        },
+        {
+          "name": "Saetta di Precisione",
+          "text": "La Saetta di Precisione infligge 3 danni a un qualsiasi bersaglio.",
+          "flavor": "Ral aveva brandito fulmini per tutta la vita, ma non aveva mai padroneggiato il potere di un'intera gilda.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455663&type=card",
+          "language": "Italian",
+          "multiverseid": 455663
+        },
+        {
+          "name": "正確な稲妻",
+          "text": "クリーチャー１体かプレインズウォーカー１体かプレイヤー１人を対象とする。正確な稲妻はそれに３点のダメージを与える。",
+          "flavor": "ラルは生まれてからずっと稲妻を操ってきたが、ギルド全体の力を操ったことはなかった。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455677&type=card",
+          "language": "Japanese",
+          "multiverseid": 455677
+        },
+        {
+          "name": "정밀한 번개",
+          "text": "원하는 목표를 정한다. 정밀한 번개는 그 목표에게 피해 3점을 입힌다.",
+          "flavor": "랄은 그의 인생 내내 번개를 다뤘지만 길드 전체의 힘을 둘렀던 적은 없었다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455691&type=card",
+          "language": "Korean",
+          "multiverseid": 455691
+        },
+        {
+          "name": "Raio de Precisão",
+          "text": "Raio de Precisão causa 3 pontos de dano a qualquer alvo.",
+          "flavor": "Ral lidou com raios a vida toda, mas nunca havia usado o poder de toda uma guilda.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455705&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 455705
+        },
+        {
+          "name": "Точный Разряд",
+          "text": "Точный Разряд наносит 3 повреждения любой цели.",
+          "flavor": "Рал всю свою жизнь повелевал молниями, но впервые в его руках оказалось могущество целой гильдии.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455719&type=card",
+          "language": "Russian",
+          "multiverseid": 455719
+        },
+        {
+          "name": "精准电击",
+          "text": "精准电击对任意一个目标造成3点伤害。",
+          "flavor": "拉尔能随意召使闪电，但却从未驾驭过整个公会的力量。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455733&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455733
+        },
+        {
+          "name": "精準電擊",
+          "text": "精準電擊對任意一個目標造成3點傷害。",
+          "flavor": "拉爾能隨意召使閃電，但卻從未駕馭過整個公會的力量。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455747&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455747
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Precision Bolt deals 3 damage to any target.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "a90c60c1-6afb-5d0d-afe6-82cf6c2e9861"
+    },
+    {
+      "name": "Island",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Basic Land — Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "({T}: Add {U}.)",
+      "artist": "Donato Giancola",
+      "number": "368",
+      "layout": "normal",
+      "multiverseid": 129606,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129606&type=card",
+      "variations": [
+        "bcda2650-4d91-55e0-8fd0-790552b2a308",
+        "0862e7aa-509a-53c1-852b-562876540c07",
+        "fd87b2e5-fafb-55c6-8976-f112405b71ea"
+      ],
+      "rulings": [],
+      "foreignNames": [],
+      "printings": [
+        "10E",
+        "2ED",
+        "2XM",
+        "3ED",
+        "4BB",
+        "4ED",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "9ED",
+        "AKH",
+        "ALA",
+        "ANA",
+        "ARC",
+        "AVR",
+        "BBD",
+        "BFZ",
+        "BRB",
+        "BTD",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "CED",
+        "CEI",
+        "CHK",
+        "CM2",
+        "CMA",
+        "CMD",
+        "CST",
+        "DD2",
+        "DDE",
+        "DDF",
+        "DDH",
+        "DDI",
+        "DDJ",
+        "DDM",
+        "DDN",
+        "DDO",
+        "DDQ",
+        "DDS",
+        "DDT",
+        "DDU",
+        "DOM",
+        "DPA",
+        "DTK",
+        "E01",
+        "ELD",
+        "FBB",
+        "FRF",
+        "G17",
+        "GK1",
+        "GK2",
+        "GN2",
+        "GNT",
+        "GRN",
+        "GS1",
+        "H09",
+        "HOP",
+        "HOU",
+        "ICE",
+        "IKO",
+        "INV",
+        "ISD",
+        "ITP",
+        "J14",
+        "JMP",
+        "JVC",
+        "KLD",
+        "KTK",
+        "LEA",
+        "LEB",
+        "LRW",
+        "M10",
+        "M11",
+        "M12",
+        "M13",
+        "M14",
+        "M15",
+        "M19",
+        "M20",
+        "M21",
+        "MBS",
+        "ME1",
+        "ME3",
+        "MIR",
+        "MMQ",
+        "MRD",
+        "NPH",
+        "ODY",
+        "ONS",
+        "ORI",
+        "P02",
+        "PAL00",
+        "PAL01",
+        "PAL02",
+        "PAL03",
+        "PAL04",
+        "PAL05",
+        "PAL06",
+        "PAL99",
+        "PALP",
+        "PANA",
+        "PARL",
+        "PC2",
+        "PCA",
+        "PELP",
+        "PF19",
+        "PF20",
+        "PGPX",
+        "PGRU",
+        "PMPS",
+        "PMPS06",
+        "PMPS07",
+        "PMPS08",
+        "PMPS09",
+        "PMPS10",
+        "PMPS11",
+        "POR",
+        "PPP1",
+        "PRM",
+        "PRW2",
+        "PRWK",
+        "PS11",
+        "PSAL",
+        "PSS2",
+        "PSS3",
+        "PTC",
+        "PTK",
+        "PZ2",
+        "RAV",
+        "RIX",
+        "RNA",
+        "ROE",
+        "RQS",
+        "RTR",
+        "S99",
+        "SHM",
+        "SLD",
+        "SOI",
+        "SOM",
+        "SUM",
+        "TD0",
+        "TD2",
+        "THB",
+        "THS",
+        "TMP",
+        "TPR",
+        "TSP",
+        "UGL",
+        "UND",
+        "UNH",
+        "USG",
+        "UST",
+        "WAR",
+        "WC00",
+        "WC01",
+        "WC02",
+        "WC03",
+        "WC04",
+        "WC97",
+        "WC98",
+        "XLN",
+        "ZEN"
+      ],
+      "originalText": "U",
+      "originalType": "Basic Land - Island",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f7a821d9-44d8-56e9-8c37-c86f27096e1f"
+    },
+    {
+      "name": "Fearless Halberdier",
+      "manaCost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Creature — Human Warrior",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "flavor": "\"I spent some time in the Legion, but I'm done taking orders all day.\"",
+      "artist": "Suzanne Helmigh",
+      "number": "100",
+      "power": "3",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 452850,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452850&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Furchtlose Hellebardistin",
+          "text": null,
+          "flavor": "„Ich war eine Zeit lang in der Legion, aber ich habe es satt, den ganzen Tag Befehle zu befolgen.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453109&type=card",
+          "language": "German",
+          "multiverseid": 453109
+        },
+        {
+          "name": "Alabardera sin miedo",
+          "text": null,
+          "flavor": "\"Pasé un tiempo en la Legión, pero acabé harta de recibir órdenes todo el día\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453368&type=card",
+          "language": "Spanish",
+          "multiverseid": 453368
+        },
+        {
+          "name": "Hallebardière intrépide",
+          "text": null,
+          "flavor": "« J'ai passé un certain temps dans la Légion, mais j'en ai assez de suivre des ordres toute la journée. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453627&type=card",
+          "language": "French",
+          "multiverseid": 453627
+        },
+        {
+          "name": "Alabardiera Intrepida",
+          "text": null,
+          "flavor": "\"Ho prestato servizio nella Legione in passato, ma mi sono stufata di seguire costantemente gli ordini.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453886&type=card",
+          "language": "Italian",
+          "multiverseid": 453886
+        },
+        {
+          "name": "恐れなき矛槍兵",
+          "text": null,
+          "flavor": "「ボロス軍に身を置いたこともあったわ。でももう一日中命令を受けるのはうんざりよ。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454145&type=card",
+          "language": "Japanese",
+          "multiverseid": 454145
+        },
+        {
+          "name": "겁없는 미늘창병",
+          "text": null,
+          "flavor": "\"군단에 몸을 담은 지는 좀 됐지, 하지만 종일 명령에 따르는 건 그만두겠어.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454404&type=card",
+          "language": "Korean",
+          "multiverseid": 454404
+        },
+        {
+          "name": "Alabardeira Destemida",
+          "text": null,
+          "flavor": "\"Passei um tempo na Legião, mas cansei de receber ordens o dia todo.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454663&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454663
+        },
+        {
+          "name": "Бесстрашная Алебардщица",
+          "text": null,
+          "flavor": "«Я провела некоторое время в Легионе, но целый день выполнять приказы — это не для меня».",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454922&type=card",
+          "language": "Russian",
+          "multiverseid": 454922
+        },
+        {
+          "name": "无惧长戟兵",
+          "text": null,
+          "flavor": "「我在教团待了一段时间，但我受够了整天听人指挥。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455181&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455181
+        },
+        {
+          "name": "無懼長戟兵",
+          "text": null,
+          "flavor": "「我在教團待了一段時間，但我受夠了整天聽人指揮。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455440&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455440
+        }
+      ],
+      "printings": [
+        "GRN",
+        "M20"
+      ],
+      "originalType": "Creature — Human Warrior",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "dc80d2d7-c243-5b9f-ac04-2d7bfb5f7e4f"
+    },
+    {
+      "name": "Mephitic Vapors",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "All creatures get -1/-1 until end of turn.\nSurveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+      "flavor": "Ravnica's safest strongholds are often neither.",
+      "artist": "Darek Zabrocki",
+      "number": "76",
+      "layout": "normal",
+      "multiverseid": 452826,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452826&type=card",
+      "watermark": "dimir",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "Creatures that are going to die after getting -1/-1 will still be on the battlefield while you surveil. They won’t be put into their owners’ graveyards until after Mephitic Vapors is entirely finished resolving. If any of their abilities trigger on surveilling, those abilities will trigger but won’t resolve until after the creatures have left the battlefield."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Mephitic Vapors affects only creatures on the battlefield at the time it resolves. Creatures that enter the battlefield later in the turn won’t get -1/-1."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "When you surveil, you may put all the cards you look at back on top of your library, you may put all of those cards into your graveyard, or you may put some of those cards on top and the rest of them into your graveyard."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "You perform the actions stated on a card in sequence. For some spells and abilities, you’ll surveil last. For others, you’ll surveil and then perform other actions."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Verpestete Dämpfe",
+          "text": "Alle Kreaturen erhalten -1/-1 bis zum Ende des Zuges.\nÜberwachen 2. (Schaue dir die obersten zwei Karten deiner Bibliothek an. Lege dann eine beliebige Anzahl davon auf deinen Friedhof und den Rest in beliebiger Reihenfolge oben auf deine Bibliothek.)",
+          "flavor": "Der Wind zieht auch durch Ravnicas sicherste Festungen.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453085&type=card",
+          "language": "German",
+          "multiverseid": 453085
+        },
+        {
+          "name": "Vapores mefíticos",
+          "text": "Todas las criaturas obtienen -1/-1 hasta el final del turno.\nEscruta 2. (Mira las dos primeras cartas de tu biblioteca, luego pon cualquier cantidad de ellas en tu cementerio y el resto en la parte superior de tu biblioteca en cualquier orden.)",
+          "flavor": "Normalmente, las fortalezas más seguras de Rávnica no son ni lo uno ni lo otro.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453344&type=card",
+          "language": "Spanish",
+          "multiverseid": 453344
+        },
+        {
+          "name": "Vapeurs méphitiques",
+          "text": "Toutes les créatures gagnent -1/-1 jusqu'à la fin du tour.\nSurveillez 2. (Regardez les deux cartes du dessus de votre bibliothèque, puis mettez n'importe quel nombre d'entre elles dans votre cimetière et le reste au-dessus de votre bibliothèque dans n'importe quel ordre.)",
+          "flavor": "Les forteresses les plus sécurisées de Ravnica ne sont souvent ni l'une ni l'autre.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453603&type=card",
+          "language": "French",
+          "multiverseid": 453603
+        },
+        {
+          "name": "Vapori Mefitici",
+          "text": "Tutte le creature prendono -1/-1 fino alla fine del turno.\nSorveglia 2. (Guarda le prime due carte del tuo grimorio, poi mettine un qualsiasi numero nel tuo cimitero e le altre in cima al tuo grimorio in qualsiasi ordine.)",
+          "flavor": "Le fortezze più sicure di Ravnica spesso non sono né forti né sicure.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453862&type=card",
+          "language": "Italian",
+          "multiverseid": 453862
+        },
+        {
+          "name": "有毒ガス",
+          "text": "ターン終了時まで、クリーチャーはすべて－１/－１の修整を受ける。\n諜報２を行う。（あなたのライブラリーの一番上からカードを２枚見て、そのうちの望む枚数をあなたの墓地に、残りをあなたのライブラリーの一番上に望む順番で置く。）",
+          "flavor": "ラヴニカで最も安全な城砦も、大抵それほど安全ではない。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454121&type=card",
+          "language": "Japanese",
+          "multiverseid": 454121
+        },
+        {
+          "name": "유독한 증기",
+          "text": "모든 생물은 턴종료까지 -1/-1을 받는다.\n감시 2를 한다. (당신의 서고 맨 위 카드 두 장을 본 후, 그 카드들 중 원하는 만큼을 당신의 무덤에 놓고 나머지를 당신의 서고 맨 위에 원하는 순서대로 놓는다.)",
+          "flavor": "라브니카에서 가장 안전한 성채라는 것은 대부분의 경우 존재하지 않는다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454380&type=card",
+          "language": "Korean",
+          "multiverseid": 454380
+        },
+        {
+          "name": "Vapores Mefíticos",
+          "text": "Todas as criaturas recebem -1/-1 até o final do turno.\nVigiar 2. (Olhe os dois cards do topo de seu grimório. Depois, coloque qualquer número deles em seu cemitério e o restante no topo de seu grimório em qualquer ordem.)",
+          "flavor": "As fortalezas mais seguras de Ravnica muitas vezes não são nem fortes nem seguras.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454639&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454639
+        },
+        {
+          "name": "Зловонные Испарения",
+          "text": "Все существа получают -1/-1 до конца хода.\nСлежка 2. (Посмотрите две верхние карты вашей библиотеки, затем положите любое количество из них на ваше кладбище, а остальные на верх вашей библиотеки в любом порядке.)",
+          "flavor": "Самые безопасные крепости Равники — зачастую ни то и ни другое.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454898&type=card",
+          "language": "Russian",
+          "multiverseid": 454898
+        },
+        {
+          "name": "恶臭毒气",
+          "text": "所有生物得-1/-1直到回合结束。\n刺探2。（检视你牌库顶的两张牌，然后将其中任意数量的牌置入你的坟墓场，其余则以任意顺序置于你牌库顶。）",
+          "flavor": "拉尼卡最安全的堡垒通常既不安全也保不住人。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455157&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455157
+        },
+        {
+          "name": "惡臭毒氣",
+          "text": "所有生物得-1/-1直到回合結束。\n刺探2。（檢視你牌庫頂的兩張牌，然後將其中任意數量的牌置入你的墳墓場，其餘則以任意順序置於你牌庫頂。）",
+          "flavor": "拉尼卡最安全的堡壘通常既不安全也保不住人。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455416&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455416
+        }
+      ],
+      "printings": [
+        "GRN",
+        "MB1"
+      ],
+      "originalText": "All creatures get -1/-1 until end of turn.\nSurveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f41cf8de-50f3-51fb-8ccb-b475610616a8"
+    },
+    {
+      "name": "Ral, Caller of Storms",
+      "names": [],
+      "manaCost": "{4}{U}{R}",
+      "cmc": 6,
+      "colors": [
+        "Red",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "R",
+        "U"
+      ],
+      "type": "Legendary Planeswalker — Ral",
+      "supertypes": [
+        "Legendary"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "subtypes": [
+        "Ral"
+      ],
+      "rarity": "Mythic",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "[+1]: Draw a card.\n[−2]: Ral, Caller of Storms deals 3 damage divided as you choose among one, two, or three targets.\n[−7]: Draw seven cards. Ral, Caller of Storms deals 7 damage to each creature your opponents control.",
+      "artist": "Kieran Yanner",
+      "number": "265",
+      "layout": "normal",
+      "multiverseid": 455605,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455605&type=card",
+      "loyalty": "4",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "If some of the targets become illegal for Ral’s second ability, the original division of damage still applies, and the damage that would have been dealt to illegal targets isn’t dealt at all."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Ral der Sturmrufer",
+          "text": "+1: Ziehe eine Karte.\n−2: Ral der Sturmrufer fügt 3 Schadenspunkte zu, deren Aufteilung auf ein, zwei oder drei Ziele deiner Wahl du bestimmst.\n−7: Ziehe sieben Karten. Ral der Sturmrufer fügt jeder Kreatur, die deine Gegner kontrollieren, 7 Schadenspunkte zu.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455619&type=card",
+          "language": "German",
+          "multiverseid": 455619
+        },
+        {
+          "name": "Ral, convocatormentas",
+          "text": "+1: Roba una carta.\n−2: Ral, convocatormentas hace 3 puntos de daño divididos como elijas entre uno, dos o tres objetivos.\n−7: Roba siete cartas. Ral, convocatormentas hace 7 puntos de daño a cada criatura que controlan tus oponentes.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455633&type=card",
+          "language": "Spanish",
+          "multiverseid": 455633
+        },
+        {
+          "name": "Ral, meneur des tempêtes",
+          "text": "+1 : Piochez une carte.\n-2 : Ral, meneur des tempêtes inflige 3 blessures réparties comme vous le désirez entre une, deux ou trois cibles.\n-7 : Piochez sept cartes. Ral, meneur des tempêtes inflige 7 blessures à chaque créature que vos adversaires contrôlent.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455647&type=card",
+          "language": "French",
+          "multiverseid": 455647
+        },
+        {
+          "name": "Ral, Evocatore di Tempeste",
+          "text": "+1: Pesca una carta.\n-2: Ral, Evocatore di Tempeste infligge 3 danni divisi a tua scelta tra uno, due o tre bersagli.\n-7: Pesca sette carte. Ral, Evocatore di Tempeste infligge 7 danni a ogni creatura controllata dai tuoi avversari.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455661&type=card",
+          "language": "Italian",
+          "multiverseid": 455661
+        },
+        {
+          "name": "嵐を呼ぶ者、ラル",
+          "text": "+1：カードを１枚引く。\n-2：クリーチャーやプレインズウォーカーやプレイヤー、１つか２つか３つを対象とする。嵐を呼ぶ者、ラルはそれらに３点のダメージをあなたの望むように分割して与える。\n-7：カードを７枚引く。嵐を呼ぶ者、ラルは対戦相手がコントロールしている各クリーチャーにそれぞれ７点のダメージを与える。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455675&type=card",
+          "language": "Japanese",
+          "multiverseid": 455675
+        },
+        {
+          "name": "폭풍을 부르는 자, 랄",
+          "text": "+1: 카드 한 장을 뽑는다.\n−2: 원하는 목표 하나, 둘, 또는 세 개를 정한다. 폭풍을 부르는 자, 랄은 피해 3점을 당신이 분배한 대로 그 목표들에 입힌다.\n−7: 카드 일곱 장을 뽑는다. 폭풍을 부르는 자, 랄은 당신의 상대들이 조종하는 각 생물에 피해 7점을 입힌다.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455689&type=card",
+          "language": "Korean",
+          "multiverseid": 455689
+        },
+        {
+          "name": "Ral, Invocador de Tempestades",
+          "text": "+1: Compre um card.\n−2: Ral, Invocador de Tempestades, causa 3 pontos de dano divididos à sua escolha entre um, dois ou três alvos.\n−7: Compre sete cards. Ral, Invocador de Tempestades, causa 7 pontos de dano a cada criatura que seus oponentes controlam.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455703&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 455703
+        },
+        {
+          "name": "Рал, Заклинатель Гроз",
+          "text": "+1: возьмите карту.\n—2: Рал, Заклинатель Гроз наносит 3 повреждения, разделенные по вашему выбору между одной, двумя или тремя целями.\n—7: возьмите семь карт. Рал, Заклинатель Гроз наносит 7 повреждений каждому существу под контролем ваших оппонентов.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455717&type=card",
+          "language": "Russian",
+          "multiverseid": 455717
+        },
+        {
+          "name": "风暴唤师拉尔",
+          "text": "+1：抓一张牌。\n−2：风暴唤师拉尔对任意一个，两个，或三个目标造成共3点伤害，你可以任意分配。\n-7：抓七张牌。风暴唤师拉尔向由对手操控的每个生物各造成7点伤害。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455731&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455731
+        },
+        {
+          "name": "風暴喚師拉爾",
+          "text": "+1：抽一張牌。\n−2：風暴喚師拉爾對任意一個，兩個，或三個目標造成共3點傷害，你可以任意分配。\n−7：抽七張牌。風暴喚師拉爾向由對手操控的每個生物各造成7點傷害。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455745&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455745
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "+1: Draw a card.\n−2: Ral, Caller of Storms deals 3 damage divided as you choose among one, two, or three targets.\n−7: Draw seven cards. Ral, Caller of Storms deals 7 damage to each creature your opponents control.",
+      "originalType": "Legendary Planeswalker — Ral",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "d584c01a-d864-5c04-bcdb-48b01880cd99"
+    },
+    {
+      "name": "Fire Urchin",
+      "manaCost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Creature — Elemental",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Trample\nWhenever you cast an instant or sorcery spell, Fire Urchin gets +1/+0 until end of turn.",
+      "flavor": "Rain runoff in the Smelting District is known to spontaneously burst into flame.",
+      "artist": "Deruchenko Alexander",
+      "number": "101",
+      "power": "1",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 452851,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452851&type=card",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "Fire Urchin’s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Feuerbalg",
+          "text": "Verursacht Trampelschaden\nImmer wenn du einen Spontanzauber oder eine Hexerei wirkst, erhält der Feuerbalg +1/+0 bis zum Ende des Zuges.",
+          "flavor": "Regenrinnsale im Verhüttungsdistrikt sind für spontane Entzündungen bekannt.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453110&type=card",
+          "language": "German",
+          "multiverseid": 453110
+        },
+        {
+          "name": "Criaturilla de fuego",
+          "text": "Arrolla.\nSiempre que lances un hechizo de instantáneo o de conjuro, la Criaturilla de fuego obtiene +1/+0 hasta el final del turno.",
+          "flavor": "Se sabe que, en el Distrito de las Fundiciones, la escorrentía puede ponerse a arder sin motivo aparente.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453369&type=card",
+          "language": "Spanish",
+          "multiverseid": 453369
+        },
+        {
+          "name": "Galopin de feu",
+          "text": "Piétinement\nÀ chaque fois que vous lancez un sort d'éphémère ou de rituel, le Galopin de feu gagne +1/+0 jusqu'à la fin du tour.",
+          "flavor": "Les écoulements d'eau du quartier des fonderies sont sujets à la combustion spontanée.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453628&type=card",
+          "language": "French",
+          "multiverseid": 453628
+        },
+        {
+          "name": "Teppista Fiammante",
+          "text": "Travolgere\nOgniqualvolta lanci una magia istantaneo o stregoneria, il Teppista Fiammante prende +1/+0 fino alla fine del turno.",
+          "flavor": "La combustione spontanea dei rivoli di pioggia è un fenomeno comune nel Distretto della Fusione.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453887&type=card",
+          "language": "Italian",
+          "multiverseid": 453887
+        },
+        {
+          "name": "火小僧",
+          "text": "トランプル\nあなたがインスタントかソーサリーである呪文を唱えるたび、ターン終了時まで、火小僧は＋１/＋０の修整を受ける。",
+          "flavor": "精錬地区を流れる雨は自分で燃え出すことで知られている。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454146&type=card",
+          "language": "Japanese",
+          "multiverseid": 454146
+        },
+        {
+          "name": "불 부랑아",
+          "text": "돌진\n당신이 순간마법 또는 집중마법 주문을 발동할 때마다, 불 부랑아는 턴종료까지 +1/+0을 받는다.",
+          "flavor": "제련 지구를 따라 흐르는 빗물은 자연적으로 발화한다고 알려져 있다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454405&type=card",
+          "language": "Korean",
+          "multiverseid": 454405
+        },
+        {
+          "name": "Diabinho de Fogo",
+          "text": "Atropelar\nToda vez que você conjura uma mágica instantânea ou um feitiço, Diabinho de Fogo recebe +1/+0 até o final do turno.",
+          "flavor": "As águas pluviais do Distrito da Fundição são conhecidas por pegarem fogo espontaneamente.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454664&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454664
+        },
+        {
+          "name": "Огненная Нечисть",
+          "text": "Пробивной удар\nКаждый раз, когда вы разыгрываете мгновенное заклинание или заклинание волшебства, Огненная Нечисть получает +1/+0 до конца хода.",
+          "flavor": "Дождевая вода, бегущая по улицам района Плавильщиков, порой самопроизвольно вспыхивает пламенем.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454923&type=card",
+          "language": "Russian",
+          "multiverseid": 454923
+        },
+        {
+          "name": "火焰促狭鬼",
+          "text": "践踏\n每当你施放瞬间或法术咒语时，火焰促狭鬼得+1/+0直到回合结束。",
+          "flavor": "矿石提炼区的雨后积水常会自燃。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455182&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455182
+        },
+        {
+          "name": "火焰促狹鬼",
+          "text": "踐踏\n每當你施放瞬間或巫術咒語時，火焰促狹鬼得+1/+0直到回合結束。",
+          "flavor": "礦石提煉區的雨後積水常會自燃。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455441&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455441
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Trample\nWhenever you cast an instant or sorcery spell, Fire Urchin gets +1/+0 until end of turn.",
+      "originalType": "Creature — Elemental",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "01f77b29-2d70-5b43-a316-088cb1abd232"
+    },
+    {
+      "name": "Ral's Dispersal",
+      "names": [],
+      "manaCost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "supertypes": [],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [],
+      "rarity": "Rare",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Return target creature to its owner's hand. You may search your library and/or graveyard for a card named Ral, Caller of Storms, reveal it, and put it into your hand. If you search your library this way, shuffle it.",
+      "artist": "Lake Hurwitz",
+      "number": "266",
+      "layout": "normal",
+      "multiverseid": 455606,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455606&type=card",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "If the target creature becomes an illegal target for Ral’s Dispersal, the spell doesn’t resolve. You don’t search for Ral, Caller of Storms."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Rals Zerstreuung",
+          "text": "Bringe eine Kreatur deiner Wahl auf die Hand ihres Besitzers zurück. Du kannst deine Bibliothek und/oder deinen Friedhof nach einer Karte namens Ral der Sturmrufer durchsuchen, sie offen vorzeigen und auf deine Hand nehmen. Falls du auf diese Weise deine Bibliothek durchsuchst, mische sie danach.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455620&type=card",
+          "language": "German",
+          "multiverseid": 455620
+        },
+        {
+          "name": "Rechazo de Ral",
+          "text": "Regresa la criatura objetivo a la mano de su propietario. Puedes buscar en tu biblioteca y/o cementerio una carta llamada Ral, convocatormentas, mostrarla y ponerla en tu mano. Si buscas en tu biblioteca de esta manera, barájala.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455634&type=card",
+          "language": "Spanish",
+          "multiverseid": 455634
+        },
+        {
+          "name": "Dispersion de Ral",
+          "text": "Renvoyez une créature ciblée dans la main de son propriétaire. Vous pouvez chercher dans votre bibliothèque et/ou votre cimetière une carte appelée Ral, meneur des tempêtes, la révéler et la mettre dans votre main. Si vous cherchez dans votre bibliothèque de cette manière, mélangez-la.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455648&type=card",
+          "language": "French",
+          "multiverseid": 455648
+        },
+        {
+          "name": "Dispersione di Ral",
+          "text": "Fai tornare una creatura bersaglio in mano al suo proprietario. Puoi passare in rassegna il tuo grimorio e/o il tuo cimitero per una carta chiamata Ral, Evocatore di Tempeste, rivelarla e aggiungerla alla tua mano. Se passi in rassegna il tuo grimorio in questo modo, rimescolalo.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455662&type=card",
+          "language": "Italian",
+          "multiverseid": 455662
+        },
+        {
+          "name": "ラルの消散",
+          "text": "クリーチャー１体を対象とし、それをオーナーの手札に戻す。あなたはあなたのライブラリーやあなたの墓地から「嵐を呼ぶ者、ラル」という名前のカード１枚を探し、それを公開してあなたの手札に加えてもよい。あなたがこれによりあなたのライブラリーからカードを探したなら、あなたのライブラリーを切り直す。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455676&type=card",
+          "language": "Japanese",
+          "multiverseid": 455676
+        },
+        {
+          "name": "랄의 확산",
+          "text": "생물을 목표로 정한다. 그 생물을 소유자의 손으로 되돌린다. 당신은 당신의 서고 및/또는 무덤에서 이름이 폭풍을 부르는 자, 랄인 카드 한 장을 찾아 공개한 후 당신의 손으로 가져갈 수 있다. 당신이 이런 식으로 당신의 서고를 찾아보았다면, 당신의 서고를 섞는다.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455690&type=card",
+          "language": "Korean",
+          "multiverseid": 455690
+        },
+        {
+          "name": "Dispersão de Ral",
+          "text": "Devolva a criatura alvo para a mão de seu dono. Você pode procurar em seu grimório e/ou cemitério um card com o nome Ral, Invocador de Tempestades, revelá-lo e colocá-lo em sua mão. Se procurar em seu grimório desta maneira, embaralhe-o.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455704&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 455704
+        },
+        {
+          "name": "Рассеивание Рала",
+          "text": "Верните целевое существо в руку его владельца. Вы можете найти в вашей библиотеке и (или) на вашем кладбище карту с именем Рал, Заклинатель Гроз, показать ее и положить в вашу руку. Если вы ищете таким образом в вашей библиотеке, перетасуйте ее.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455718&type=card",
+          "language": "Russian",
+          "multiverseid": 455718
+        },
+        {
+          "name": "拉尔的驱散",
+          "text": "将目标生物移回其拥有者手上。你可以从你的牌库和／或坟墓场中搜寻一张名称为风暴唤师拉尔的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455732&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455732
+        },
+        {
+          "name": "拉爾的驅散",
+          "text": "將目標生物移回其擁有者手上。你可以從你的牌庫和／或墳墓場中搜尋一張名稱為風暴喚師拉爾的牌，展示該牌，並將它置於你手上。如果你以此法搜尋你的牌庫，則將它洗牌。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455746&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455746
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Return target creature to its owner's hand. You may search your library and/or graveyard for a card named Ral, Caller of Storms, reveal it, and put it into your hand. If you search your library this way, shuffle it.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "8bc16533-26ba-5829-adb1-7b25cd28b298"
+    },
+    {
+      "name": "Command the Storm",
+      "manaCost": "{4}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Instant",
+      "supertypes": [],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Command the Storm deals 5 damage to target creature.",
+      "flavor": "In the wake of Niv-Mizzet's disappearance, Ral found himself leading the guild. He had dreamed of this day, but couldn't help feeling like a pawn in someone else's game.",
+      "artist": "Jason Rainville",
+      "number": "94",
+      "layout": "normal",
+      "multiverseid": 452844,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452844&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Kontrollierter Sturm",
+          "text": "Der Kontrollierte Sturm fügt einer Kreatur deiner Wahl 5 Schadenspunkte zu.",
+          "flavor": "Nach Niv-Mizzets Verschwinden war Ral nun plötzlich der Anführer der Gilde. Er hatte von diesem Tag geträumt, doch er wurde das Gefühl nicht los, nur eine Schachfigur in jemandes Spiel zu sein.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453103&type=card",
+          "language": "German",
+          "multiverseid": 453103
+        },
+        {
+          "name": "Gobernar la tempestad",
+          "text": "Gobernar la tempestad hace 5 puntos de daño a la criatura objetivo.",
+          "flavor": "A raíz de la desaparición de Niv-Mízzet, Ral se vio al mando del gremio. Había soñado con este día, pero se sentía como un peón en el juego de otra persona.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453362&type=card",
+          "language": "Spanish",
+          "multiverseid": 453362
+        },
+        {
+          "name": "Commander à la tempête",
+          "text": "Commander à la tempête inflige 5 blessures à une créature ciblée.",
+          "flavor": "Suite à la disparition de Niv-Mizzet, Ral se retrouva à la tête de la guilde. Il en avait rêvé, mais il avait l'impression d'être un pion dans la partie de quelqu'un d'autre.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453621&type=card",
+          "language": "French",
+          "multiverseid": 453621
+        },
+        {
+          "name": "Comandare la Tempesta",
+          "text": "Comandare la Tempesta infligge 5 danni a una creatura bersaglio.",
+          "flavor": "In seguito alla sparizione di Niv-Mizzet, Ral si ritrovò alla guida della gilda. Aveva sognato quel giorno, ma non poteva fare a meno di sentirsi una pedina manovrata da qualcun altro.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453880&type=card",
+          "language": "Italian",
+          "multiverseid": 453880
+        },
+        {
+          "name": "嵐の行使",
+          "text": "クリーチャー１体を対象とする。嵐の行使はそれに５点のダメージを与える。",
+          "flavor": "ニヴ＝ミゼットが消失した結果、ラルは自分がギルドを指導する立場であることに気付いた。ずっとこの日が来るのを夢見ていたが、どうしても、誰かのゲームの駒にされているような感覚を払拭できなかった。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454139&type=card",
+          "language": "Japanese",
+          "multiverseid": 454139
+        },
+        {
+          "name": "폭풍에게 명령",
+          "text": "생물을 목표로 정한다. 폭풍에게 명령은 그 생물에게 피해 5점을 입힌다.",
+          "flavor": "니브-미젯이 실종된 여파로, 랄은 길드를 이끌고 있는 자신을 발견했다. 그는 이 날이 오기를 꿈꿔왔지만, 다른 사람이 하고 있는 게임의 장기말이 된 듯한 느낌을 지울 수 없었다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454398&type=card",
+          "language": "Korean",
+          "multiverseid": 454398
+        },
+        {
+          "name": "Controlar a Tempestade",
+          "text": "Controlar a Tempestade causa 5 pontos de dano à criatura alvo.",
+          "flavor": "Com o desaparecimento de Niv-Mizzet, Ral acabou tornando-se o líder da guilda. Ele sonhara com esse dia, mas não conseguia deixar de se sentir um peão no jogo de outra pessoa.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454657&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454657
+        },
+        {
+          "name": "Укрощение Грозы",
+          "text": "Укрощение Грозы наносит 5 повреждений целевому существу.",
+          "flavor": "Когда пропал Нив-Миззет, его место во главе гильдии занял Рал. Сбылась его мечта, но он не мог отделаться от ощущения, что стал пешкой в чужой игре.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454916&type=card",
+          "language": "Russian",
+          "multiverseid": 454916
+        },
+        {
+          "name": "掌控风暴",
+          "text": "掌控风暴对目标生物造成5点伤害。",
+          "flavor": "尼米捷失踪之后，拉尔发现自己可以领导公会。他曾梦想过这一天的到来，却又不禁感觉自己像是旁人局中的棋子。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455175&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455175
+        },
+        {
+          "name": "掌控風暴",
+          "text": "掌控風暴對目標生物造成5點傷害。",
+          "flavor": "尼米捷失蹤之後，拉爾發現自己可以領導公會。他曾夢想過這一天的到來，卻又不禁感覺自己像是旁人局中的棋子。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455434&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455434
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Command the Storm deals 5 damage to target creature.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "b11120a9-7737-5a17-87d8-8e3883e3f65f"
+    },
+    {
+      "name": "Chemister's Insight",
+      "manaCost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "supertypes": [],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [],
+      "rarity": "Uncommon",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Draw two cards.\nJump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",
+      "flavor": "\"My specialty is theoretical universal limits and ways to circumvent them.\"",
+      "artist": "Josh Hass",
+      "number": "32",
+      "layout": "normal",
+      "multiverseid": 452782,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452782&type=card",
+      "watermark": "izzet",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "You must still follow any timing restrictions and permissions, including those based on the card’s type. For instance, you can cast a sorcery using jump-start only when you could normally cast a sorcery."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "A spell cast using jump-start will always be exiled afterward, whether it resolves, it’s countered, or it leaves the stack in some other way."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If an effect allows you to pay an alternative cost rather than a spell’s mana cost, you may pay that alternative cost when you jump-start a spell. You’ll still discard a card as an additional cost to cast it."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If a card with jump-start is put into your graveyard during your turn, you’ll be able to cast it right away if it’s legal to do so, before an opponent can take any actions."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Einblick des Chemisters",
+          "text": "Ziehe zwei Karten.\nKatalyse (Du kannst diese Karte aus deinem Friedhof wirken, indem du zusätzlich zu ihren anderen Kosten eine Karte abwirfst. Schicke sie danach ins Exil.)",
+          "flavor": "„Meine Spezialität sind theoretische Universalgrenzen und Wege, diese zu umgehen.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453041&type=card",
+          "language": "German",
+          "multiverseid": 453041
+        },
+        {
+          "name": "Perspicacia de la quimista",
+          "text": "Roba dos cartas.\nRecargar. (Puedes lanzar esta carta desde tu cementerio descartando una carta además de pagar sus otros costes. Luego, exilia esta carta.)",
+          "flavor": "\"Mi especialidad son los límites universales teóricos y las formas de sortearlos\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453300&type=card",
+          "language": "Spanish",
+          "multiverseid": 453300
+        },
+        {
+          "name": "Perspicacité du chimiste",
+          "text": "Piochez deux cartes.\nRelancez (Vous pouvez lancer cette carte depuis votre cimetière en vous défaussant d'une carte en plus de payer ses autres coûts. Puis exilez cette carte.)",
+          "flavor": "« Je me spécialise dans les limites universelles théoriques et les manières de les contourner. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453559&type=card",
+          "language": "French",
+          "multiverseid": 453559
+        },
+        {
+          "name": "Intuizione della Chimimaga",
+          "text": "Pesca due carte.\nCarica d'avvio (Puoi lanciare questa carta dal tuo cimitero scartando una carta oltre a pagare i suoi altri costi. Poi esilia questa carta.)",
+          "flavor": "\"La mia specialità è l'analisi dei limiti teorici universali e dei metodi per aggirarli.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453818&type=card",
+          "language": "Italian",
+          "multiverseid": 453818
+        },
+        {
+          "name": "薬術師の眼識",
+          "text": "カードを２枚引く。\n再活（あなたはあなたの墓地から、このカードを、これの他のコストの支払いに加えてカード１枚を捨てることで唱えてもよい。その後、このカードを追放する。）",
+          "flavor": "「私の専門は理論的万有制約と、その回避方法よ。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454077&type=card",
+          "language": "Japanese",
+          "multiverseid": 454077
+        },
+        {
+          "name": "화학술사의 통찰력",
+          "text": "카드 두 장을 뽑는다.\n강제 시동 (당신은 이 카드의 다른 비용들을 지불하는 것에 추가로 카드를 한 장 버리는 것으로 이 카드를 당신의 무덤에서 발동할 수 있다. 그 후 이 카드를 추방한다.)",
+          "flavor": "\"내 특기는 이론적인 보편적 한계와 그것들을 피해 가는 방법들이지.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454336&type=card",
+          "language": "Korean",
+          "multiverseid": 454336
+        },
+        {
+          "name": "Visão da Quimiomante",
+          "text": "Compre dois cards.\nRecarregar (Você pode conjurar este card de seu cemitério descartando um card além de pagar seus outros custos. Depois, exile este card.)",
+          "flavor": "\"Minha especialidade são limites universais teóricos e maneiras de contorná-los.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454595&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454595
+        },
+        {
+          "name": "Озарение Химика",
+          "text": "Возьмите две карты.\nИмпульс (Вы можете разыграть эту карту из вашего кладбища, сбросив карту в дополнение к оплате других ее стоимостей. Затем изгоните эту карту.)",
+          "flavor": "«Моя специальность — теоретические пределы мироздания и способы их обойти».",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454854&type=card",
+          "language": "Russian",
+          "multiverseid": 454854
+        },
+        {
+          "name": "化学师的洞察",
+          "text": "抓两张牌。\n再起（你可以从你的坟墓场施放此牌，但必须支付其所需费用并额外弃一张牌。然后放逐此牌。）",
+          "flavor": "「我专长于统一极限理论，熟知超越这一极限的各类方法。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455113&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455113
+        },
+        {
+          "name": "化學師的洞察",
+          "text": "抽兩張牌。\n再起（你可以從你的墳墓場施放此牌，但必須支付其所需費用並額外棄一張牌。）然後放逐此牌。）",
+          "flavor": "「我專長於統一極限理論，熟知超越這一極限的各類方法。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455372&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455372
+        }
+      ],
+      "printings": [
+        "C19",
+        "C20",
+        "GRN"
+      ],
+      "originalText": "Draw two cards.\nJump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c7e68041-3ef8-54c5-91a2-012fa711bbb0"
+    },
+    {
+      "name": "Passwall Adept",
+      "manaCost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Human Wizard",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "{2}{U}: Target creature can't be blocked this turn.",
+      "flavor": "\"My doors are called trespassing, my signatures, forgeries. They don't respect my talents, and I don't respect their labels.\"",
+      "artist": "John Thacker",
+      "number": "50",
+      "power": "1",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 452800,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452800&type=card",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "Activating Passwall Adept’s ability after a creature has become blocked won’t cause that creature to become unblocked."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Geheimweg-Adept",
+          "text": "{2}{U}: Eine Kreatur deiner Wahl kann in diesem Zug nicht geblockt werden.",
+          "flavor": "„Illegaler Zutritt ist mein Schlüssel und meine Visitenkarte ist die Fälschung. Sie respektieren meine Talente nicht und ich respektiere ihre Grenzen nicht.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453059&type=card",
+          "language": "German",
+          "multiverseid": 453059
+        },
+        {
+          "name": "Adepto del criptomuro",
+          "text": "{2}{U}: La criatura objetivo no puede ser bloqueada este turno.",
+          "flavor": "\"A mis puertas las llaman allanamiento de morada; a mis firmas, falsificaciones. No respetan mis talentos y yo no respeto sus etiquetas\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453318&type=card",
+          "language": "Spanish",
+          "multiverseid": 453318
+        },
+        {
+          "name": "Expert passe-muraille",
+          "text": "{2}{U} : La créature ciblée ne peut pas être bloquée ce tour-ci.",
+          "flavor": "« Mes portes sont appelées des intrusions, mes signatures des falsifications. Les gens ne respectent pas mes talents et je ne respecte pas leurs dénominations. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453577&type=card",
+          "language": "French",
+          "multiverseid": 453577
+        },
+        {
+          "name": "Esperto di Passapareti",
+          "text": "{2}{U}: Una creatura bersaglio non può essere bloccata in questo turno.",
+          "flavor": "\"Chiamano le mie porte 'intrusioni' e le mie firme 'contraffazioni'. Non rispettano il mio talento e io non rispetto le loro etichette.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453836&type=card",
+          "language": "Italian",
+          "multiverseid": 453836
+        },
+        {
+          "name": "壁過の達人",
+          "text": "{2}{U}：クリーチャー１体を対象とする。このターン、それはブロックされない。",
+          "flavor": "「私の扉は不法と呼ばれ、私の印は捏造と呼ばれている。世間は私の才能を認めない。私も世間の評価を認めない。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454095&type=card",
+          "language": "Japanese",
+          "multiverseid": 454095
+        },
+        {
+          "name": "통행벽 숙련자",
+          "text": "{2}{U}: 생물을 목표로 정한다. 그 생물은 이 턴에 방어될 수 없다.",
+          "flavor": "\"그들은 내가 드나드는 걸 침입이라고 하고 내 서명은 위조라고 하지. 그들은 내 재능을 존중하지 않고, 난 그들의 꼬리표를 존중하지 않아.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454354&type=card",
+          "language": "Korean",
+          "multiverseid": 454354
+        },
+        {
+          "name": "Adepto de Criptoparede",
+          "text": "{2}{U}: A criatura alvo não pode ser bloqueada neste turno.",
+          "flavor": "\"Minhas portas se chamam invasão; minhas assinaturas, falsificações. Eles não respeitam os meus talentos e eu não respeito os rótulos deles.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454613&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454613
+        },
+        {
+          "name": "Адепт Сторожевых Стен",
+          "text": "{2}{U}: целевое существо не может быть заблокировано в этом ходу.",
+          "flavor": "«Мои двери называют взломом, мои подписи — подделками. Они не уважают мои таланты, а я не уважаю их ярлыки».",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454872&type=card",
+          "language": "Russian",
+          "multiverseid": 454872
+        },
+        {
+          "name": "密墙专家",
+          "text": "{2}{U}：目标生物本回合不能被阻挡。",
+          "flavor": "「我造门通行无阻，他们说我擅闯空门；我签名随心所欲，他们说我伪造印鉴。既然他们看不起我的才能，我也不理会他们对我的看法。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455131&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455131
+        },
+        {
+          "name": "密牆專家",
+          "text": "{2}{U}：目標生物本回合不能被阻擋。",
+          "flavor": "「我造門通行無阻，他們說我擅闖空門；我簽名隨心所欲，他們說我偽造印鑑。既然他們看不起我的才能，我也不理會他們對我的看法。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455390&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455390
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "{2}{U}: Target creature can't be blocked this turn.",
+      "originalType": "Creature — Human Wizard",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "e9a22fd3-5c40-5cc6-a65a-abcca5842117"
+    },
+    {
+      "name": "Maximize Altitude",
+      "manaCost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Target creature gets +1/+1 and gains flying until end of turn.\nJump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",
+      "artist": "Mike Bierek",
+      "number": "43",
+      "layout": "normal",
+      "multiverseid": 452793,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452793&type=card",
+      "watermark": "izzet",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "You must still follow any timing restrictions and permissions, including those based on the card’s type. For instance, you can cast a sorcery using jump-start only when you could normally cast a sorcery."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "A spell cast using jump-start will always be exiled afterward, whether it resolves, it’s countered, or it leaves the stack in some other way."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If an effect allows you to pay an alternative cost rather than a spell’s mana cost, you may pay that alternative cost when you jump-start a spell. You’ll still discard a card as an additional cost to cast it."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If a card with jump-start is put into your graveyard during your turn, you’ll be able to cast it right away if it’s legal to do so, before an opponent can take any actions."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Maximale Flughöhe",
+          "text": "Eine Kreatur deiner Wahl erhält +1/+1 und Flugfähigkeit bis zum Ende des Zuges.\nKatalyse (Du kannst diese Karte aus deinem Friedhof wirken, indem du zusätzlich zu ihren anderen Kosten eine Karte abwirfst. Schicke sie danach ins Exil.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453052&type=card",
+          "language": "German",
+          "multiverseid": 453052
+        },
+        {
+          "name": "Maximizar la altitud",
+          "text": "La criatura objetivo obtiene +1/+1 y gana la habilidad de volar hasta el final del turno.\nRecargar. (Puedes lanzar esta carta desde tu cementerio descartando una carta además de pagar sus otros costes. Luego, exilia esta carta.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453311&type=card",
+          "language": "Spanish",
+          "multiverseid": 453311
+        },
+        {
+          "name": "Optimisation de l'altitude",
+          "text": "La créature ciblée gagne +1/+1 et acquiert le vol jusqu'à la fin du tour.\nRelancez (Vous pouvez lancer cette carte depuis votre cimetière en vous défaussant d'une carte en plus de payer ses autres coûts. Puis exilez cette carte.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453570&type=card",
+          "language": "French",
+          "multiverseid": 453570
+        },
+        {
+          "name": "Massimizzare l'Altitudine",
+          "text": "Una creatura bersaglio prende +1/+1 e ha volare fino alla fine del turno.\nCarica d'avvio (Puoi lanciare questa carta dal tuo cimitero scartando una carta oltre a pagare i suoi altri costi. Poi esilia questa carta.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453829&type=card",
+          "language": "Italian",
+          "multiverseid": 453829
+        },
+        {
+          "name": "最大高度",
+          "text": "クリーチャー１体を対象とする。ターン終了時まで、それは＋１/＋１の修整を受け、飛行を得る。\n再活（あなたはあなたの墓地から、このカードを、これの他のコストの支払いに加えてカード１枚を捨てることで唱えてもよい。その後、このカードを追放する。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454088&type=card",
+          "language": "Japanese",
+          "multiverseid": 454088
+        },
+        {
+          "name": "고도를 최고로",
+          "text": "생물을 목표로 정한다. 그 생물은 턴종료까지 +1/+1을 받고 비행을 얻는다.\n강제 시동 (당신은 이 카드의 다른 비용들을 지불하는 것에 추가로 카드를 한 장 버리는 것으로 이 카드를 당신의 무덤에서 발동할 수 있다. 그 후 이 카드를 추방한다.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454347&type=card",
+          "language": "Korean",
+          "multiverseid": 454347
+        },
+        {
+          "name": "Maximizar Altitude",
+          "text": "A criatura alvo recebe +1/+1 e ganha voar até o final do turno.\nRecarregar (Você pode conjurar este card de seu cemitério descartando um card além de pagar seus outros custos. Depois, exile este card.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454606&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454606
+        },
+        {
+          "name": "Предельная Высота",
+          "text": "Целевое существо получает +1/+1 и Полет до конца хода.\nИмпульс (Вы можете разыграть эту карту из вашего кладбища, сбросив карту в дополнение к оплате других ее стоимостей. Затем изгоните эту карту.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454865&type=card",
+          "language": "Russian",
+          "multiverseid": 454865
+        },
+        {
+          "name": "极限飞升",
+          "text": "直到回合结束，目标生物得+1/+1且获得飞行异能。\n再起（你可以从你的坟墓场施放此牌，但必须支付其所需费用并额外弃一张牌。然后放逐此牌。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455124&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455124
+        },
+        {
+          "name": "極限飛昇",
+          "text": "直到回合結束，目標生物得+1/+1且獲得飛行異能。\n再起（你可以從你的墳墓場施放此牌，但必須支付其所需費用並額外棄一張牌。）然後放逐此牌。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455383&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455383
+        }
+      ],
+      "printings": [
+        "GRN",
+        "MB1"
+      ],
+      "originalText": "Target creature gets +1/+1 and gains flying until end of turn.\nJump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "1d51b03e-87ff-5822-9947-54fa77b309ba"
+    },
+    {
+      "name": "Izzet Guildgate",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "R",
+        "U"
+      ],
+      "type": "Land — Gate",
+      "supertypes": [],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [
+        "Gate"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Izzet Guildgate enters the battlefield tapped.\n{T}: Add {U} or {R}.",
+      "flavor": "Every laboratory buzzes with new experiments, each a piece of Ral's ambitious project.",
+      "artist": "Kirsten Zirngibl",
+      "number": "251",
+      "layout": "normal",
+      "multiverseid": 453001,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453001&type=card",
+      "variations": [
+        "719725f4-eb9c-5fae-be2a-06d2003b1f9c"
+      ],
+      "watermark": "izzet",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "The subtype Gate has no special rules significance, but other spells and abilities may refer to it."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Gate is not a basic land type."
+        }
+      ],
+      "foreignNames": [],
+      "printings": [
+        "C13",
+        "C15",
+        "C18",
+        "C19",
+        "DGM",
+        "GRN",
+        "MM3",
+        "RTR"
+      ],
+      "originalText": "Izzet Guildgate enters the battlefield tapped.\n{T}: Add {U} or {R}.",
+      "originalType": "Land — Gate",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c6aa8c6f-537c-5bbc-841f-49c95133b0e0"
+    },
+    {
+      "name": "Muse Drake",
+      "manaCost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Drake",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Drake"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Flying\nWhen Muse Drake enters the battlefield, draw a card.",
+      "flavor": "A composer wrote a symphony based on the drakes screeching outside her window. Reviews were mixed—except among the drakes.",
+      "artist": "Titus Lunter",
+      "number": "46",
+      "power": "1",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 452796,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452796&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Musen-Sceada",
+          "text": "Fliegend\nWenn der Musen-Sceada ins Spiel kommt, ziehe eine Karte.",
+          "flavor": "Eine Komponistin ließ sich von den Schreien der Sceadas vor ihrem Fenster zu einer Symphonie inspirieren. Die Kritiken waren durchwachsen, aber die Sceadas waren durchwegs begeistert.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453055&type=card",
+          "language": "German",
+          "multiverseid": 453055
+        },
+        {
+          "name": "Draco inspirador",
+          "text": "Vuela.\nCuando el Draco inspirador entre al campo de batalla, roba una carta.",
+          "flavor": "Una compositora creó una sinfonía basándose en los dracos que chillaban cerca de su ventana. Hubo diversidad de opiniones, excepto entre los dracos.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453314&type=card",
+          "language": "Spanish",
+          "multiverseid": 453314
+        },
+        {
+          "name": "Drakôn muse",
+          "text": "Vol\nQuand le Drakôn muse arrive sur le champ de bataille, piochez une carte.",
+          "flavor": "Une compositrice écrivit une symphonie basée sur les drakôns qui hurlaient derrière sa fenêtre. Les critiques furent partagées... sauf chez les drakôns.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453573&type=card",
+          "language": "French",
+          "multiverseid": 453573
+        },
+        {
+          "name": "Draghetto dell'Ispirazione",
+          "text": "Volare\nQuando il Draghetto dell'Ispirazione entra nel campo di battaglia, pesca una carta.",
+          "flavor": "Una compositrice scrisse una sinfonia ispirata agli strilli dei draghetti fuori dalle sue finestre. Riscosse recensioni contrastanti, eccetto dai draghetti.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453832&type=card",
+          "language": "Italian",
+          "multiverseid": 453832
+        },
+        {
+          "name": "詩神のドレイク",
+          "text": "飛行\n詩神のドレイクが戦場に出たとき、カードを１枚引く。",
+          "flavor": "一人の作曲家が、窓の外で叫ぶドレイクを元にして交響曲を書き上げた。評価は様々だったが、ドレイクには好評だった。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454091&type=card",
+          "language": "Japanese",
+          "multiverseid": 454091
+        },
+        {
+          "name": "뮤즈 드레이크",
+          "text": "비행\n뮤즈 드레이크가 전장에 들어올 때, 카드 한 장을 뽑는다.",
+          "flavor": "작곡가는 창문 바깥에서 드레이크들이 울부짖는 소리를 바탕으로 쓴 교향곡을 발표했다. 평가는 다양했다—드레이크들은 제외하고.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454350&type=card",
+          "language": "Korean",
+          "multiverseid": 454350
+        },
+        {
+          "name": "Dragonete Inspirador",
+          "text": "Voar\nQuando Dragonete Inspirador entrar no campo de batalha, compre um card.",
+          "flavor": "Uma compositora fez uma sinfonia baseada nos dragonetes que guinchavam em frente a sua janela. Causou controvérsia entre os críticos... exceto entre os dragonetes.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454609&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454609
+        },
+        {
+          "name": "Дрейк Вдохновения",
+          "text": "Полет\nКогда Дрейк Вдохновения выходит на поле битвы, возьмите карту.",
+          "flavor": "Слушая верещание дрейков за окном, композитор написала симфонию. Отзывы были смешанными — зато дрейкам понравилось.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454868&type=card",
+          "language": "Russian",
+          "multiverseid": 454868
+        },
+        {
+          "name": "思灵龙兽",
+          "text": "飞行\n当思灵龙兽进战场时，抓一张牌。",
+          "flavor": "某位作曲家就着自家窗外的龙兽啸鸣谱写了一支交响曲。听众褒贬不一～但龙兽的回应却出奇一致。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455127&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455127
+        },
+        {
+          "name": "思靈龍獸",
+          "text": "飛行\n當思靈龍獸進戰場時，抽一張牌。",
+          "flavor": "某位作曲家就著自家窗外的龍獸嘯鳴譜寫了一支交響曲。聽眾褒貶不一～但龍獸的回應卻出奇一致。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455386&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455386
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Flying\nWhen Muse Drake enters the battlefield, draw a card.",
+      "originalType": "Creature — Drake",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c30588b5-0a05-5c84-ae53-ad2403f3bff8"
+    },
+    {
+      "name": "Lotleth Giant",
+      "manaCost": "{6}{B}",
+      "cmc": 7,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Zombie Giant",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Zombie",
+        "Giant"
+      ],
+      "rarity": "Uncommon",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Undergrowth — When Lotleth Giant enters the battlefield, it deals 1 damage to target opponent for each creature card in your graveyard.",
+      "flavor": "\"I prefer the big and looming to the small and skittering.\"\n—Cevraya, Golgari shaman",
+      "artist": "Alex Konstad",
+      "number": "74",
+      "power": "6",
+      "toughness": "5",
+      "layout": "normal",
+      "multiverseid": 452824,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452824&type=card",
+      "watermark": "golgari",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "Creature cards with other types, such as artifact creature cards, count for undergrowth abilities."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Because tokens aren’t cards, they never count for undergrowth abilities."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Lotleth-Riese",
+          "text": "Totenwelt — Wenn der Lotleth-Riese ins Spiel kommt, fügt er einem Gegner deiner Wahl für jede Kreaturenkarte in deinem Friedhof 1 Schadenspunkt zu.",
+          "flavor": "„Ich ziehe die Großen und Bedrohlichen den Kleinen und Krabbelnden vor.\"\n—Cevraya, Golgari-Schamane",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453083&type=card",
+          "language": "German",
+          "multiverseid": 453083
+        },
+        {
+          "name": "Gigante lotleth",
+          "text": "Despojos — Cuando el Gigante lotleth entre al campo de batalla, hace 1 punto de daño al oponente objetivo por cada carta de criatura en tu cementerio.",
+          "flavor": "\"Prefiero los grandes que se ven bien a los pequeños que se escabullen\".\n—Cevraya, chamán golgari",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453342&type=card",
+          "language": "Spanish",
+          "multiverseid": 453342
+        },
+        {
+          "name": "Géant de Lotleth",
+          "text": "Maquis — Quand le Géant de Lotleth arrive sur le champ de bataille, il inflige 1 blessure à un adversaire ciblé pour chaque carte de créature dans votre cimetière.",
+          "flavor": "« Je préfère ce qui est grand et qu'on voit venir de loin à ce qui est petit et qu'on n'entend pas arriver. »\n—Cevraya, shamane de Golgari",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453601&type=card",
+          "language": "French",
+          "multiverseid": 453601
+        },
+        {
+          "name": "Gigante Lotleth",
+          "text": "Crescita sotterranea — Quando il Gigante Lotleth entra nel campo di battaglia, infligge 1 danno a un avversario bersaglio per ogni carta creatura nel tuo cimitero.",
+          "flavor": "\"Preferisco ciò che è gigante e imponente a ciò che è minuscolo e brulicante.\"\n—Cevraya, sciamana Golgari",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453860&type=card",
+          "language": "Italian",
+          "multiverseid": 453860
+        },
+        {
+          "name": "ロッテスの巨人",
+          "text": "宿根 ― ロッテスの巨人が戦場に出たとき、対戦相手１人を対象とする。これはそのプレイヤーに、あなたの墓地にあるクリーチャー・カード１枚につき１点のダメージを与える。",
+          "flavor": "「あたしは、小さくてちょこまかしているよりも、大きくてどっしりしている方がいいね。」\n――ゴルガリのシャーマン、セヴリヤ",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454119&type=card",
+          "language": "Japanese",
+          "multiverseid": 454119
+        },
+        {
+          "name": "로틀레스 거인",
+          "text": "지하생장 — 로틀레스 거인이 전장에 들어올 때, 상대를 목표로 정한다. 로틀레스 거인은 그 상대에게 당신의 무덤에 있는 생물 카드 한 장당 피해 1점을 입힌다.",
+          "flavor": "\"나는 작고 잽싼 것보단 크고 무시무시한 것을 선호하지.\"\n—골가리 주술사 세브라야",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454378&type=card",
+          "language": "Korean",
+          "multiverseid": 454378
+        },
+        {
+          "name": "Gigante Lotleth",
+          "text": "Necronutrimento — Quando Gigante Lotleth entra no campo de batalha, ele causa 1 ponto de dano ao oponente alvo para cada card de criatura em seu cemitério.",
+          "flavor": "\"Prefiro os grandes que assomam aos pequenos que rastejam.\"\n— Cevraya, xamã Golgari",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454637&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454637
+        },
+        {
+          "name": "Лотлетский Гигант",
+          "text": "Тайный рост — Когда Лотлетский Гигант выходит на поле битвы, он наносит 1 повреждение целевому оппоненту за каждую карту существа на вашем кладбище.",
+          "flavor": "«Больших и заметных я предпочитаю мелким и разбегающимся в стороны».\n— Севрайя, шаманка Голгари",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454896&type=card",
+          "language": "Russian",
+          "multiverseid": 454896
+        },
+        {
+          "name": "洛特离巨人",
+          "text": "朽力～当洛特离巨人进战场时，你坟墓场中每有一张生物牌，它便向目标对手造成1点伤害。",
+          "flavor": "「相比渺小掠行的生物，我更喜欢大到遮天的那种。」\n～葛加理祭师习拉雅",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455155&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455155
+        },
+        {
+          "name": "洛特離巨人",
+          "text": "朽力～當洛特離巨人進戰場時，你墳墓場中每有一張生物牌，它便向目標對手造成1點傷害。",
+          "flavor": "「相比渺小掠行的生物，我更喜歡大到遮天的那種。」\n～葛加理祭師習拉雅",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455414&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455414
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Undergrowth — When Lotleth Giant enters the battlefield, it deals 1 damage to target opponent for each creature card in your graveyard.",
+      "originalType": "Creature — Zombie Giant",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "6e0226df-c9a1-551a-a46a-efce42064e7d"
+    },
+    {
+      "name": "Erratic Cyclops",
+      "manaCost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Creature — Cyclops Shaman",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyclops",
+        "Shaman"
+      ],
+      "rarity": "Rare",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Trample\nWhenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 until end of turn, where X is that spell's converted mana cost.",
+      "flavor": "\"The League accepts no responsibility for former members and the damage they may cause.\"\n—Maree, Izzet chamberlain",
+      "artist": "Milivoj Ćeran",
+      "number": "98",
+      "power": "0",
+      "toughness": "8",
+      "layout": "normal",
+      "multiverseid": 452848,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452848&type=card",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "If a spell has {X} in its mana cost, include the value chosen for that X when determining the converted mana cost of that spell."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "Erratic Cyclops’s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Unsteter Zyklop",
+          "text": "Verursacht Trampelschaden\nImmer wenn du einen Spontanzauber oder eine Hexerei wirkst, erhält der Unstete Zyklop +X/+0 bis zum Ende des Zuges, wobei X gleich den umgewandelten Manakosten jenes Zauberspruchs ist.",
+          "flavor": "„Die Liga haftet nicht für ehemalige Mitglieder und jedweden durch sie verursachten Schaden.\"\n—Maree, Izzet-Kämmerin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453107&type=card",
+          "language": "German",
+          "multiverseid": 453107
+        },
+        {
+          "name": "Cíclope impredecible",
+          "text": "Arrolla.\nSiempre que lances un hechizo de instantáneo o de conjuro, el Cíclope impredecible obtiene +X/+0 hasta el final del turno, donde X es el coste de maná convertido de ese hechizo.",
+          "flavor": "\"La Liga no se hace responsable de sus antiguos miembros ni del daño que puedan causar\".\n—Maree, chambelán ízzet",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453366&type=card",
+          "language": "Spanish",
+          "multiverseid": 453366
+        },
+        {
+          "name": "Cyclope imprévisible",
+          "text": "Piétinement\nÀ chaque fois que vous lancez un sort d'éphémère ou de rituel, le Cyclope imprévisible gagne +X/+0 jusqu'à la fin du tour, X étant le coût converti de mana de ce sort.",
+          "flavor": "« La Ligue décline toute responsabilité concernant ses anciens membres et les dégâts qu'ils pourraient causer. »\n—Maree, chambellane d'Izzet",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453625&type=card",
+          "language": "French",
+          "multiverseid": 453625
+        },
+        {
+          "name": "Ciclope Imprevedibile",
+          "text": "Travolgere\nOgniqualvolta lanci una magia istantaneo o stregoneria, il Ciclope Imprevedibile prende +X/+0 fino alla fine del turno, dove X è il costo di mana convertito di quella magia.",
+          "flavor": "\"La Lega non si assume responsabilità per i suoi ex membri e gli eventuali danni che potrebbero causare.\"\n—Mareey, ciambellana Izzet",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453884&type=card",
+          "language": "Italian",
+          "multiverseid": 453884
+        },
+        {
+          "name": "奇矯なサイクロプス",
+          "text": "トランプル\nあなたがインスタントかソーサリーである呪文を唱えるたび、ターン終了時まで、奇矯なサイクロプスは＋Ｘ/＋０の修整を受ける。Ｘはその呪文の点数で見たマナ・コストに等しい。",
+          "flavor": "「イゼット団は元団員や、元団員が与えた損害について一切の責任を負いません。」\n――イゼットの執事、マーレー",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454143&type=card",
+          "language": "Japanese",
+          "multiverseid": 454143
+        },
+        {
+          "name": "변덕스러운 키클롭스",
+          "text": "돌진\n당신이 순간마법 또는 집중마법 주문을 발동할 때마다, 변덕스러운 키클롭스는 턴종료까지 +X/+0을 받는다. X는 그 주문의 전환마나비용이다.",
+          "flavor": "\"연합은 전 구성원과 그들이 입힐 지도 모르는 피해에 대한 책임을 지지 않습니다.\"\n—이젯 시종, 마리",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454402&type=card",
+          "language": "Korean",
+          "multiverseid": 454402
+        },
+        {
+          "name": "Ciclope Errático",
+          "text": "Atropelar\nToda vez que você conjura uma mágica instantânea ou um feitiço, Ciclope Errático recebe +X/+0 até o final do turno, sendo X o custo de mana convertido daquela mágica.",
+          "flavor": "\"A Liga não assume nenhuma responsabilidade por ex-membros, nem por danos que eles possam causar.\"\n— Maree, senescal Izzet",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454661&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454661
+        },
+        {
+          "name": "Непредсказуемый Циклоп",
+          "text": "Пробивной удар\nКаждый раз, когда вы разыгрываете мгновенное заклинание или заклинание волшебства, Непредсказуемый Циклоп получает +X/+0 до конца хода, где Х — конвертированная мана-стоимость того заклинания.",
+          "flavor": "«Лига не несет ответственности за своих бывших членов и за тот урон, что они могут нанести».\n— Марри, мажордом Иззетов",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454920&type=card",
+          "language": "Russian",
+          "multiverseid": 454920
+        },
+        {
+          "name": "乖僻独眼巨人",
+          "text": "践踏\n每当你施放瞬间或法术咒语时，乖僻独眼巨人得+X/+0直到回合结束，X为该咒语的总法术力费用。",
+          "flavor": "「因伊捷联盟原成员之私人行为导致的一切后果，本联盟概不负责。」\n～伊捷侍从玛蕾",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455179&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455179
+        },
+        {
+          "name": "乖僻獨眼巨人",
+          "text": "踐踏\n每當你施放瞬間或巫術咒語時，乖僻獨眼巨人得+X/+0直到回合結束，X為該咒語的總魔法力費用。",
+          "flavor": "「因伊捷聯盟原成員之私人行為導致的一切後果，本聯盟概不負責。」\n～伊捷侍從瑪蕾",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455438&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455438
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Trample\nWhenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 until end of turn, where X is that spell's converted mana cost.",
+      "originalType": "Creature — Cyclops Shaman",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7442a705-e34c-5362-8bf1-b4fac3b9007b"
+    }
+  ],
+  "cardsOwned": [
+    {
+      "ownerId": 1,
+      "cardId": "9510acef-3e46-5db9-b4e8-188701d12bc5",
+      "id": 1
+    },
+    {
+      "ownerId": 1,
+      "cardId": "a6eaddd5-7be0-52ab-9bf7-f943d33b3141",
+      "id": 2
+    },
+    {
+      "ownerId": 1,
+      "cardId": "de2d1a04-0284-56e5-96e0-9243d97967b8",
+      "id": 3
+    },
+    {
+      "ownerId": 1,
+      "cardId": "41fc6530-ee14-5631-89d7-32b03e060408",
+      "id": 4
+    },
+    {
+      "ownerId": 1,
+      "cardId": "4add5329-c510-5e0a-940f-466e0541806e",
+      "id": 5
+    },
+    {
+      "ownerId": 1,
+      "cardId": "6595f7ca-cbc1-5d05-a2b9-155a62bb24cf",
+      "id": 6
+    },
+    {
+      "ownerId": 1,
+      "cardId": "fa5d85f4-0f8a-5e2c-9d2a-6c40fbfbdea5",
+      "id": 7
+    },
+    {
+      "ownerId": 1,
+      "cardId": "3b3719c6-3b8c-529a-b0f3-75e0c07a018d",
+      "id": 8
+    },
+    {
+      "ownerId": 1,
+      "cardId": "d170698f-8b3c-5826-a562-e34bcf7bdec4",
+      "id": 9
+    }
+  ],
+  "deck": [],
+  "inDeck": [],
+  "colorCombo": []
+}
