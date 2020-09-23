@@ -5060,6 +5060,4360 @@
         }
       ],
       "id": "7442a705-e34c-5362-8bf1-b4fac3b9007b"
+    },
+    {
+      "name": "Skyline Scout",
+      "manaCost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Human Scout",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Scout"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Whenever Skyline Scout attacks, you may pay {1}{W}. If you do, it gains flying until end of turn.",
+      "flavor": "\"Sometimes an angel passes by and gives me a little nod, like, 'You're a daring one!' That always makes my day.\"",
+      "artist": "Paul Scott Canavan",
+      "number": "25",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 452775,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452775&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Häuserschluchtenspäher",
+          "text": "Immer wenn der Häuserschluchtenspäher angreift, kannst du {1}{W} bezahlen. Falls du dies tust, erhält er Flugfähigkeit bis zum Ende des Zuges.",
+          "flavor": "„Manchmal fliegt ein Engel vorbei und nickt mir zu, als wolle er sagen: ‚Du traust dich was!' Das stimmt mich immer fröhlich.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453034&type=card",
+          "language": "German",
+          "multiverseid": 453034
+        },
+        {
+          "name": "Explorador del horizonte",
+          "text": "Siempre que el Explorador del horizonte ataque, puedes pagar {1}{W}. Si lo haces, gana la habilidad de volar hasta el final del turno.",
+          "flavor": "\"A veces, me cruzo con un ángel y este asiente hacia mí, como diciendo: '¡Qué osado eres!'. Eso siempre me alegra el día\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453293&type=card",
+          "language": "Spanish",
+          "multiverseid": 453293
+        },
+        {
+          "name": "Éclaireur des tours",
+          "text": "À chaque fois que l'Éclaireur des tours attaque, vous pouvez payer {1}{W}. Si vous faites ainsi, il acquiert le vol jusqu'à la fin du tour.",
+          "flavor": "« Parfois, un ange passe et me fait un petit signe de tête qui veut probablement dire : \"Tu as du cran, toi !\" Ça me fait toujours plaisir. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453552&type=card",
+          "language": "French",
+          "multiverseid": 453552
+        },
+        {
+          "name": "Esploratore dei Tetti",
+          "text": "Ogniqualvolta l'Esploratore dei Tetti attacca, puoi pagare {1}{W}. Se lo fai, ha volare fino alla fine del turno.",
+          "flavor": "\"A volte un angelo mi passa accanto e mi fa un cenno con il capo, come per dire: 'Hai fegato!' È sempre una sensazione incredibile.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453811&type=card",
+          "language": "Italian",
+          "multiverseid": 453811
+        },
+        {
+          "name": "天空の斥候",
+          "text": "天空の斥候が攻撃するたび、あなたは{1}{W}を支払ってもよい。そうしたなら、ターン終了時まで、これは飛行を得る。",
+          "flavor": "「時折、すれ違い際に天使が軽くうなずくことがある。『向こう見ずね！』って感じで。ちょっといい気分だ。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454070&type=card",
+          "language": "Japanese",
+          "multiverseid": 454070
+        },
+        {
+          "name": "창공 정찰병",
+          "text": "창공 정찰병이 공격할 때마다, 당신은 {1}{W}를 지불할 수 있다. 그렇게 한다면, 창공 정찰병은 턴종료까지 비행을 얻는다.",
+          "flavor": "\"가끔 천사가 지나가면서 인사할 때가 있어, '너 참 대단한 녀석이구나!' 같이 말이야. 그런 날은 온종일 기분이 좋지.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454329&type=card",
+          "language": "Korean",
+          "multiverseid": 454329
+        },
+        {
+          "name": "Batedor dos Arranha-céus",
+          "text": "Toda vez que Batedor dos Arranha-céus ataca, você pode pagar {1}{W}. Se fizer isso, ele ganhará voar até o final do turno.",
+          "flavor": "\"Às vezes passa um anjo e me cumprimenta meneando a cabeça, tipo 'Você tem coragem!' Isso sempre alegra o meu dia.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454588&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454588
+        },
+        {
+          "name": "Небесный Разведчик",
+          "text": "Каждый раз, когда Небесный Разведчик атакует, вы можете заплатить {1}{W}. Если вы это делаете, он получает Полет до конца хода.",
+          "flavor": "«Порой мимо пролетает ангел и, знаешь, так слегка кивает мне — мол, ты смельчак. Тогда у меня до конца дня хорошее настроение».",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454847&type=card",
+          "language": "Russian",
+          "multiverseid": 454847
+        },
+        {
+          "name": "天际斥候",
+          "text": "每当天际斥候攻击时，你可以支付{1}{W}。若你如此作，则它获得飞行异能直到回合结束。",
+          "flavor": "「有时身边会有天使飞过向我点头致意，好像在跟我说『你真厉害！』这就值了。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455106&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455106
+        },
+        {
+          "name": "天際斥候",
+          "text": "每當天際斥候攻擊時，你可以支付{1}{W}。若你如此作，則它獲得飛行異能直到回合結束。",
+          "flavor": "「有時身邊會有天使飛過向我點頭致意，好像在跟我說『你真厲害！』這就值了。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455365&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455365
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Whenever Skyline Scout attacks, you may pay {1}{W}. If you do, it gains flying until end of turn.",
+      "originalType": "Creature — Human Scout",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "79ee1a63-6533-5ee8-afca-0f9e2181e448"
+    },
+    {
+      "name": "Artful Takedown",
+      "manaCost": "{2}{U}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "B",
+        "U"
+      ],
+      "type": "Instant",
+      "supertypes": [],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Choose one or both —\n• Tap target creature.\n• Target creature gets -2/-4 until end of turn.",
+      "flavor": "Dimir assassinations are choreographed like dance routines. Each challenge is anticipated and countered with graceful ease.",
+      "artist": "Mike Bierek",
+      "number": "151",
+      "layout": "normal",
+      "multiverseid": 452901,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452901&type=card",
+      "watermark": "dimir",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "Artful Takedown’s two modes may each target the same creature, or they may target two different creatures."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Kunstvoller Gegenschlag",
+          "text": "Bestimme eines oder beides —\n• Tappe eine Kreatur deiner Wahl.\n• Eine Kreatur deiner Wahl erhält -2/-4 bis zum Ende des Zuges.",
+          "flavor": "Mordanschläge der Dimir sind durchchoreografiert wie ein Tanz. Gegenwehr wird erwartet und mit eleganter Leichtigkeit gekontert.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453160&type=card",
+          "language": "German",
+          "multiverseid": 453160
+        },
+        {
+          "name": "Reducir con estilo",
+          "text": "Elige uno o ambos:\n• Gira la criatura objetivo.\n• La criatura objetivo obtiene -2/-4 hasta el final del turno.",
+          "flavor": "Los asesinatos dimir están coreografiados como si fueran danzas. Cada dificultad se anticipa y contrarresta con una elegante facilidad.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453419&type=card",
+          "language": "Spanish",
+          "multiverseid": 453419
+        },
+        {
+          "name": "Descente artistique",
+          "text": "Choisissez l'un ou les deux —\n• Engagez la créature ciblée.\n• La créature ciblée gagne -2/-4 jusqu'à la fin du tour.",
+          "flavor": "Les assassinats perpétrés par les Dimir sont chorégraphiés tels des danses. Chaque difficulté est anticipée et contrée avec grâce et facilité.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453678&type=card",
+          "language": "French",
+          "multiverseid": 453678
+        },
+        {
+          "name": "Atterramento Abile",
+          "text": "Scegli uno o entrambi —\n• TAPpa una creatura bersaglio.\n• Una creatura bersaglio prende -2/-4 fino alla fine del turno.",
+          "flavor": "Gli omicidi dei Dimir sono eseguiti secondo una coreografia simile a una danza. Ogni resistenza è prevista e neutralizzata con grazia e rapidità.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453937&type=card",
+          "language": "Italian",
+          "multiverseid": 453937
+        },
+        {
+          "name": "巧みな叩き伏せ",
+          "text": "以下から１つまたは両方を選ぶ。\n• クリーチャー１体を対象とし、それをタップする。\n• クリーチャー１体を対象とする。ターン終了時まで、それは－２/－４の修整を受ける。",
+          "flavor": "ディミーアの暗殺はダンスの動きのように振り付けされている。一切の抵抗は織り込み済みであり、優美な所作で片付けられる。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454196&type=card",
+          "language": "Japanese",
+          "multiverseid": 454196
+        },
+        {
+          "name": "예술적인 체포",
+          "text": "하나 혹은 둘 다를 선택한다 —\n• 생물을 목표로 정한다. 그 생물을 탭한다.\n• 생물을 목표로 정한다. 그 생물은 턴종료까지 -2/-4를 받는다.",
+          "flavor": "디미르 암살자들은 춤 동작같은 움직임을 연습한다. 모든 반항은 우아한 동작으로 대응되며 반격된다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454455&type=card",
+          "language": "Korean",
+          "multiverseid": 454455
+        },
+        {
+          "name": "Derrubada Engenhosa",
+          "text": "Escolha um ou ambos —\n• Vire a criatura alvo.\n• A criatura alvo recebe -2/-4 até o final do turno.",
+          "flavor": "Os assassinatos dos Dimir são coreografados como números de dança. Cada desafio é previsto e superado com graciosa facilidade.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454714&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454714
+        },
+        {
+          "name": "Искусное Устранение",
+          "text": "Выберите одно или оба —\n• Поверните целевое существо.\n• Целевое существо получает -2/-4 до конца хода.",
+          "flavor": "Димиры ставят свои убийства, как танцевальные представления. Каждое затруднение ожидается и преодолевается с грациозной легкостью.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454973&type=card",
+          "language": "Russian",
+          "multiverseid": 454973
+        },
+        {
+          "name": "巧妙击倒",
+          "text": "选择一项或都选～\n•横置目标生物。\n•目标生物得-2/-4直到回合结束。",
+          "flavor": "底密尔的刺杀如同精心设计的舞蹈动作。完美预计到每一项挑战，并从容应对。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455232&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455232
+        },
+        {
+          "name": "巧妙擊倒",
+          "text": "選擇一項或都選～\n•橫置目標生物。\n•目標生物得-2/-4直到回合結束。",
+          "flavor": "底密爾的刺殺如同精心設計的舞蹈動作。完美預計到每一項挑戰，並從容應對。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455491&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455491
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Choose one or both —\n• Tap target creature.\n• Target creature gets -2/-4 until end of turn.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "6e3cbd60-2029-54c3-bd80-1af3e30462f3"
+    },
+    {
+      "name": "Bartizan Bats",
+      "manaCost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Bat",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Bat"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+      "flavor": "\"Bats are welcome to eat thousands of my pets. I have multitudes more that will ultimately eat the bats.\"\n—Izoni",
+      "artist": "Nils Hamm",
+      "number": "62",
+      "power": "3",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 452812,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452812&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Erkerturmfledermaus",
+          "text": "Fliegend",
+          "flavor": "„Die Fledermäuse dürfen gerne meine Haustiere fressen. Ich habe noch unzählige mehr und letztlich werden sie die Fledermäuse fressen.\"\n—Izoni",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453071&type=card",
+          "language": "German",
+          "multiverseid": 453071
+        },
+        {
+          "name": "Murciélagos del baluarte",
+          "text": "Vuela.",
+          "flavor": "\"Los murciélagos pueden comerse miles de mis mascotas, si quieren. Tengo muchas más que acabarán comiéndoselos a ellos\".\n—Izoni",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453330&type=card",
+          "language": "Spanish",
+          "multiverseid": 453330
+        },
+        {
+          "name": "Chauves-souris des échauguettes",
+          "text": "Vol",
+          "flavor": "« Les chauves-souris peuvent venir manger des milliers de mes animaux. J'en ai tellement plus qu'ils finiront un jour par manger les chauves-souris. »\n—Izoni",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453589&type=card",
+          "language": "French",
+          "multiverseid": 453589
+        },
+        {
+          "name": "Pipistrelli della Bertesca",
+          "text": "Volare",
+          "flavor": "\"I pipistrelli possono tranquillamente mangiare qualche migliaio dei miei tesorini. Ne ho altre moltitudini che finiranno per divorare i pipistrelli stessi.\"\n—Izoni",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453848&type=card",
+          "language": "Italian",
+          "multiverseid": 453848
+        },
+        {
+          "name": "張り出し櫓のコウモリ",
+          "text": "飛行",
+          "flavor": "「コウモリが私のペットを何千匹と食べてしまっても構いません。まだまだ無数にいるので、結局食べられるのはコウモリですから。」\n――アイゾーニ",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454107&type=card",
+          "language": "Japanese",
+          "multiverseid": 454107
+        },
+        {
+          "name": "망루 박쥐",
+          "text": "비행",
+          "flavor": "\"박쥐들이 내 애완동물들을 얼마든지 먹어치워도 된다. 내겐 그보다 훨씬 더 많은 아이들이 있고 그것들이 끝내 박쥐들을 먹어 버릴 테니.\"\n—아이조니",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454366&type=card",
+          "language": "Korean",
+          "multiverseid": 454366
+        },
+        {
+          "name": "Morcegos de Bartizan",
+          "text": "Voar",
+          "flavor": "\"Os morcegos são bem-vindos. Podem vir e comer milhares dos meus bichinhos. Tenho incontáveis mais que no fim das contas comerão os morcegos.\"\n— Izoni",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454625&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454625
+        },
+        {
+          "name": "Сторожевые Нетопыри",
+          "text": "Полет",
+          "flavor": "«Моих питомцев летучие мыши могут жрать хоть тысячами. У меня их неисчислимо больше, и в конце концов это они сожрут летучих мышей».\n— Изони",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454884&type=card",
+          "language": "Russian",
+          "multiverseid": 454884
+        },
+        {
+          "name": "顶塔蝙蝠",
+          "text": "飞行",
+          "flavor": "「蝙蝠大可畅食我那数以千计的宠物。我拥有的数量之大，终将吃掉蝙蝠。」\n～依佐妮",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455143&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455143
+        },
+        {
+          "name": "頂塔蝙蝠",
+          "text": "飛行",
+          "flavor": "「蝙蝠大可暢食我那數以千計的寵物。我擁有的數量之大，終將吃掉蝙蝠。」\n～依佐妮",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455402&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455402
+        }
+      ],
+      "printings": [
+        "GRN",
+        "M20",
+        "MB1"
+      ],
+      "originalText": "Flying",
+      "originalType": "Creature — Bat",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "0ea61f50-0f94-5ef8-a015-35b884626e56"
+    },
+    {
+      "name": "Mutiny",
+      "manaCost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "RIX",
+      "setName": "Rivals of Ixalan",
+      "text": "Target creature an opponent controls deals damage equal to its power to another target creature that player controls.",
+      "flavor": "Pirate captains rarely enjoy a peaceful retirement.",
+      "artist": "Gabor Szikszai",
+      "number": "106",
+      "layout": "normal",
+      "multiverseid": 439763,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439763&type=card",
+      "rulings": [
+        {
+          "date": "2018-01-19",
+          "text": "If either or both targets are illegal when Mutiny resolves, no creature will deal or be dealt damage."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Meuterei",
+          "text": "Eine Kreatur deiner Wahl, die ein Gegner kontrolliert, fügt einer anderen Kreatur deiner Wahl, die jener Spieler kontrolliert, Schadenspunkte in Höhe ihrer Stärke zu.",
+          "flavor": "Piratenkapitäne gehen am Ende ihrer Karriere selten einfach in den Ruhestand.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439966&type=card",
+          "language": "German",
+          "multiverseid": 439966
+        },
+        {
+          "name": "Motín",
+          "text": "La criatura objetivo que controla un oponente hace una cantidad de daño igual a su fuerza a otra criatura objetivo que controla ese jugador.",
+          "flavor": "Un capitán pirata no suele disfrutar de una jubilación tranquila.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440169&type=card",
+          "language": "Spanish",
+          "multiverseid": 440169
+        },
+        {
+          "name": "Mutinerie",
+          "text": "Une créature ciblée qu'un adversaire contrôle inflige un nombre de blessures égal à sa force à une autre créature ciblée que ce joueur contrôle.",
+          "flavor": "Les capitaines pirates jouissent rarement d'une retraite paisible.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440372&type=card",
+          "language": "French",
+          "multiverseid": 440372
+        },
+        {
+          "name": "Ammutinamento",
+          "text": "Una creatura bersaglio controllata da un avversario infligge danno pari alla propria forza a un'altra creatura bersaglio controllata da quel giocatore.",
+          "flavor": "Raramente i capitani pirati vivono una vecchiaia tranquilla.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440575&type=card",
+          "language": "Italian",
+          "multiverseid": 440575
+        },
+        {
+          "name": "反逆",
+          "text": "対戦相手がコントロールしているクリーチャー１体と、そのプレイヤーがコントロールしている他のクリーチャー１体を対象とする。その前者はその後者に自身のパワーに等しい点数のダメージを与える。",
+          "flavor": "海賊船の船長が穏やかに引退できることはまずない。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440778&type=card",
+          "language": "Japanese",
+          "multiverseid": 440778
+        },
+        {
+          "name": "반란",
+          "text": "상대가 조종하는 생물과 그 플레이어가 조종하는 다른 생물을 목표로 정한다. 첫 번째 목표가 두 번째 목표에 자신의 공격력만큼 피해를 입힌다.",
+          "flavor": "평화로운 은퇴를 즐기는 해적 선장은 손에 꼽을 정도이다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440981&type=card",
+          "language": "Korean",
+          "multiverseid": 440981
+        },
+        {
+          "name": "Motim",
+          "text": "A criatura alvo que um oponente controla causa dano igual ao seu poder a outra criatura alvo que aquele jogador controla.",
+          "flavor": "Capitães piratas raramente chegam a uma aposentadoria pacífica.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441184&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 441184
+        },
+        {
+          "name": "Мятеж",
+          "text": "Целевое существо под контролем оппонента наносит повреждения, равные своей силе, другому целевому существу под контролем того игрока.",
+          "flavor": "Пиратским капитанам редко удается тихо и мирно удалиться на заслуженный отдых.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441387&type=card",
+          "language": "Russian",
+          "multiverseid": 441387
+        },
+        {
+          "name": "哗变",
+          "text": "目标由对手操控的生物向另一个目标由该牌手操控的生物造成伤害，其数量等同于前者的力量。",
+          "flavor": "海盗船长通常都没法安享退休时光。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441590&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 441590
+        },
+        {
+          "name": "嘩變",
+          "text": "目標由對手操控的生物向另一個目標由該玩家操控的生物造成傷害，其數量等同於前者的力量。",
+          "flavor": "海盜船長通常都沒法安享退休時光。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441793&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 441793
+        }
+      ],
+      "printings": [
+        "MB1",
+        "RIX"
+      ],
+      "originalText": "Target creature an opponent controls deals damage equal to its power to another target creature that player controls.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "eab21875-7259-550f-88c3-3a0fc892b352"
+    },
+    {
+      "name": "Bombard",
+      "manaCost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Instant",
+      "supertypes": [],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "RIX",
+      "setName": "Rivals of Ixalan",
+      "text": "Bombard deals 4 damage to target creature.",
+      "flavor": "\"Want to sink a ship? Blow a hole in the hull. Want to kill a regisaur? Same answer.\"\n—Captain Brandis Thorn",
+      "artist": "Alex Konstad",
+      "number": "93",
+      "layout": "normal",
+      "multiverseid": 439750,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439750&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Bombardieren",
+          "text": "Bombardieren fügt einer Kreatur deiner Wahl 4 Schadenspunkte zu.",
+          "flavor": "„Du willst ein Schiff versenken? Sprenge ein Loch in den Rumpf. Du willst einen Regisaurus erlegen? Selbe Antwort.\" —Kapitän Brandis Dorn",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439953&type=card",
+          "language": "German",
+          "multiverseid": 439953
+        },
+        {
+          "name": "Cañonear",
+          "text": "Cañonear hace 4 puntos de daño a la criatura objetivo.",
+          "flavor": "\"¿Quieres hundir un barco? Ábrele un agujero en la barriga. ¿Quieres matar a un regisaurio? La respuesta es la misma\". —Capitán Brandis Espina",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440156&type=card",
+          "language": "Spanish",
+          "multiverseid": 440156
+        },
+        {
+          "name": "Canonnade",
+          "text": "La Canonnade inflige 4 blessures à une créature ciblée.",
+          "flavor": "« Vous voulez couler un navire ? Faites un trou dans la coque. Vous voulez tuer un régisaure ? Même réponse. » —Capitaine Brandis Espine",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440359&type=card",
+          "language": "French",
+          "multiverseid": 440359
+        },
+        {
+          "name": "Cannoneggiare",
+          "text": "Cannoneggiare infligge 4 danni a una creatura bersaglio.",
+          "flavor": "\"Vuoi affondare una nave? Fai un buco nella carcassa. Vuoi far fuori un regisauro? Stessa risposta.\" —Capitano Brandis Pugno di Spine",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440562&type=card",
+          "language": "Italian",
+          "multiverseid": 440562
+        },
+        {
+          "name": "砲撃",
+          "text": "クリーチャー１体を対象とする。砲撃はそれに４点のダメージを与える。",
+          "flavor": "「船を沈めるのか？横っ腹に一発撃ち込め。レギサウルスを仕留めるのか？答えは同じだ。」 ――棘針船長ブランディス",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440765&type=card",
+          "language": "Japanese",
+          "multiverseid": 440765
+        },
+        {
+          "name": "포격",
+          "text": "생물을 목표로 정한다. 포격은 그 생물에게 피해 4점을 입힌다.",
+          "flavor": "\"배를 가라앉히고 싶어? 몸통에 구멍을 내. 레기사우루스를 죽이고 싶어? 똑같아.\" —브랜디스 쏜 선장",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440968&type=card",
+          "language": "Korean",
+          "multiverseid": 440968
+        },
+        {
+          "name": "Bombardear",
+          "text": "Bombardear causa 4 pontos de dano à criatura alvo.",
+          "flavor": "\"Quer afundar um navio? Abra um buraco no casco. Quer matar um regissauro? É igualzinho.\" — Capitão Brandis Espinho",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441171&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 441171
+        },
+        {
+          "name": "Обстрел",
+          "text": "Обстрел наносит 4 повреждения целевому существу.",
+          "flavor": "«Хочешь потопить корабль? Пробей дыру в корпусе. Хочешь убить регизавра? Ответ тот же самый». — капитан Брандис Шип",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441374&type=card",
+          "language": "Russian",
+          "multiverseid": 441374
+        },
+        {
+          "name": "火炮轰击",
+          "text": "火炮轰击对目标生物造成4点伤害。",
+          "flavor": "「想要把船炸沉？往身上轰出一个洞来就好。想要炸死帝王龙？一样。」 ～布兰迪竦恩船长",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441577&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 441577
+        },
+        {
+          "name": "火炮轟擊",
+          "text": "火炮轟擊對目標生物造成4點傷害。",
+          "flavor": "「想要把船炸沉？往身上轟出一個洞來就好。想要炸死帝王龍？一樣。」 ～布蘭迪竦恩船長",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441780&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 441780
+        }
+      ],
+      "printings": [
+        "ANB",
+        "GNT",
+        "MB1",
+        "RIX"
+      ],
+      "originalText": "Bombard deals 4 damage to target creature.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7553f9ab-50db-51d9-8dab-068da11612b2"
+    },
+    {
+      "name": "Oracle's Insight",
+      "manaCost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Enchantment — Aura",
+      "supertypes": [],
+      "types": [
+        "Enchantment"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "rarity": "Uncommon",
+      "set": "BBD",
+      "setName": "Battlebond",
+      "text": "Enchant creature\nEnchanted creature has \"{T}: Scry 1, then draw a card.\" (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",
+      "artist": "Raymond Swanland",
+      "number": "127",
+      "layout": "normal",
+      "multiverseid": 446095,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=446095&type=card",
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "When you scry, you may put all the cards you look at back on top of your library, you may put all of those cards on the bottom of your library, or you may put some of those cards on top and the rest of them on the bottom."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You choose how to order cards returned to your library after scrying no matter where you put them."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You perform the actions stated on a card in sequence. For some spells and abilities, that means you’ll scry last. For others, that means you’ll scry and then perform other actions."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability’s targets are illegal when it tries to resolve, it won’t resolve and none of its effects will happen. You won’t scry."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "神託者の眼識",
+          "text": "エンチャント（クリーチャー）\nエンチャントされているクリーチャーは「{T}：占術１を行い、その後カードを１枚引く。」を持つ。（占術１を行うとは、「あなたのライブラリーの一番上のカードを見る。その後あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。」ということである。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=446351&type=card",
+          "language": "Japanese",
+          "multiverseid": 446351
+        },
+        {
+          "name": "先知眼光",
+          "text": "结附于生物\n所结附的生物具有「{T}：占卜1，然后抓一张牌。」（占卜1的流程是检视你牌库顶的牌，然后你可以将该牌置于你的牌库底。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=446607&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 446607
+        }
+      ],
+      "printings": [
+        "BBD",
+        "BNG"
+      ],
+      "originalText": "Enchant creature\nEnchanted creature has \"{T}: Scry 1, then draw a card.\" (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",
+      "originalType": "Enchantment — Aura",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c6989ccf-5a8e-5b9d-a971-5fb34c4c93d5"
+    },
+    {
+      "name": "Lantern of Insight",
+      "manaCost": "{1}",
+      "cmc": 1,
+      "colors": [],
+      "colorIdentity": [],
+      "type": "Artifact",
+      "supertypes": [],
+      "types": [
+        "Artifact"
+      ],
+      "subtypes": [],
+      "rarity": "Uncommon",
+      "set": "5DN",
+      "setName": "Fifth Dawn",
+      "text": "Players play with the top card of their libraries revealed.\n{T}, Sacrifice Lantern of Insight: Target player shuffles their library.",
+      "flavor": "Each eye sees a different possibility for tomorrow.",
+      "artist": "Tim Hildebrandt",
+      "number": "135",
+      "layout": "normal",
+      "multiverseid": 73927,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=73927&type=card",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If the top card of your library changes while you’re casting a spell or activating an ability, the new top card won’t be revealed until you finish casting that spell or activating that ability."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When playing with the top card of your library revealed, if an effect tells you to draw several cards, reveal each one before you draw it."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The top card of your library isn’t in your hand, so you can’t suspend it, cycle it, discard it, or activate any of its activated abilities."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Laterne der Einsicht",
+          "text": "Die oberste Karte der Bibliothek jedes Spielers ist aufgedeckt.\n{T}, opfere die Laterne der Einsicht: Ein Spieler deiner Wahl mischt seine Bibliothek.",
+          "flavor": "Jedes Auge sieht eine andere Möglichkeit für den kommenden Tag.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=80963&type=card",
+          "language": "German",
+          "multiverseid": 80963
+        },
+        {
+          "name": "Linterna de la perspicacia",
+          "text": "Cada jugador juega mostrando la carta de la parte superior de su biblioteca.\n{T}, sacrificar la Linterna de la perspicacia: El jugador objetivo baraja su biblioteca.",
+          "flavor": "Cada ojo ve distintas posibilidades para el mañana.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81128&type=card",
+          "language": "Spanish",
+          "multiverseid": 81128
+        },
+        {
+          "name": "Lanterne de perspicacité",
+          "text": "Chaque joueur joue avec la carte du dessus de sa bibliothèque révélée.\n{T}, Sacrifiez la Lanterne de perspicacité : Le joueur ciblé mélange sa bibliothèque.",
+          "flavor": "Chaque œil voit un lendemain différent.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=80798&type=card",
+          "language": "French",
+          "multiverseid": 80798
+        },
+        {
+          "name": "Lanterna della Perspicacia",
+          "text": "Ogni giocatore gioca con la prima carta del proprio grimorio rivelata.\n{T}, Sacrifica la Lanterna della Perspicacia: Il giocatore bersaglio rimescola il proprio grimorio.",
+          "flavor": "Ciascun occhio vede un diverso domani.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81293&type=card",
+          "language": "Italian",
+          "multiverseid": 81293
+        },
+        {
+          "name": "洞察のランタン",
+          "text": "各プレイヤーは、自分のライブラリーの一番上を公開してゲームを行う。\n{T}, 洞察のランタンを生け贄に捧げる：プレイヤー１人を対象とし、そのプレイヤーのライブラリーを切り直す。",
+          "flavor": "それぞれの目は違った未来の可能性を見つめている。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=80633&type=card",
+          "language": "Japanese",
+          "multiverseid": 80633
+        },
+        {
+          "name": "Lanterna de Introvisão",
+          "text": "Cada jogador joga com o card do topo de seu grimório revelado.\n{T}, Sacrifique Lanterna de Introvisão: O jogador alvo embaralha o seu próprio grimório.",
+          "flavor": "Cada olho enxerga uma possibilidade diferente para o amanhã.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81458&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 81458
+        },
+        {
+          "name": "洞察明灯",
+          "text": "每位牌手以展示其牌库顶牌的方式进行游戏。\n{T}，牺牲洞察明灯：目标牌手将其牌库洗牌。",
+          "flavor": "每只眼看到的明日契机各不相同。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81623&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 81623
+        }
+      ],
+      "printings": [
+        "5DN",
+        "FMB1"
+      ],
+      "originalText": "Each player plays with the top card of his or her library revealed.\n{T}, Sacrifice Lantern of Insight: Target player shuffles his or her library.",
+      "originalType": "Artifact",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "ae612cb6-9ca5-553e-b9c8-068e1582ae1f"
+    },
+    {
+      "name": "Chemister's Insight",
+      "manaCost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "supertypes": [],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [],
+      "rarity": "Uncommon",
+      "set": "C20",
+      "setName": "Commander 2020",
+      "text": "Draw two cards.\nJump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",
+      "flavor": "\"My specialty is theoretical universal limits and ways to circumvent them.\"",
+      "artist": "Josh Hass",
+      "number": "108",
+      "layout": "normal",
+      "multiverseid": 482736,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=482736&type=card",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "You must still follow any timing restrictions and permissions, including those based on the card’s type. For instance, you can cast a sorcery using jump-start only when you could normally cast a sorcery."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "A spell cast using jump-start will always be exiled afterward, whether it resolves, it’s countered, or it leaves the stack in some other way."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If an effect allows you to pay an alternative cost rather than a spell’s mana cost, you may pay that alternative cost when you jump-start a spell. You’ll still discard a card as an additional cost to cast it."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If a card with jump-start is put into your graveyard during your turn, you’ll be able to cast it right away if it’s legal to do so, before an opponent can take any actions."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Einblick des Chemisters",
+          "text": "Ziehe zwei Karten.\nKatalyse (Du kannst diese Karte aus deinem Friedhof wirken, indem du zusätzlich zu ihren anderen Kosten eine Karte abwirfst. Schicke sie danach ins Exil.)",
+          "flavor": "„Meine Spezialität sind theoretische Universalgrenzen und Wege, diese zu umgehen.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=482987&type=card",
+          "language": "German",
+          "multiverseid": 482987
+        },
+        {
+          "name": "Perspicacia de la quimista",
+          "text": "Roba dos cartas.\nRecargar. (Puedes lanzar esta carta desde tu cementerio descartando una carta además de pagar sus otros costes. Luego, exilia esta carta.)",
+          "flavor": "\"Mi especialidad son los límites universales teóricos y las formas de sortearlos\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=483238&type=card",
+          "language": "Spanish",
+          "multiverseid": 483238
+        },
+        {
+          "name": "Perspicacité du chimiste",
+          "text": "Piochez deux cartes.\nRelancez (Vous pouvez lancer cette carte depuis votre cimetière en vous défaussant d'une carte en plus de payer ses autres coûts. Puis exilez cette carte.)",
+          "flavor": "« Je me spécialise dans les limites universelles théoriques et les manières de les contourner. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=483489&type=card",
+          "language": "French",
+          "multiverseid": 483489
+        },
+        {
+          "name": "Intuizione della Chimimaga",
+          "text": "Pesca due carte.\nCarica d'avvio (Puoi lanciare questa carta dal tuo cimitero scartando una carta oltre a pagare i suoi altri costi. Poi esilia questa carta.)",
+          "flavor": "\"La mia specialità è l'analisi dei limiti teorici universali e dei metodi per aggirarli.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=483740&type=card",
+          "language": "Italian",
+          "multiverseid": 483740
+        },
+        {
+          "name": "薬術師の眼識",
+          "text": "カードを２枚引く。\n再活（あなたはあなたの墓地から、このカードを、他のこれのコストの支払いに加えてカード１枚を捨てることで唱えてもよい。その後、このカードを追放する。）",
+          "flavor": "「私の専門は理論的万有制約と、その回避方法よ。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=483991&type=card",
+          "language": "Japanese",
+          "multiverseid": 483991
+        },
+        {
+          "name": "Visão da Quimiomante",
+          "text": "Compre dois cards.\nRecarregar (Você pode conjurar este card de seu cemitério descartando um card além de pagar seus outros custos. Depois, exile este card.)",
+          "flavor": "\"Minha especialidade são limites universais teóricos e maneiras de contorná-los.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=484242&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 484242
+        },
+        {
+          "name": "Озарение Химика",
+          "text": "Возьмите две карты.\nИмпульс (Вы можете разыграть эту карту из вашего кладбища, сбросив карту в дополнение к оплате других ее стоимостей. Затем изгоните эту карту.)",
+          "flavor": "«Моя специальность — теоретические пределы мироздания и способы их обойти».",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=484493&type=card",
+          "language": "Russian",
+          "multiverseid": 484493
+        }
+      ],
+      "printings": [
+        "C19",
+        "C20",
+        "GRN",
+        "PLIST"
+      ],
+      "originalText": "Draw two cards.\nJump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "30a10eab-a1be-5a69-898f-21ff8314f630"
+    },
+    {
+      "name": "Ugin's Insight",
+      "manaCost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Rare",
+      "set": "BFZ",
+      "setName": "Battle for Zendikar",
+      "text": "Scry X, where X is the highest converted mana cost among permanents you control, then draw three cards.",
+      "flavor": "\"You speak to me of the threat of Ulamog. But do not forget: they came as three.\"\n—Ugin, to Jace Beleren",
+      "artist": "Tyler Jacobson",
+      "number": "87",
+      "layout": "normal",
+      "multiverseid": 402078,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402078&type=card",
+      "rulings": [
+        {
+          "date": "2015-08-25",
+          "text": "Use the highest converted mana cost among permanents you control as Ugin’s Insight resolves to determine how many cards you scry."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "If X is 0, you won’t scry at all. Any abilities that trigger whenever you scry won’t trigger."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Einblick des Ugin",
+          "text": "Wende Hellsicht X an, wobei X gleich den höchsten umgewandelten Manakosten unter den bleibenden Karten ist, die du kontrollierst. Ziehe dann drei Karten.",
+          "flavor": "„Du sprichst zu mir über die Gefahr durch Ulamog. Aber du darfst nicht vergessen: Sie kamen zu dritt.\"—Ugin zu Jace Beleren",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402975&type=card",
+          "language": "German",
+          "multiverseid": 402975
+        },
+        {
+          "name": "Perspicacia de Ugin",
+          "text": "Adivina X, donde X es el coste de maná convertido más alto entre los permanentes que controlas. Luego roba tres cartas.",
+          "flavor": "\"Me hablas de la amenaza que supone Ulamog, pero no olvides que eran tres\".—Ugin, a Jace Beleren",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=405068&type=card",
+          "language": "Spanish",
+          "multiverseid": 405068
+        },
+        {
+          "name": "Perspicacité d'Ugin",
+          "text": "Regard X, X étant le coût converti de mana le plus élevé parmi les permanents que vous contrôlez, puis piochez trois cartes.",
+          "flavor": "« Tu me parles de la menace d'Ulamog. Mais n'oublie pas qu'ils sont trois. »—Ugin, à Jace Beleren",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=403274&type=card",
+          "language": "French",
+          "multiverseid": 403274
+        },
+        {
+          "name": "Visione di Ugin",
+          "text": "Profetizza X, dove X è il costo di mana convertito più alto tra i permanenti che controlli, poi pesca tre carte.",
+          "flavor": "\"Mi parli della minaccia costituita da Ulamog. Ma non dimenticare: sono venuti in tre.\"—Ugin a Jace Beleren",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=403573&type=card",
+          "language": "Italian",
+          "multiverseid": 403573
+        },
+        {
+          "name": "ウギンの洞察力",
+          "text": "占術Ｘを行う。Ｘは、あなたがコントロールするパーマネントの点数で見たマナ・コストの中で最も大きいものに等しい。その後カードを３枚引く。",
+          "flavor": "「おぬしはウラモグの脅威と言う。だが、あれは３体で来たのだ。それを忘れるでない。」――ウギンからジェイス・ベレレンへ",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=403872&type=card",
+          "language": "Japanese",
+          "multiverseid": 403872
+        },
+        {
+          "name": "우진의 통찰력",
+          "text": "점술 X를 한 후, 카드 세 장을 뽑는다. X는 당신이 조종하는 지속물들의 전환마나비용 중 가장 높은 비용이다.",
+          "flavor": "\"자네는 울라목의 위협에 대해서 말하는군. 하지만 명심하게. 그 놈들은 셋이서 왔다는 것을.\"—우진이 제이스 벨레렌에게",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=404171&type=card",
+          "language": "Korean",
+          "multiverseid": 404171
+        },
+        {
+          "name": "Visão de Ugin",
+          "text": "Use vidência X, sendo X o custo de mana convertido mais alto dentre os das permanentes que você controla, e depois compre três cards.",
+          "flavor": "\"Você me fala da ameaça de Ulamog. Mas não se esqueça: eles vieram em três.\"— Ugin, para Jace Beleren",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=404470&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 404470
+        },
+        {
+          "name": "Проницательность Уджина",
+          "text": "Предскажите Х, где Х — наибольшее значение конвертированной мана-стоимости среди перманентов под вашим контролем, затем возьмите три карты.",
+          "flavor": "«Ты рассказываешь мне об угрозе, которую несет Уламог. Но не забывай: они пришли втроем».— Уджин, обращаясь к Джейсу Белерену",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=404769&type=card",
+          "language": "Russian",
+          "multiverseid": 404769
+        },
+        {
+          "name": "乌金的洞察",
+          "text": "占卜X，X为由你操控的永久物间最高之总法术力费用，然后抓三张牌。",
+          "flavor": "「你对我讲述了钨拉莫的威胁。但别忘了，它们一来就是三个。」～乌金告诉杰斯贝连",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402377&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 402377
+        },
+        {
+          "name": "烏金的洞察",
+          "text": "占卜X，X為由你操控的永久物間最高之總魔法力費用，然後抽三張牌。",
+          "flavor": "「你對我講述了鎢拉莫的威脅。但別忘了，它們一來就是三個。」～烏金告訴傑斯貝連",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402676&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 402676
+        }
+      ],
+      "printings": [
+        "BFZ",
+        "PBFZ"
+      ],
+      "originalText": "Scry X, where X is the highest converted mana cost among permanents you control, then draw three cards.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "720e8879-448f-5097-90ba-dd3d4b075b19"
+    },
+    {
+      "name": "Hunter's Insight",
+      "manaCost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "G"
+      ],
+      "type": "Instant",
+      "supertypes": [],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [],
+      "rarity": "Uncommon",
+      "set": "C20",
+      "setName": "Commander 2020",
+      "text": "Choose target creature you control. Whenever that creature deals combat damage to a player or planeswalker this turn, draw that many cards.",
+      "flavor": "\"The predator knows the true way of the world. Life is conflict. Only the strong survive.\"\n—Garruk Wildspeaker",
+      "artist": "Terese Nielsen",
+      "number": "178",
+      "layout": "normal",
+      "multiverseid": 482806,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=482806&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Einblicke des Jägers",
+          "text": "Bestimme eine Kreatur deiner Wahl, die du kontrollierst. Immer wenn die Kreatur in diesem Zug einem Spieler oder einem Planeswalker Kampfschaden zufügt, ziehe entsprechend viele Karten.",
+          "flavor": "„Das Raubtier weiß, wie die Welt funktioniert. Leben bedeutet Konflikt. Nur die Starken überleben.\"\n—Garruk Wildsprecher",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=483057&type=card",
+          "language": "German",
+          "multiverseid": 483057
+        },
+        {
+          "name": "Perspicacia del cazador",
+          "text": "Elige la criatura objetivo que controlas. Siempre que esa criatura haga daño de combate a un jugador o planeswalker este turno, roba esa misma cantidad de cartas.",
+          "flavor": "\"El depredador conoce el verdadero rostro del mundo. La vida es un conflicto. Solo los fuertes sobreviven\".\n—Garruk Portavoz Salvaje",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=483308&type=card",
+          "language": "Spanish",
+          "multiverseid": 483308
+        },
+        {
+          "name": "Perspicacité du chasseur",
+          "text": "Choisissez une créature ciblée que vous contrôlez. À chaque fois que cette créature inflige des blessures de combat à un joueur ou à un planeswalker ce tour-ci, piochez autant de cartes.",
+          "flavor": "« Le prédateur sait comment fonctionne vraiment le monde. La vie n'est que conflit. Seuls les plus forts survivent. »\n—Garruk Languebestion",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=483559&type=card",
+          "language": "French",
+          "multiverseid": 483559
+        },
+        {
+          "name": "Intuito del Cacciatore",
+          "text": "Scegli una creatura bersaglio che controlli. Ogniqualvolta quella creatura infligge danno da combattimento a un giocatore o a un planeswalker in questo turno, pesca altrettante carte.",
+          "flavor": "\"Il predatore sa come funziona in realtà il mondo. La vita è conflitto. Solo i forti sopravvivono.\"\n—Garruk Lingua Selvaggia",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=483810&type=card",
+          "language": "Italian",
+          "multiverseid": 483810
+        },
+        {
+          "name": "狩人の眼識",
+          "text": "あなたがコントロールしているクリーチャー１体を対象とする。このターン、そのクリーチャーがプレイヤー１人かプレインズウォーカー１体に戦闘ダメージを与えるたび、その点数に等しい枚数のカードを引く。",
+          "flavor": "「捕食者は世界の真のあり方を知っている。生命とは戦いだ。強いものだけが生き残る。」\n――野生語りのガラク",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=484061&type=card",
+          "language": "Japanese",
+          "multiverseid": 484061
+        },
+        {
+          "name": "Percepção do Caçador",
+          "text": "Escolha uma criatura alvo que você controla. Toda vez que aquela criatura causar dano de combate a um jogador ou a um planeswalker neste turno, compre uma quantidade equivalente de cards.",
+          "flavor": "\"O predador conhece o mundo como ele é. A vida é um conflito. Apenas os fortes sobrevivem.\"\n— Garruk Falabravo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=484312&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 484312
+        },
+        {
+          "name": "Проницательность Охотника",
+          "text": "Выберите целевое существо под вашим контролем. Каждый раз, когда то существо наносит боевые повреждения игроку или planeswalker'у в этом ходу, возьмите столько же карт.",
+          "flavor": "«Хищник знает истинный порядок в мире. Жизнь — это борьба. Выживают лишь сильные».\n— Гаррук Дикоречивый",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=484563&type=card",
+          "language": "Russian",
+          "multiverseid": 484563
+        }
+      ],
+      "printings": [
+        "C20",
+        "JMP",
+        "M12"
+      ],
+      "originalText": "Choose target creature you control. Whenever that creature deals combat damage to a player or planeswalker this turn, draw that many cards.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "455ef7f2-6a6b-528a-ae43-cd53304d7653"
+    },
+    {
+      "name": "Profane Insight",
+      "names": [
+        "Foulmire Knight",
+        "Profane Insight"
+      ],
+      "manaCost": "{2}{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Instant — Adventure",
+      "supertypes": [],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [
+        "Adventure"
+      ],
+      "rarity": "Uncommon",
+      "set": "ELD",
+      "setName": "Throne of Eldraine",
+      "text": "You draw a card and you lose 1 life. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Alex Brock",
+      "number": "90",
+      "layout": "adventure",
+      "multiverseid": 473052,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473052&type=card",
+      "variations": [
+        "8918fbfd-e320-5ee5-ac27-115656f6fe3a"
+      ],
+      "rulings": [
+        {
+          "date": "2019-10-04",
+          "text": "An adventurer card is a creature card in every zone except the stack, as well as while on the stack if not cast as an Adventure. Ignore its alternative characteristics in those cases. For example, while it’s in your graveyard, Giant Killer is a white creature card whose converted mana cost is 1. It can’t be the target of the triggered ability of Mystic Sanctuary."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "When casting a spell as an Adventure, use the alternative characteristics and ignore all of the card’s normal characteristics. The spell’s color, mana cost, converted mana cost, and so on are determined by only those alternative characteristics. If the spell leaves the stack, it immediately resumes using its normal characteristics."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "If you cast an adventurer card as an Adventure, use only its alternative characteristics to determine whether it’s legal to cast that spell. For example, if Giant Killer is exiled with the last ability of Vivien, Champion of the Wilds, you can’t cast it as Chop Down."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "If a spell is cast as an Adventure, its controller exiles it instead of putting it into its owner’s graveyard as it resolves. For as long as it remains exiled, that player may cast it as a creature spell. If an Adventure spell leaves the stack in any way other than resolving (most likely by being countered or by failing to resolve because its targets have all become illegal), that card won’t be exiled and the spell’s controller won’t be able to cast it as a creature later."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "If an adventurer card ends up in exile for any other reason than by exiling itself while resolving, it won’t give you permission to cast it as a creature spell."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "You must still follow any timing restrictions and permissions for the creature spell you cast from exile. Normally, you’ll be able to cast it only during your main phase while the stack is empty."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "If an effect copies an Adventure spell, that copy is exiled as it resolves. It ceases to exist as a state-based action; it’s not possible to cast the copy as a creature."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "If an object becomes a copy of an object that has an Adventure, the copy also has an Adventure. If it changes zones, it will either cease to exist (if it’s a token) or cease to be a copy (if it’s a nontoken permanent), and so you won’t be able to cast it as an Adventure."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "If an effect instructs you to choose a card name, you may choose the alternative Adventure name. Consider only the alternative characteristics to determine whether that is an appropriate name to choose."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "Casting a card as an Adventure isn’t casting it for an alternative cost. Effects that allow you to cast a spell for an alternative cost or without paying its mana cost may allow you to apply those to the Adventure."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Profane Einsicht",
+          "text": "Du ziehst eine Karte und verlierst 1 Lebenspunkt. (Schicke diese Karte dann ins Exil. Du kannst sie später als Kreatur aus dem Exil wirken.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473321&type=card",
+          "language": "German",
+          "multiverseid": 473321
+        },
+        {
+          "name": "Visión profana",
+          "text": "Robas una carta y pierdes 1 vida. (Luego, exilia esta carta. Puedes lanzar la criatura más adelante desde el exilio.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473590&type=card",
+          "language": "Spanish",
+          "multiverseid": 473590
+        },
+        {
+          "name": "Perspicacité profane",
+          "text": "Vous piochez une carte et vous perdez 1 point de vie. (Puis exilez cette carte. Vous pouvez lancer la créature plus tard depuis l'exil.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=473859&type=card",
+          "language": "French",
+          "multiverseid": 473859
+        },
+        {
+          "name": "Intuizione Profana",
+          "text": "Pesca una carta e perdi 1 punto vita. (Poi esilia questa carta. Puoi lanciare la creatura in seguito dall'esilio.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474128&type=card",
+          "language": "Italian",
+          "multiverseid": 474128
+        },
+        {
+          "name": "不敬な洞察",
+          "text": "あなたはカードを１枚引き、あなたは１点のライフを失う。（その後、このカードを追放する。あなたは後で追放領域からこのクリーチャーを唱えてもよい。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474397&type=card",
+          "language": "Japanese",
+          "multiverseid": 474397
+        },
+        {
+          "name": "불경한 통찰력",
+          "text": "당신은 카드 한 장을 뽑고 생명 1점을 잃는다. (그 후 이 카드를 추방한다. 당신은 나중에 추방 영역에서 이 생물을 발동할 수 있다.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474666&type=card",
+          "language": "Korean",
+          "multiverseid": 474666
+        },
+        {
+          "name": "Percepção Profana",
+          "text": "Você compra um card e perde 1 ponto de vida. (Depois, exile este card. Você pode conjurar a criatura posteriormente do exílio.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474935&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 474935
+        },
+        {
+          "name": "Темное Озарение",
+          "text": "Вы берете карту и теряете 1 жизнь. (Затем изгоните эту карту. Позже вы можете разыграть эту карту как существо из изгнания.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=475204&type=card",
+          "language": "Russian",
+          "multiverseid": 475204
+        },
+        {
+          "name": "渎神洞察",
+          "text": "你抓一张牌且你失去1点生命。（然后放逐此牌。之后你还可以从放逐区中施放该生物。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=475473&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 475473
+        },
+        {
+          "name": "瀆神洞察",
+          "text": "你抽一張牌且你失去1點生命。（然後放逐此牌。之後你還可以從放逐區中施放該生物。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=475742&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 475742
+        }
+      ],
+      "printings": [
+        "ELD",
+        "PRM"
+      ],
+      "originalText": "You draw a card and you lose 1 life. (Then exile this card. You may cast the creature later from exile.)",
+      "originalType": "Instant — Adventure",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "dd32021a-ace0-5969-a23d-7169d54b63e8"
+    },
+    {
+      "name": "Leapfrog",
+      "manaCost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Frog",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Frog"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Leapfrog has flying as long as you've cast an instant or sorcery spell this turn.",
+      "flavor": "\"Most compete for insects at street level. Some dwell near Izzet laboratories and ride the thermal updrafts.\"\n—Yolov, Simic bioengineer",
+      "artist": "Aaron Miller",
+      "number": "42",
+      "power": "3",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 452792,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452792&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Springfrosch",
+          "text": "Der Springfrosch hat Flugfähigkeit, solange du in diesem Zug einen Spontanzauber oder eine Hexerei gewirkt hast.",
+          "flavor": "„Die meisten konkurrieren am Boden um Insekten. Einige lungern in der Nähe der Izzet-Labore herum und nutzen den thermalen Auftrieb.\"\n—Yolov, Simic-Bioingenieur",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453051&type=card",
+          "language": "German",
+          "multiverseid": 453051
+        },
+        {
+          "name": "Rana saltarina",
+          "text": "La Rana saltarina tiene la habilidad de volar mientras hayas lanzado un hechizo de instantáneo o de conjuro este turno.",
+          "flavor": "\"La mayoría compite por los insectos a nivel de suelo, pero algunas habitan cerca de laboratorios ízzet y aprovechan las corrientes termales ascendentes\".\n—Yólov, bioingeniero simic",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453310&type=card",
+          "language": "Spanish",
+          "multiverseid": 453310
+        },
+        {
+          "name": "Saute-grenouille",
+          "text": "La Saute-grenouille a le vol tant que vous avez lancé un sort d'éphémère ou de rituel ce tour-ci.",
+          "flavor": "« La plupart se disputent des insectes au niveau de la rue. Certaines résident près des laboratoires d'Izzet, et utilisent les courants thermiques ascendants. »\n—Yolov, bio-ingénieur simic",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453569&type=card",
+          "language": "French",
+          "multiverseid": 453569
+        },
+        {
+          "name": "Rana Balzante",
+          "text": "La Rana Balzante ha volare se hai lanciato una magia istantaneo o stregoneria in questo turno.",
+          "flavor": "\"La maggior parte si disputa gli insetti a livello stradale. Alcune vivono vicino ai laboratori Izzet e cavalcano le correnti termiche ascendenti.\"\n—Yolov, bioingegnere Simic",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453828&type=card",
+          "language": "Italian",
+          "multiverseid": 453828
+        },
+        {
+          "name": "跳び蛙",
+          "text": "このターンにあなたがインスタントかソーサリーである呪文を唱えていたなら、跳び蛙は飛行を持つ。",
+          "flavor": "「大半は街路で昆虫を取り合っているが、イゼットの実験室の近くに住んで上昇気流を利用するものもいる。」\n――シミックの生技師、ヨロフ",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454087&type=card",
+          "language": "Japanese",
+          "multiverseid": 454087
+        },
+        {
+          "name": "도약하는 개구리",
+          "text": "당신이 이번 턴에 순간마법 또는 집중마법을 발동한 한 도약하는 개구리는 비행을 가진다.",
+          "flavor": "\"대부분은 거리에서 벌레들을 가지고 서로 경쟁하지. 몇몇은 이젯 실험실 주변에 살면서 상승 기류를 탄다네.\"\n—시믹 생명공학자, 욜로브",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454346&type=card",
+          "language": "Korean",
+          "multiverseid": 454346
+        },
+        {
+          "name": "Sapo-saltador",
+          "text": "Sapo-saltador tem voar contanto que você tenha conjurado uma mágica instantânea ou feitiço neste turno.",
+          "flavor": "\"A maioria compete por insetos nas ruas. Alguns vivem perto de laboratórios dos Izzet e planam nas correntes ascendentes.\"\n— Yolov, bioengenheiro Simic",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454605&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454605
+        },
+        {
+          "name": "Квакша",
+          "text": "Квакша имеет Полет, если в этом ходу вы уже разыграли мгновенное заклинание или волшебство.",
+          "flavor": "«Большинство из них соперничает за насекомых на уровне улиц. А некоторые селятся рядом с лабораториями Иззетов и осваивают восходящие потоки».\n— Йолов, биоинженер Симиков",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454864&type=card",
+          "language": "Russian",
+          "multiverseid": 454864
+        },
+        {
+          "name": "跃蛙",
+          "text": "只要你本回合中施放过瞬间或法术咒语，跃蛙便具有飞行异能。",
+          "flavor": "「多数只在地上捕食昆虫。有些则会栖息在伊捷实验室附近，借着热气流高升。」\n～析米克生物工程师约洛夫",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455123&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455123
+        },
+        {
+          "name": "躍蛙",
+          "text": "只要你本回合中施放過瞬間或巫術咒語，躍蛙便具有飛行異能。",
+          "flavor": "「多數只在地上捕食昆蟲。有些則會棲息在伊捷實驗室附近，藉著熱氣流高昇。」\n～析米克生物工程師約洛夫",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455382&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455382
+        }
+      ],
+      "printings": [
+        "GRN",
+        "MB1"
+      ],
+      "originalText": "Leapfrog has flying as long as you've cast an instant or sorcery spell this turn.",
+      "originalType": "Creature — Frog",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "8e47a118-27d7-56f6-8436-5aed7178c611"
+    },
+    {
+      "name": "Izzet Guildgate",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "R",
+        "U"
+      ],
+      "type": "Land — Gate",
+      "supertypes": [],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [
+        "Gate"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Izzet Guildgate enters the battlefield tapped.\n{T}: Add {U} or {R}.",
+      "flavor": "\"Yesterday I didn't recognize my own guild. Today I see why. And for tomorrow I must be prepared.\"\n—Niv-Mizzet",
+      "artist": "Kirsten Zirngibl",
+      "number": "252",
+      "layout": "normal",
+      "multiverseid": 453002,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453002&type=card",
+      "variations": [
+        "c6aa8c6f-537c-5bbc-841f-49c95133b0e0"
+      ],
+      "watermark": "izzet",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "The subtype Gate has no special rules significance, but other spells and abilities may refer to it."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Gate is not a basic land type."
+        }
+      ],
+      "foreignNames": [],
+      "printings": [
+        "C13",
+        "C15",
+        "C18",
+        "C19",
+        "DGM",
+        "GRN",
+        "MM3",
+        "RTR"
+      ],
+      "originalText": "Izzet Guildgate enters the battlefield tapped.\n{T}: Add {U} or {R}.",
+      "originalType": "Land — Gate",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "719725f4-eb9c-5fae-be2a-06d2003b1f9c"
+    },
+    {
+      "name": "Mountain",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Basic Land — Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "({T}: Add {R}.)",
+      "artist": "John Avon",
+      "number": "378",
+      "layout": "normal",
+      "multiverseid": 129651,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129651&type=card",
+      "variations": [
+        "ed4ba3b4-c532-5918-9c0d-30f6af3220ac",
+        "78924623-c367-54ec-8bd1-be42086be19b",
+        "ccafa085-75c1-5ed2-8592-c461aa683a49"
+      ],
+      "rulings": [],
+      "foreignNames": [],
+      "printings": [
+        "10E",
+        "2ED",
+        "2XM",
+        "3ED",
+        "4BB",
+        "4ED",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "9ED",
+        "AKH",
+        "AKR",
+        "ALA",
+        "ANA",
+        "ANB",
+        "ARC",
+        "ARN",
+        "ATH",
+        "AVR",
+        "BBD",
+        "BFZ",
+        "BRB",
+        "BTD",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "CED",
+        "CEI",
+        "CHK",
+        "CM2",
+        "CMA",
+        "CMD",
+        "CST",
+        "DD1",
+        "DD2",
+        "DDE",
+        "DDG",
+        "DDH",
+        "DDI",
+        "DDJ",
+        "DDK",
+        "DDL",
+        "DDN",
+        "DDP",
+        "DDS",
+        "DDT",
+        "DDU",
+        "DKM",
+        "DOM",
+        "DPA",
+        "DTK",
+        "E01",
+        "ELD",
+        "EVG",
+        "FBB",
+        "FRF",
+        "G17",
+        "GK1",
+        "GK2",
+        "GN2",
+        "GNT",
+        "GRN",
+        "GS1",
+        "H09",
+        "HOP",
+        "HOU",
+        "ICE",
+        "IKO",
+        "INV",
+        "ISD",
+        "ITP",
+        "J14",
+        "JMP",
+        "JVC",
+        "KLD",
+        "KTK",
+        "LEA",
+        "LEB",
+        "LRW",
+        "M10",
+        "M11",
+        "M12",
+        "M13",
+        "M14",
+        "M15",
+        "M19",
+        "M20",
+        "M21",
+        "MBS",
+        "ME1",
+        "ME3",
+        "MIR",
+        "MMQ",
+        "MRD",
+        "NPH",
+        "ODY",
+        "ONS",
+        "ORI",
+        "P02",
+        "PAL00",
+        "PAL01",
+        "PAL03",
+        "PAL04",
+        "PAL05",
+        "PAL06",
+        "PAL99",
+        "PALP",
+        "PANA",
+        "PARL",
+        "PC2",
+        "PCA",
+        "PD2",
+        "PELP",
+        "PF19",
+        "PF20",
+        "PGPX",
+        "PGRU",
+        "PMPS",
+        "PMPS06",
+        "PMPS07",
+        "PMPS08",
+        "PMPS09",
+        "PMPS10",
+        "PMPS11",
+        "POR",
+        "PPP1",
+        "PRM",
+        "PRW2",
+        "PRWK",
+        "PS11",
+        "PSAL",
+        "PSS2",
+        "PSS3",
+        "PTC",
+        "PTK",
+        "PZ2",
+        "RAV",
+        "RIX",
+        "RNA",
+        "ROE",
+        "RQS",
+        "RTR",
+        "S99",
+        "SHM",
+        "SLD",
+        "SOI",
+        "SOM",
+        "SUM",
+        "TD0",
+        "THB",
+        "THS",
+        "TMP",
+        "TPR",
+        "TSP",
+        "UGL",
+        "UND",
+        "UNH",
+        "USG",
+        "UST",
+        "WAR",
+        "WC00",
+        "WC01",
+        "WC02",
+        "WC03",
+        "WC97",
+        "WC98",
+        "WC99",
+        "XLN",
+        "ZEN",
+        "ZNR"
+      ],
+      "originalText": "R",
+      "originalType": "Basic Land - Mountain",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "0646aa70-1849-58bc-8553-232ec3b4caaa"
+    },
+    {
+      "name": "Mountain",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Basic Land — Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "rarity": "Common",
+      "set": "2XM",
+      "setName": "Double Masters",
+      "text": "({T}: Add {R}.)",
+      "artist": "John Avon",
+      "number": "379",
+      "layout": "normal",
+      "multiverseid": 491578,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=491578&type=card",
+      "variations": [
+        "367c21dd-1d4f-55b5-b787-9e222be19b2f"
+      ],
+      "rulings": [],
+      "foreignNames": [],
+      "printings": [
+        "10E",
+        "2ED",
+        "2XM",
+        "3ED",
+        "4BB",
+        "4ED",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "9ED",
+        "AKH",
+        "AKR",
+        "ALA",
+        "ANA",
+        "ANB",
+        "ARC",
+        "ARN",
+        "ATH",
+        "AVR",
+        "BBD",
+        "BFZ",
+        "BRB",
+        "BTD",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "CED",
+        "CEI",
+        "CHK",
+        "CM2",
+        "CMA",
+        "CMD",
+        "CST",
+        "DD1",
+        "DD2",
+        "DDE",
+        "DDG",
+        "DDH",
+        "DDI",
+        "DDJ",
+        "DDK",
+        "DDL",
+        "DDN",
+        "DDP",
+        "DDS",
+        "DDT",
+        "DDU",
+        "DKM",
+        "DOM",
+        "DPA",
+        "DTK",
+        "E01",
+        "ELD",
+        "EVG",
+        "FBB",
+        "FRF",
+        "G17",
+        "GK1",
+        "GK2",
+        "GN2",
+        "GNT",
+        "GRN",
+        "GS1",
+        "H09",
+        "HOP",
+        "HOU",
+        "ICE",
+        "IKO",
+        "INV",
+        "ISD",
+        "ITP",
+        "J14",
+        "JMP",
+        "JVC",
+        "KLD",
+        "KTK",
+        "LEA",
+        "LEB",
+        "LRW",
+        "M10",
+        "M11",
+        "M12",
+        "M13",
+        "M14",
+        "M15",
+        "M19",
+        "M20",
+        "M21",
+        "MBS",
+        "ME1",
+        "ME3",
+        "MIR",
+        "MMQ",
+        "MRD",
+        "NPH",
+        "ODY",
+        "ONS",
+        "ORI",
+        "P02",
+        "PAL00",
+        "PAL01",
+        "PAL03",
+        "PAL04",
+        "PAL05",
+        "PAL06",
+        "PAL99",
+        "PALP",
+        "PANA",
+        "PARL",
+        "PC2",
+        "PCA",
+        "PD2",
+        "PELP",
+        "PF19",
+        "PF20",
+        "PGPX",
+        "PGRU",
+        "PMPS",
+        "PMPS06",
+        "PMPS07",
+        "PMPS08",
+        "PMPS09",
+        "PMPS10",
+        "PMPS11",
+        "POR",
+        "PPP1",
+        "PRM",
+        "PRW2",
+        "PRWK",
+        "PS11",
+        "PSAL",
+        "PSS2",
+        "PSS3",
+        "PTC",
+        "PTK",
+        "PZ2",
+        "RAV",
+        "RIX",
+        "RNA",
+        "ROE",
+        "RQS",
+        "RTR",
+        "S99",
+        "SHM",
+        "SLD",
+        "SOI",
+        "SOM",
+        "SUM",
+        "TD0",
+        "THB",
+        "THS",
+        "TMP",
+        "TPR",
+        "TSP",
+        "UGL",
+        "UND",
+        "UNH",
+        "USG",
+        "UST",
+        "WAR",
+        "WC00",
+        "WC01",
+        "WC02",
+        "WC03",
+        "WC97",
+        "WC98",
+        "WC99",
+        "XLN",
+        "ZEN",
+        "ZNR"
+      ],
+      "originalType": "Basic Land — Mountain",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "285b10c5-767b-5a89-8cf4-68fabddbcb73"
+    },
+    {
+      "name": "Selesnya Guildgate",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "G",
+        "W"
+      ],
+      "type": "Land — Gate",
+      "supertypes": [],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [
+        "Gate"
+      ],
+      "rarity": "Common",
+      "set": "C17",
+      "setName": "Commander 2017",
+      "text": "Selesnya Guildgate enters the battlefield tapped.\n{T}: Add {G} or {W}.",
+      "flavor": "The Selesnya welcome all to help them heal the city's wounds. The price, however, is devotion to the guild and a selfless belief in Trostani.",
+      "artist": "Howard Lyon",
+      "number": "279",
+      "layout": "normal",
+      "multiverseid": 433211,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=433211&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Selesnija-Gildeneingang",
+          "text": "Der Selesnija-Gildeneingang kommt getappt ins Spiel.\n{T}: Erhöhe deinen Manavorrat um {G} oder {W}.",
+          "flavor": "Bei den Selesnija sind alle willkommen, die helfen können, die Wunden der Stadt zu heilen. Der Preis dafür ist die selbstlose Hingabe an die Gilde und der bedingungslose Glaube an Trostani.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=433520&type=card",
+          "language": "German",
+          "multiverseid": 433520
+        },
+        {
+          "name": "Portal del Gremio Selesnya",
+          "text": "El Portal del Gremio Selesnya entra al campo de batalla girado.\n{T}: Agrega {G} o {W} a tu reserva de maná.",
+          "flavor": "Los selesnya aceptan ayuda para curar las heridas de la ciudad. Pero el precio es la devoción al gremio y una fe ciega en Trostani.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=433829&type=card",
+          "language": "Spanish",
+          "multiverseid": 433829
+        },
+        {
+          "name": "Porte de la guilde de Selesnya",
+          "text": "La Porte de la guilde de Selesnya arrive sur le champ de bataille engagée.\n{T} : Ajoutez {G} ou {W} à votre réserve.",
+          "flavor": "Les Selesnya accueillent quiconque veut les aider à soigner les blessures de la cité. Le coût, en revanche, est une dévotion inconditionnelle à la guilde et une foi pure en Trostani.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=434138&type=card",
+          "language": "French",
+          "multiverseid": 434138
+        },
+        {
+          "name": "Cancello della Gilda di Selesnya",
+          "text": "Il Cancello della Gilda di Selesnya entra nel campo di battaglia TAPpato.\n{T}: Aggiungi {G} o {W} alla tua riserva di mana.",
+          "flavor": "Selesnya accoglie quanti vogliono aiutare a curare le ferite della città. Il prezzo, però, è la dedizione alla gilda e una disinteressata fiducia in Trostani.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=434447&type=card",
+          "language": "Italian",
+          "multiverseid": 434447
+        },
+        {
+          "name": "セレズニアのギルド門",
+          "text": "セレズニアのギルド門はタップ状態で戦場に出る。\n{T}：あなたのマナ・プールに{G}か{W}を加える。",
+          "flavor": "セレズニアは傷ついた街を癒やすため、すべてを受け入れる。ただしその代価はギルドへの献身とトロスターニへの無私なる信頼である。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=434756&type=card",
+          "language": "Japanese",
+          "multiverseid": 434756
+        },
+        {
+          "name": "Portão da Guilda Selesnya",
+          "text": "Portão da Guilda Selesnya entra no campo de batalha virado.\n{T}: Adicione {G} ou {W} à sua reserva de mana.",
+          "flavor": "Os Selesnya convidam todos a ajudá-los a curar as feridas da cidade. Mas mediante um preço: devoção à guilda e crença incondicional em Trostani.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435065&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 435065
+        }
+      ],
+      "printings": [
+        "C13",
+        "C17",
+        "CMA",
+        "DGM",
+        "GRN",
+        "MM3",
+        "RTR"
+      ],
+      "originalText": "Selesnya Guildgate enters the battlefield tapped.\n{T}: Add {G} or {W} to your mana pool.",
+      "originalType": "Land — Gate",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "618e2901-a8f8-54d0-b543-b6ab0a26701a"
+    },
+    {
+      "name": "Insight",
+      "manaCost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Enchantment",
+      "supertypes": [],
+      "types": [
+        "Enchantment"
+      ],
+      "subtypes": [],
+      "rarity": "Uncommon",
+      "set": "6ED",
+      "setName": "Classic Sixth Edition",
+      "text": "Whenever an opponent casts a green spell, you draw a card.",
+      "flavor": "\"We can fight with you or against you. After my day, I'd prefer the former.\"\n—Gerrard of the *Weatherlight*",
+      "artist": "Ron Chironna",
+      "number": "75",
+      "layout": "normal",
+      "multiverseid": 15376,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15376&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Einblicke",
+          "text": "Immer wenn einer Deiner Gegner einen grünen Zauberspruch spielt, ziehe eine Karte.",
+          "flavor": null,
+          "imageUrl": null,
+          "language": "German",
+          "multiverseid": null
+        },
+        {
+          "name": "Perspicacia",
+          "text": null,
+          "flavor": null,
+          "imageUrl": null,
+          "language": "Spanish",
+          "multiverseid": null
+        },
+        {
+          "name": "Perspicacité",
+          "text": null,
+          "flavor": null,
+          "imageUrl": null,
+          "language": "French",
+          "multiverseid": null
+        },
+        {
+          "name": "Introspezione",
+          "text": null,
+          "flavor": null,
+          "imageUrl": null,
+          "language": "Italian",
+          "multiverseid": null
+        },
+        {
+          "name": "自己洞察",
+          "text": null,
+          "flavor": null,
+          "imageUrl": null,
+          "language": "Japanese",
+          "multiverseid": null
+        },
+        {
+          "name": "Introvisão",
+          "text": null,
+          "flavor": null,
+          "imageUrl": null,
+          "language": "Portuguese (Brazil)",
+          "multiverseid": null
+        }
+      ],
+      "printings": [
+        "6ED",
+        "TMP"
+      ],
+      "originalText": "Whenever one of your opponents plays a green spell, you draw a card.",
+      "originalType": "Enchantment",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c7669ba0-e590-5adc-be57-6e1750a61297"
+    },
+    {
+      "name": "Seeker of Insight",
+      "manaCost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Human Wizard",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "rarity": "Common",
+      "set": "AKH",
+      "setName": "Amonkhet",
+      "text": "{T}: Draw a card, then discard a card. Activate this ability only if you've cast a noncreature spell this turn.",
+      "flavor": "The Trial of Knowledge challenges and broadens the minds of initiates.",
+      "artist": "Magali Villeneuve",
+      "number": "69",
+      "power": "1",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 426771,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=426771&type=card",
+      "rulings": [
+        {
+          "date": "2017-04-18",
+          "text": "It doesn’t matter whether the noncreature spell has resolved or was countered, as long as it was cast. That spell may even still be on the stack when you activate Seeker of Insight’s ability."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Sucher der Einsicht",
+          "text": "{T}: Ziehe eine Karte und wirf dann eine Karte ab. Aktiviere diese Fähigkeit nur, falls du in diesem Zug einen Nichtkreatur-Zauberspruch gewirkt hast.",
+          "flavor": "Die Prüfung des Wissens fordert den Verstand und erweitert den Horizont der Geweihten.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=427040&type=card",
+          "language": "German",
+          "multiverseid": 427040
+        },
+        {
+          "name": "Buscador de conocimiento",
+          "text": "{T}: Roba una carta, luego descarta una carta. Activa esta habilidad solo si lanzaste un hechizo que no sea de criatura este turno.",
+          "flavor": "La Prueba de conocimiento desafía y expande las mentes de los iniciados.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=427309&type=card",
+          "language": "Spanish",
+          "multiverseid": 427309
+        },
+        {
+          "name": "Chercheur de perspicacité",
+          "text": "{T} : Piochez une carte, puis défaussez-vous d'une carte. N'activez cette capacité que si vous avez lancé un sort non-créature ce tour-ci.",
+          "flavor": "L'Épreuve de connaissance stimule l'esprit des adeptes et élargit leurs horizons.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=427578&type=card",
+          "language": "French",
+          "multiverseid": 427578
+        },
+        {
+          "name": "Cercatore di Sapienza",
+          "text": "{T}: Pesca una carta, poi scarta una carta. Attiva questa abilità solo se hai lanciato una magia non creatura in questo turno.",
+          "flavor": "L'Ordalia della Conoscenza mette alla prova e amplia le menti degli iniziati.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=427847&type=card",
+          "language": "Italian",
+          "multiverseid": 427847
+        },
+        {
+          "name": "洞察の探求者",
+          "text": "{T}：カードを１枚引き、その後カード１枚を捨てる。この能力は、あなたがこのターンにクリーチャーでない呪文を唱えていたときにのみ起動できる。",
+          "flavor": "知識の試練では修練者の精神が試され視野を広げる。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=428116&type=card",
+          "language": "Japanese",
+          "multiverseid": 428116
+        },
+        {
+          "name": "통찰의 추구자",
+          "text": "{T}: 카드 한 장을 뽑은 후 카드 한 장을 버린다. 당신이 이 턴에 생물이 아닌 주문을 발동한 경우에만 이 능력을 활성화할 수 있다.",
+          "flavor": "지식의 시험은 입회자들의 정신을 시험하고 확장한다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=428385&type=card",
+          "language": "Korean",
+          "multiverseid": 428385
+        },
+        {
+          "name": "Buscador do Discernimento",
+          "text": "{T}: Compre um card e depois descarte um card. Ative esta habilidade somente se você tiver conjurado uma mágica que não seja de criatura neste turno.",
+          "flavor": "A Prova do Conhecimento desafia e expande as mentes dos iniciados.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=428654&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 428654
+        },
+        {
+          "name": "Искатель Озарения",
+          "text": "{T}: возьмите карту, затем сбросьте карту. Активируйте эту способность, только если в этом ходу вы уже разыграли не являющееся существом заклинание.",
+          "flavor": "Испытание Знания становится проверкой разума послушника, одновременно расширяя его границы.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=428923&type=card",
+          "language": "Russian",
+          "multiverseid": 428923
+        },
+        {
+          "name": "探解客",
+          "text": "{T}：抓一张牌，然后弃一张牌。只能于你施放过非生物咒语的回合中起动此异能。",
+          "flavor": "知识祀炼能挑战并拓展祀徒的心智。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429192&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 429192
+        },
+        {
+          "name": "探解客",
+          "text": "{T}：抽一張牌，然後棄一張牌。只能於你施放過非生物咒語的回合中起動此異能。",
+          "flavor": "知識祀煉能挑戰並拓展祀徒的心智。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429461&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 429461
+        }
+      ],
+      "printings": [
+        "AKH",
+        "AKR"
+      ],
+      "originalText": "{T}: Draw a card, then discard a card. Activate this ability only if you've cast a noncreature spell this turn.",
+      "originalType": "Creature - Human Wizard",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f961c48b-771e-55b9-bd91-a9ce75497821"
+    },
+    {
+      "name": "Manifold Insights",
+      "manaCost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Rare",
+      "set": "C16",
+      "setName": "Commander 2016",
+      "text": "Reveal the top ten cards of your library. Starting with the next opponent in turn order, each opponent chooses a different nonland card from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.",
+      "artist": "Tommy Arnold",
+      "number": "10",
+      "layout": "normal",
+      "multiverseid": 420627,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420627&type=card",
+      "rulings": [
+        {
+          "date": "2016-11-08",
+          "text": "If there aren’t enough nonland cards for each opponent to choose one, all of the nonland cards are put into your hand."
+        },
+        {
+          "date": "2016-11-08",
+          "text": "Once the top ten cards of your library are revealed, no player may take any other actions until Manifold Insights has been completely resolved."
+        },
+        {
+          "date": "2016-11-08",
+          "text": "After Manifold Insights resolves, if it’s your turn, you may play one of the cards if it’s legal to do so before any other player can take any action."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Vielfältige Einblicke",
+          "text": "Decke die obersten zehn Karten deiner Bibliothek auf. Beginnend mit dem nächsten Gegner in Zugreihenfolge bestimmt jeder Gegner eine unterschiedliche Karte, die kein Land ist. Nimm die bestimmten Karten auf deine Hand und lege den Rest in zufälliger Reihenfolge unter deine Bibliothek.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=421329&type=card",
+          "language": "German",
+          "multiverseid": 421329
+        },
+        {
+          "name": "Perspicacia múltiple",
+          "text": "Muestra las diez primeras cartas de tu biblioteca. Comenzando por el siguiente oponente por orden de turno, cada oponente elige una carta que no sea tierra que se encuentre entre ellas. Pon las cartas elegidas en tu mano y el resto en el fondo de tu biblioteca en un orden aleatorio.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423084&type=card",
+          "language": "Spanish",
+          "multiverseid": 423084
+        },
+        {
+          "name": "Nombreuses connaissances",
+          "text": "Révélez les dix cartes du dessus de votre bibliothèque. En commençant par le prochain adversaire dans l'ordre du tour, chaque adversaire choisit une carte non-terrain différente parmi elles. Mettez les cartes choisies dans votre main et le reste au-dessous de votre bibliothèque dans un ordre aléatoire.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=421680&type=card",
+          "language": "French",
+          "multiverseid": 421680
+        },
+        {
+          "name": "Innumerevoli Intuizioni",
+          "text": "Rivela le prime dieci carte del tuo grimorio. A partire dal prossimo avversario in ordine di turno, ogni avversario sceglie tra esse una carta non terra diversa. Aggiungi le carte scelte alla tua mano e metti le altre in fondo al tuo grimorio in ordine casuale.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=422031&type=card",
+          "language": "Italian",
+          "multiverseid": 422031
+        },
+        {
+          "name": "多様な洞察力",
+          "text": "あなたのライブラリーの一番上からカードを10枚公開する。ターン順で次の対戦相手から始めて、各対戦相手はそれぞれ、その中から異なる土地でないカード１枚を選ぶ。選ばれたカードをあなたの手札に加え、残りをあなたのライブラリーの一番下に無作為の順番で置く。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=422382&type=card",
+          "language": "Japanese",
+          "multiverseid": 422382
+        },
+        {
+          "name": "Visões Multifacetadas",
+          "text": "Revele os dez cards do topo de seu grimório. A começar pelo próximo oponente na ordem dos turnos, cada oponente escolhe dentre eles um card diferente que não seja terreno. Coloque os cards escolhidos em sua mão e o restante no fundo de seu grimório em ordem aleatória.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=422733&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 422733
+        },
+        {
+          "name": "多相眼光",
+          "text": "展示你牌库顶的十张牌。所有对手依照回合的顺序，从接下来的对手开始，各选择其中一张非地牌，且不能重复选择。将被选中的牌置于你手上，并将其余的牌以随机顺序置于你的牌库底。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420978&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 420978
+        }
+      ],
+      "printings": [
+        "C16",
+        "CM2"
+      ],
+      "originalText": "Reveal the top ten cards of your library. Starting with the next opponent in turn order, each opponent chooses a different nonland card from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7ecea89d-1964-504f-8925-bd6c24e17d71"
+    },
+    {
+      "name": "Air Elemental",
+      "manaCost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Elemental",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "rarity": "Uncommon",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Flying",
+      "flavor": "\"The East Wind, an interloper in the dominions of Westerly Weather, is an impassive-faced tyrant with a sharp poniard held behind his back for a treacherous stab.\"\n—Joseph Conrad, *The Mirror of the Sea*",
+      "artist": "Kev Walker",
+      "number": "64",
+      "power": "4",
+      "toughness": "4",
+      "layout": "normal",
+      "multiverseid": 129459,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129459&type=card",
+      "variations": [
+        "9d9ce25a-f48a-5b21-a672-8a08d42350e5"
+      ],
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Luftelementar",
+          "text": "Fliegend (Diese Kreatur kann außer von fliegenden Kreaturen und Kreaturen mit Reichweite nicht geblockt werden.)",
+          "flavor": "„Der Ostwind ist ein Eindringling im Reich des Wetter des Westens; er ist ein Tyrann mit ungerührtem Blick, der hinter dem Rücken den Dolch schon bereit zum verräterischen Stoß hält.\" —Joseph Conrad, Der Spiegel der See",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148408&type=card",
+          "language": "German",
+          "multiverseid": 148408
+        },
+        {
+          "name": "Elemental de aire",
+          "text": "Vuela. (Esta criatura no puede ser bloqueada excepto por criaturas que tengan la habilidad de volar o alcance.)",
+          "flavor": "\"El viento del este, un entrometido en los dominios del clima del oeste, es un tirano impasible con una daga afilada guardada en su espalda lista para una estocada traicionera.\" —Joseph Conrad, El espejo del mar",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150380&type=card",
+          "language": "Spanish",
+          "multiverseid": 150380
+        },
+        {
+          "name": "Élémental d'air",
+          "text": "Vol (Cette créature ne peut être bloquée que par des créatures avec le vol ou la portée.)",
+          "flavor": "« Le Vent d'Est, un intrus dans le domaine du Temps d'Ouest, est un tyran au visage impassible et qui dissimule derrière son dos une dague acérée, afin de frapper en traître. » —Joseph Conrad, Le Miroir de la mer",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149997&type=card",
+          "language": "French",
+          "multiverseid": 149997
+        },
+        {
+          "name": "Elementale dell'Aria",
+          "text": "Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)",
+          "flavor": "\"Il Vento dell'Est, un intruso nei domini del Clima di Ponente, è un tiranno dal volto impassibile, con un pugnale affilato tenuto dietro la schiena, pronto per una stilettata a tradimento.\" —Joseph Conrad, Lo Specchio del Mare",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148791&type=card",
+          "language": "Italian",
+          "multiverseid": 148791
+        },
+        {
+          "name": "大気の精霊",
+          "text": "飛行 （このクリーチャーは飛行や到達を持たないクリーチャーによってブロックされない。）",
+          "flavor": "ウェスタリーの気候の支配の中に潜り込む東風は無感情な暴君で、鋭い短剣を背中に隠し、不意の一撃を狙っている。 ――ジョゼフ・コンラッド、「海の鏡」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148025&type=card",
+          "language": "Japanese",
+          "multiverseid": 148025
+        },
+        {
+          "name": "Elemental do Ar",
+          "text": "Voar (Esta criatura só pode ser bloqueada por criaturas com a habilidade de voar ou alcance.)",
+          "flavor": "\"O vento oeste, um intruso nos domínios do tempo ocidental, é um tirano impassível segurando um afiado punhal oculto às costas para um golpe traiçoeiro.\" — Joseph Conrad, Espelho do Mar",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149614&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149614
+        },
+        {
+          "name": "Элементаль Воздуха",
+          "text": "Полет (Это существо может быть заблокировано только существом с Полетом или Захватом.)",
+          "flavor": "\"А Восточный Ветер, делающий набеги на владения Западного, тот бесстрастный тиран и держит за спиной острый кинжал, готовясь нанести предательский удар\". — Джозеф Конрад, Зеркало морей",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149231&type=card",
+          "language": "Russian",
+          "multiverseid": 149231
+        },
+        {
+          "name": "大气元素",
+          "text": "飞行（只有具飞行或延势异能的生物才能阻挡它。）",
+          "flavor": "「东风闯入西风时令统治区，犹如背藏利刃、面容冷漠的暴君，准备要背节行刺。」 ～约瑟夫·康拉德，《如镜的大海》",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147642&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147642
+        }
+      ],
+      "printings": [
+        "10E",
+        "2ED",
+        "3ED",
+        "4BB",
+        "4ED",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "9ED",
+        "ANB",
+        "BRB",
+        "BTD",
+        "CED",
+        "CEI",
+        "DD2",
+        "DPA",
+        "FBB",
+        "GNT",
+        "JVC",
+        "LEA",
+        "LEB",
+        "M10",
+        "M19",
+        "M20",
+        "ME4",
+        "P02",
+        "PS11",
+        "S99",
+        "SUM",
+        "W17",
+        "XLN"
+      ],
+      "originalText": "Flying",
+      "originalType": "Creature - Elemental",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "2854f284-974b-5842-8748-7c300e825b6c"
+    },
+    {
+      "name": "Adarkar Wastes",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "U",
+        "W"
+      ],
+      "type": "Land",
+      "supertypes": [],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [],
+      "rarity": "Rare",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {U}. Adarkar Wastes deals 1 damage to you.",
+      "artist": "John Avon",
+      "number": "347",
+      "layout": "normal",
+      "multiverseid": 129458,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129458&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Adarkarwüste",
+          "text": "{T}: Erhöhe deinen Manavorrat um {1}.\n{T}: Erhöhe deinen Manavorrat um {W} oder {U}. Die Adarkarwüste fügt dir 1 Schadenspunkt zu.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148404&type=card",
+          "language": "German",
+          "multiverseid": 148404
+        },
+        {
+          "name": "Yermos de Adarkar",
+          "text": "{T}: Agrega {1} a tu reserva de maná.\n{T}: Agrega {W} o {U} a tu reserva de maná. Los Yermos de Adarkar te hacen 1 punto de daño.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150663&type=card",
+          "language": "Spanish",
+          "multiverseid": 150663
+        },
+        {
+          "name": "Landes d'Adarkar",
+          "text": "{T} : Ajoutez {1} à votre réserve.\n{T} : Ajoutez {W} ou {U} à votre réserve. Les Landes d'Adarkar vous infligent 1 blessure.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150280&type=card",
+          "language": "French",
+          "multiverseid": 150280
+        },
+        {
+          "name": "Distese dell'Adarkar",
+          "text": "{T}: Aggiungi {1} alla tua riserva di mana.\n{T}: Aggiungi {W} o {U} alla tua riserva di mana. Le Distese dell'Adarkar ti infliggono 1 danno.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148787&type=card",
+          "language": "Italian",
+          "multiverseid": 148787
+        },
+        {
+          "name": "アダーカー荒原",
+          "text": "{T}：あなたのマナ・プールに{1}を加える。\n{T}：あなたのマナ・プールに{W}か{U}を加える。 アダーカー荒原はあなたに１点のダメージを与える。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148021&type=card",
+          "language": "Japanese",
+          "multiverseid": 148021
+        },
+        {
+          "name": "Regiões Agrestes de Adarkar",
+          "text": "{T}: Adicione {1} à sua reserva de mana.\n{T}: Adicione {W} ou {U} à sua reserva de mana. Regiões Agrestes de Adarkar causa 1 ponto de dano a você.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149897&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149897
+        },
+        {
+          "name": "Адаркарские Пустоши",
+          "text": "{T}: Добавьте {1} в ваше хранилище маны.\n{T}: Добавьте {W} или {U} в ваше хранилище маны. Адаркарские Пустоши наносят вам 1 повреждение.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149514&type=card",
+          "language": "Russian",
+          "multiverseid": 149514
+        },
+        {
+          "name": "阿达卡荒野",
+          "text": "{T}：加{1}到你的法术力池中。\n{T}：加{W}或{U}到你的法术力池中。 阿达卡荒野对你造成1点伤害。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147638&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147638
+        }
+      ],
+      "printings": [
+        "10E",
+        "5ED",
+        "6ED",
+        "7ED",
+        "9ED",
+        "ICE",
+        "PTC",
+        "WC00"
+      ],
+      "originalText": "{T}: Add {1} to your mana pool.\n{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.",
+      "originalType": "Land",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "ee19938c-4007-58f1-8904-fae28007b422"
+    },
+    {
+      "name": "Afflict",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Instant",
+      "supertypes": [],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Target creature gets -1/-1 until end of turn.\nDraw a card.",
+      "flavor": "One rarely notices a heartbeat, save when it is stolen.",
+      "artist": "Roger Raupp",
+      "number": "125",
+      "layout": "normal",
+      "multiverseid": 135206,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=135206&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Leiden lassen",
+          "text": "Eine Kreatur deiner Wahl erhält -1/-1 bis zum Ende des Zuges.\nZiehe eine Karte.",
+          "flavor": "Einzelne Herzschläge bemerkt man selten — außer wenn sie einem gestohlen werden.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148405&type=card",
+          "language": "German",
+          "multiverseid": 148405
+        },
+        {
+          "name": "Afligir",
+          "text": "La criatura objetivo obtiene -1/-1 hasta el final del turno.\nRoba una carta.",
+          "flavor": "Rara vez uno se percata de un latido, salvo cuando ya no está.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150441&type=card",
+          "language": "Spanish",
+          "multiverseid": 150441
+        },
+        {
+          "name": "Affliction",
+          "text": "La créature ciblée gagne -1/-1 jusqu'à la fin du tour.\nPiochez une carte.",
+          "flavor": "L'affliction ne guérit pas le mal. —Proverbe français",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150058&type=card",
+          "language": "French",
+          "multiverseid": 150058
+        },
+        {
+          "name": "Tormentare",
+          "text": "Una creatura bersaglio prende -1/-1 fino alla fine del turno.\nPesca una carta.",
+          "flavor": "Raramente si nota un battito del cuore, se non quando viene rubato.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148788&type=card",
+          "language": "Italian",
+          "multiverseid": 148788
+        },
+        {
+          "name": "苦悩",
+          "text": "クリーチャー１体を対象とする。それはターン終了時まで－１/－１の修整を受ける。\nカードを１枚引く。",
+          "flavor": "鼓動に気をかけるものはまずいない。それが奪われるまでは。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148022&type=card",
+          "language": "Japanese",
+          "multiverseid": 148022
+        },
+        {
+          "name": "Afligir",
+          "text": "A criatura alvo recebe -1/-1 até o final do turno.\nCompre um card.",
+          "flavor": "Raramente se nota um batimento cardíaco, a não ser quando este é roubado.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149675&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149675
+        },
+        {
+          "name": "Страдание",
+          "text": "Целевое существо получает -1/-1 до конца хода.\nВозьмите карту.",
+          "flavor": "Редко кто вспоминает о биении сердца, до тех пор пока оно вдруг не пропадет.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149292&type=card",
+          "language": "Russian",
+          "multiverseid": 149292
+        },
+        {
+          "name": "折磨",
+          "text": "目标生物得-1/-1直到回合结束。\n抓一张牌。",
+          "flavor": "除非给偷走，否则人们很少注意到自己的心跳。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147639&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147639
+        }
+      ],
+      "printings": [
+        "10E",
+        "ODY"
+      ],
+      "originalText": "Target creature gets -1/-1 until end of turn.\nDraw a card.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "8774e18f-3752-5c06-af94-5da3960da9ed"
+    },
+    {
+      "name": "Aggressive Urge",
+      "manaCost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "G"
+      ],
+      "type": "Instant",
+      "supertypes": [],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Target creature gets +1/+1 until end of turn.\nDraw a card.",
+      "flavor": "The power of the wild, concentrated in a single charge.",
+      "artist": "Christopher Moeller",
+      "number": "250",
+      "layout": "normal",
+      "multiverseid": 130525,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=130525&type=card",
+      "rulings": [
+        {
+          "date": "2018-01-19",
+          "text": "If the target creature is an illegal target by the time Aggressive Urge tries to resolve, the spell doesn’t resolve. You won’t draw a card."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Aggressiver Drang",
+          "text": "Eine Kreatur deiner Wahl erhält +1/+1 bis zum Ende des Zuges.\nZiehe eine Karte.",
+          "flavor": "Die Macht der Wildnis, in einem einzelnen Ansturm gebündelt.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148406&type=card",
+          "language": "German",
+          "multiverseid": 148406
+        },
+        {
+          "name": "Impulso agresivo",
+          "text": "La criatura objetivo obtiene +1/+1 hasta el final del turno.\nRoba una carta.",
+          "flavor": "La fuerza de lo indómito concentrada en un solo ataque.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150566&type=card",
+          "language": "Spanish",
+          "multiverseid": 150566
+        },
+        {
+          "name": "Pulsion agressive",
+          "text": "La créature ciblée gagne +1/+1 jusqu'à la fin du tour.\nPiochez une carte.",
+          "flavor": "La force de la nature, brute, violente, concentrée.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150183&type=card",
+          "language": "French",
+          "multiverseid": 150183
+        },
+        {
+          "name": "Impulso Aggressivo",
+          "text": "Una creatura bersaglio prende +1/+1 fino alla fine del turno.\nPesca una carta.",
+          "flavor": "Il potere dell'istinto, concentrato in un'unica carica.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148789&type=card",
+          "language": "Italian",
+          "multiverseid": 148789
+        },
+        {
+          "name": "攻撃的衝動",
+          "text": "クリーチャー１体を対象とする。それはターン終了時まで＋１/＋１の修整を受ける。\nカードを１枚引く。",
+          "flavor": "ただ一つの突撃に集中された、荒々しい自然の力そのもの。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148023&type=card",
+          "language": "Japanese",
+          "multiverseid": 148023
+        },
+        {
+          "name": "Ímpeto Agressivo",
+          "text": "A criatura alvo recebe +1/+1 até o final do turno.\nCompre um card.",
+          "flavor": "O poder da selva, concentrado em um único ataque.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149800&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149800
+        },
+        {
+          "name": "Агрессивное Побуждение",
+          "text": "Целевое существо получает +1/+1 до конца хода.\nВозьмите карту.",
+          "flavor": "Сила дикой природы, воплощенная в одном рывке.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149417&type=card",
+          "language": "Russian",
+          "multiverseid": 149417
+        },
+        {
+          "name": "攻性驱策",
+          "text": "目标生物得+1/+1直到回合结束。\n抓一张牌。",
+          "flavor": "倾注在单次冲锋上的荒野力量。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147640&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147640
+        }
+      ],
+      "printings": [
+        "10E",
+        "INV",
+        "JMP",
+        "MB1",
+        "RIX"
+      ],
+      "originalText": "Target creature gets +1/+1 until end of turn.\nDraw a card.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "4e875bca-0c52-5d60-889d-1db67e261737"
+    },
+    {
+      "name": "Academy Researchers",
+      "manaCost": "{1}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Human Wizard",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "rarity": "Uncommon",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "When Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers.",
+      "flavor": "They brandish their latest theories as warriors would wield weapons.",
+      "artist": "Stephen Daniele",
+      "number": "63",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 132072,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=132072&type=card",
+      "rulings": [
+        {
+          "date": "2007-07-15",
+          "text": "You can’t put an Aura card from your hand onto the battlefield this way if that Aura can’t legally enchant Academy Researchers. For example, you can’t put an Aura with “enchant land” or “enchant green creature” onto the battlefield attached to Academy Researchers (unless Academy Researchers somehow turned into a land or a green creature before the ability resolved)."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Forscher der Akademie",
+          "text": "Wenn der Forscher der Akademie ins Spiel kommt, kannst du eine Aurakarte aus deiner Hand an den Forscher der Akademie angelegt ins Spiel bringen.",
+          "flavor": "Sie werfen mit Theorien um sich wie Meuchler mit Wurfmessern.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148403&type=card",
+          "language": "German",
+          "multiverseid": 148403
+        },
+        {
+          "name": "Investigadores de la Academia",
+          "text": "Cuando los Investigadores de la Academia entren en juego, puedes poner en juego una carta de aura de tu mano anexada a los Investigadores de la Academia.",
+          "flavor": "Esgrimen sus últimas teorías como los guerreros harían con sus armas.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150379&type=card",
+          "language": "Spanish",
+          "multiverseid": 150379
+        },
+        {
+          "name": "Chercheurs de l'académie",
+          "text": "Quand les Chercheurs de l'académie arrivent en jeu, vous pouvez mettre en jeu, attachée aux Chercheurs de l'académie, une carte d'aura de votre main.",
+          "flavor": "Ils agitent leurs nouvelles théories comme des guerriers brandiraient leurs armes.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149996&type=card",
+          "language": "French",
+          "multiverseid": 149996
+        },
+        {
+          "name": "Ricercatori dell'Accademia",
+          "text": "Quando i Ricercatori dell'Accademia entrano in gioco, puoi mettere in gioco una carta Aura dalla tua mano assegnata ai Ricercatori dell'Accademia.",
+          "flavor": "Brandiscono le loro più recenti teorie come i guerrieri impugnerebbero le armi.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148786&type=card",
+          "language": "Italian",
+          "multiverseid": 148786
+        },
+        {
+          "name": "アカデミーの研究者",
+          "text": "アカデミーの研究者が場に出たとき、あなたは自分の手札にあるオーラ･カードを１枚、アカデミーの研究者につけられた状態で場に出してもよい。",
+          "flavor": "彼らが最新の学説を振りかざすさまは、まるで戦士の武器のようだ。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148020&type=card",
+          "language": "Japanese",
+          "multiverseid": 148020
+        },
+        {
+          "name": "Pesquisadores da Academia",
+          "text": "Quando Pesquisadores da Academia entra em jogo, você pode colocar um card de Aura de sua mão em jogo anexado a Pesquisadores da Academia.",
+          "flavor": "Eles brandiam suas últimas teorias como os guerreiros fariam com suas armas.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149613&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149613
+        },
+        {
+          "name": "Исследователи из Академии",
+          "text": "Когда Исследователи из Академии входят в игру, вы можете положить карту Ауры из вашей руки в игру прикрепленной к Исследователям из Академии.",
+          "flavor": "Они угрожающее размахивают своими последними теориями, словно воины, потрясающие оружием.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149230&type=card",
+          "language": "Russian",
+          "multiverseid": 149230
+        },
+        {
+          "name": "学院研究员",
+          "text": "当学院研究员进场时，你可以将一张灵气牌从你手上放置进场，并结附在学院研究员上。",
+          "flavor": "他们炫耀最新理论的模样有如战士挥舞刀剑。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147637&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147637
+        }
+      ],
+      "printings": [
+        "10E",
+        "USG"
+      ],
+      "originalText": "When Academy Researchers comes into play, you may put an Aura card from your hand into play attached to Academy Researchers.",
+      "originalType": "Creature - Human Wizard",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "047d5499-a21c-5f5c-9679-1599fcaf9815"
+    },
+    {
+      "name": "Agonizing Memories",
+      "manaCost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "supertypes": [],
+      "types": [
+        "Sorcery"
+      ],
+      "subtypes": [],
+      "rarity": "Uncommon",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Look at target player's hand and choose two cards from it. Put them on top of that player's library in any order.",
+      "flavor": "In the aftermath of war, when the slaying is long done, the greatest miseries come home to roost.",
+      "artist": "Adam Rex",
+      "number": "126",
+      "layout": "normal",
+      "multiverseid": 135228,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=135228&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Bedrückende Erinnerungen",
+          "text": "Schau dir die Karten auf der Hand eines Spielers deiner Wahl an und bestimme davon zwei Karten. Lege diese Karten in beliebiger Reihenfolge oben auf die Bibliothek dieses Spielers.",
+          "flavor": "Erst durch die Nachwirkungen des Krieges, wenn das Töten längst ein Ende hat, entstehen die größten Tragödien.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148407&type=card",
+          "language": "German",
+          "multiverseid": 148407
+        },
+        {
+          "name": "Recuerdos agónicos",
+          "text": "Mira la mano del jugador objetivo y elige dos cartas de ahí. Pon esas cartas en la parte superior de la biblioteca de ese jugador en cualquier orden.",
+          "flavor": "Luego de la guerra, cuando ya terminó la matanza, es cuando las grandes miserias vuelven a casa para quedarse.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150442&type=card",
+          "language": "Spanish",
+          "multiverseid": 150442
+        },
+        {
+          "name": "Affres du souvenir",
+          "text": "Regardez la main du joueur ciblé et choisissez-y deux cartes. Mettez ces cartes au-dessus de la bibliothèque de ce joueur, dans l'ordre de votre choix.",
+          "flavor": "« Le souvenir est l'espérance renversée. On regarde le fond du puits comme on a regardé le sommet de la tour. » —Gustave Flaubert",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150059&type=card",
+          "language": "French",
+          "multiverseid": 150059
+        },
+        {
+          "name": "Ricordi Tormentosi",
+          "text": "Guarda la mano di un giocatore bersaglio e scegli due carte da quella mano. Mettile in cima al grimorio di quel giocatore in qualsiasi ordine.",
+          "flavor": "Nel periodo successivo alla guerra, quando non si uccide più da tempo, le sofferenze maggiori si ritorcono su chi le ha provocate.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148790&type=card",
+          "language": "Italian",
+          "multiverseid": 148790
+        },
+        {
+          "name": "苦悶の記憶",
+          "text": "プレイヤー１人を対象とする。そのプレイヤーの手札を見て、その中からカードを２枚選ぶ。 それらをそのプレイヤーのライブラリーの一番上に望む順番で置く。",
+          "flavor": "戦争が終わり、敵を倒したことが遠い過去となったとき、最も大きな苦悩が羽を休めにくる。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148024&type=card",
+          "language": "Japanese",
+          "multiverseid": 148024
+        },
+        {
+          "name": "Lembranças Angustiantes",
+          "text": "Olhe a mão do jogador alvo e escolha dois cards dela. Coloque-os no topo do grimório daquele jogador em qualquer ordem.",
+          "flavor": "No final da guerra, quando a matança fica para trás, é que os maiores tormentos vêm à tona.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149676&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149676
+        },
+        {
+          "name": "Мучительные Воспоминания",
+          "text": "Посмотрите в руку целевого игрока и выберите из нее две карты. Положите их на верх библиотеки того игрока в любом порядке.",
+          "flavor": "В послевоенной разрухе, когда кровопролитие уже давно позади, в дом приходят самые тяжкие страдания.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149293&type=card",
+          "language": "Russian",
+          "multiverseid": 149293
+        },
+        {
+          "name": "惨痛的回忆",
+          "text": "检视目标牌手的手牌并选择其中两张牌。 将它们以任意顺序置于该牌手的牌库顶。",
+          "flavor": "在战事尾声、杀戮早已结束后，最沉重的伤痛返家歇息。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147641&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147641
+        }
+      ],
+      "printings": [
+        "10E",
+        "6ED",
+        "7ED",
+        "WTH"
+      ],
+      "originalText": "Look at target player's hand and choose two cards from it. Put them on top of that player's library in any order.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "13fbd62d-8c76-52fa-a91d-a20cc34747ab"
+    },
+    {
+      "name": "Abundance",
+      "manaCost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "G"
+      ],
+      "type": "Enchantment",
+      "supertypes": [],
+      "types": [
+        "Enchantment"
+      ],
+      "subtypes": [],
+      "rarity": "Rare",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.",
+      "artist": "Rebecca Guay",
+      "number": "249",
+      "layout": "normal",
+      "multiverseid": 130483,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=130483&type=card",
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "This replacement effect replaces the draw, so nothing that triggers on a draw will trigger."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "If you use this on a multi-card draw, each replaced draw is handled separately. In other words, you reveal and then put on the bottom of the library for the first card, then do the same for the second, and so on. In a multi-card draw you do not have to choose how many of those draws will be replaced before you do any drawing or use of this card."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "If no card of the chosen type is found before your library empties, you don’t get a card, but you do get to order all the cards in your library any way you choose."
+        },
+        {
+          "date": "2007-07-15",
+          "text": "If your library is empty, Abundance can prevent you from losing the game for being unable to draw a card. If an effect or turn-based action would cause you to draw a card, you can replace that draw with Abundance’s replacement effect. (It doesn’t matter that you’d be unable to actually draw a card.) Since Abundance’s effect has you put a card into your hand instead of drawing a card, you’ll never be forced to draw a card with an empty library."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Überfluss",
+          "text": "Falls du eine Karte ziehen würdest, kannst du stattdessen Land oder Nichtland bestimmen und Karten oben von deiner Bibliothek aufdecken, bis du eine Karte der bestimmten Art aufdeckst. Nimm diese Karte auf deine Hand und lege alle anderen auf diese Weise aufgedeckten Karten in beliebiger Reihenfolge unter deine Bibliothek.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148402&type=card",
+          "language": "German",
+          "multiverseid": 148402
+        },
+        {
+          "name": "Abundancia",
+          "text": "Si fueras a robar una carta, en vez de eso, puedes elegir tierra o no tierra y mostrar cartas de la parte superior de tu biblioteca hasta que muestres una carta del tipo elegido. Pon esa carta en tu mano y pon todas las otras cartas mostradas de esta manera en la parte inferior de tu biblioteca en cualquier orden.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150565&type=card",
+          "language": "Spanish",
+          "multiverseid": 150565
+        },
+        {
+          "name": "Abondance",
+          "text": "Si vous deviez piocher une carte, vous pouvez, à la place, choisir terrain ou non-terrain et révéler des cartes du dessus de votre bibliothèque jusqu'à ce que vous révéliez une carte du type choisi. Mettez cette carte dans votre main, et mettez ensuite toutes les autres cartes révélées de cette manière au-dessous de votre bibliothèque, dans l'ordre de votre choix.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150182&type=card",
+          "language": "French",
+          "multiverseid": 150182
+        },
+        {
+          "name": "Abbondanza",
+          "text": "Se stai per pescare una carta, puoi invece scegliere terra o non terra e rivelare carte dalla cima del tuo grimorio fino a che non riveli una carta del tipo scelto. Aggiungi quella carta alla tua mano e metti tutte le altre carte rivelate in questo modo in fondo al tuo grimorio in qualsiasi ordine.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148785&type=card",
+          "language": "Italian",
+          "multiverseid": 148785
+        },
+        {
+          "name": "豊穣",
+          "text": "あなたがカードを１枚引く場合、代わりにあなたは土地か土地でないかを選んでもよい。そうしたなら、あなたのライブラリーの一番上のカードを、選んだ種類のカードが公開されるまで公開し続ける。 そのカードをあなたの手札に加え、これにより公開された他のすべてのカードを望む順番であなたのライブラリーの一番下に置く。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148019&type=card",
+          "language": "Japanese",
+          "multiverseid": 148019
+        },
+        {
+          "name": "Abundância",
+          "text": "Se for comprar um card, em vez disso, você pode escolher se deve ser ou não um terreno, e revelar cards do topo de seu grimório até revelar um card do tipo escolhido. Coloque aquele card em sua mão e coloque todos os outros cards revelados deste modo no fundo de seu grimório em qualquer ordem.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149799&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149799
+        },
+        {
+          "name": "Изобилие",
+          "text": "Если вы должны взять карту, вместо этого вы можете выбрать \"земля\" или \"неземля\" и показывать карты с верха вашей библиотеки до тех пор, пока вы не покажете карту выбранного вида. Положите ту карту в вашу руку и положите все остальные показанные таким образом карты в низ вашей библиотеки в любом порядке.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149416&type=card",
+          "language": "Russian",
+          "multiverseid": 149416
+        },
+        {
+          "name": "丰衣足食",
+          "text": "若你将抓一张牌，则你可以改为选择地牌或非地牌，并从你牌库顶开始展示牌，直到你展示出一张该种类的牌为止。 将该牌置于你手上，然后将以此法展示的其它牌以任意顺序置于你的牌库底。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147636&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147636
+        }
+      ],
+      "printings": [
+        "10E",
+        "C17",
+        "DDR",
+        "USG"
+      ],
+      "originalText": "If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.",
+      "originalType": "Enchantment",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "1669af17-d287-5094-b005-4b143441442f"
+    },
+    {
+      "name": "Hammer Dropper",
+      "manaCost": "{2}{R}{W}",
+      "cmc": 4,
+      "colors": [
+        "Red",
+        "White"
+      ],
+      "colorIdentity": [
+        "R",
+        "W"
+      ],
+      "type": "Creature — Giant Soldier",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Giant",
+        "Soldier"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)",
+      "flavor": "Giants know a solid hit is one part strength, four parts leverage.",
+      "artist": "Lake Hurwitz",
+      "number": "176",
+      "power": "5",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 452926,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452926&type=card",
+      "watermark": "boros",
+      "rulings": [
+        {
+          "date": "2018-10-05",
+          "text": "Mentor compares the power of the creature with mentor with that of the target creature at two different times: once as the triggered ability is put onto the stack, and once as the triggered ability resolves. If you wish to raise a creature’s power so its mentor ability can target a bigger creature, the last chance you have to do so is during the beginning of combat step."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If the target creature’s power is no longer less than the attacking creature’s power as the ability resolves, mentor doesn’t add a +1/+1 counter. For example, if two 3/3 creatures with mentor attack and both mentor triggers target the same 2/2 creature, the first to resolve puts a +1/+1 counter on it and the second does nothing."
+        },
+        {
+          "date": "2018-10-05",
+          "text": "If the creature with mentor leaves the battlefield with mentor on the stack, use its power as that creature last existed on the battlefield to determine whether the target creature has less power."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Hammerkämpfer",
+          "text": "Mentor (Immer wenn diese Kreatur angreift, lege eine +1/+1-Marke auf eine angreifende Kreatur deiner Wahl, deren Stärke niedriger ist.)",
+          "flavor": "Riesen wissen, dass ein fester Schlag zu einem Viertel aus Masse und zu drei Viertel aus Beschleunigung besteht.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453185&type=card",
+          "language": "German",
+          "multiverseid": 453185
+        },
+        {
+          "name": "Manejamartillo",
+          "text": "Mentor. (Siempre que esta criatura ataque, pon un contador +1/+1 sobre la criatura atacante objetivo con menor fuerza.)",
+          "flavor": "Los gigantes saben que, para asestar un buen golpe, saber hacer palanca es más importante que el tamaño.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453444&type=card",
+          "language": "Spanish",
+          "multiverseid": 453444
+        },
+        {
+          "name": "Buteur au marteau",
+          "text": "Mentor (À chaque fois que cette créature attaque, mettez un marqueur +1/+1 sur une créature attaquante ciblée de force inférieure.)",
+          "flavor": "Les géants savent qu'une bonne frappe représente 20 % de force et 80 % de moyen de pression.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453703&type=card",
+          "language": "French",
+          "multiverseid": 453703
+        },
+        {
+          "name": "Picchiatore del Martello",
+          "text": "Mentore (Ogniqualvolta questa creatura attacca, metti un segnalino +1/+1 su una creatura attaccante bersaglio con forza inferiore.)",
+          "flavor": "I giganti sanno che un colpo efficace dipende in minima parte dalla forza applicata e in massima parte dalla leva impiegata.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453962&type=card",
+          "language": "Italian",
+          "multiverseid": 453962
+        },
+        {
+          "name": "槌落とし",
+          "text": "教導（このクリーチャーが攻撃するたび、パワーがこれよりも小さい攻撃クリーチャー１体を対象とする。それの上に＋１/＋１カウンターを１個置く。）",
+          "flavor": "巨人たちは、確実な一撃というのは二割が力で八割はてこの作用だと知っている。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454221&type=card",
+          "language": "Japanese",
+          "multiverseid": 454221
+        },
+        {
+          "name": "망치잡이 거인",
+          "text": "지도 (이 생물이 공격할 때마다, 공격력이 더 낮은 공격 중인 생물을 목표로 정한다. 그 생물에 +1/+1 카운터 한 개를 올려놓는다.)",
+          "flavor": "거인들은 강한 타격 중 2할이 힘이고 8할은 지렛대의 힘이라는 것을 안다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454480&type=card",
+          "language": "Korean",
+          "multiverseid": 454480
+        },
+        {
+          "name": "Marreteiro",
+          "text": "Mentor (Toda vez que esta criatura atacar, coloque um marcador +1/+1 na criatura atacante alvo com poder inferior.)",
+          "flavor": "Os gigantes sabem que um golpe firme é vinte por cento força e oitenta por cento alavancagem.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454739&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454739
+        },
+        {
+          "name": "Молотобоец",
+          "text": "Наставник (Каждый раз, когда это существо атакует, положите один жетон +1/+1 на целевое атакующее существо с меньшим значением силы.)",
+          "flavor": "Гиганты знают, что хороший удар — это на одну часть сила и на четыре части рычаг.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454998&type=card",
+          "language": "Russian",
+          "multiverseid": 454998
+        },
+        {
+          "name": "重锤巨人",
+          "text": "训导（每当此生物攻击时，在目标进行攻击且力量小于它的生物上放置一个+1/+1指示物。）",
+          "flavor": "巨人都知道重击靠的是一分力量和四分巧劲。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455257&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455257
+        },
+        {
+          "name": "重鎚巨人",
+          "text": "訓導（每當此生物攻擊時，在目標進行攻擊且力量小於它的生物上放置一個+1/+1指示物。）",
+          "flavor": "巨人都知道重擊靠的是一分力量和四分巧勁。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455516&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455516
+        }
+      ],
+      "printings": [
+        "GRN",
+        "MB1"
+      ],
+      "originalText": "Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)",
+      "originalType": "Creature — Giant Soldier",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "db3a1cc5-650b-5482-ad19-724b962b28d5"
+    },
+    {
+      "name": "Vedalken Mesmerist",
+      "manaCost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Vedalken Wizard",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Vedalken",
+        "Wizard"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Whenever Vedalken Mesmerist attacks, target creature an opponent controls gets -2/-0 until end of turn.",
+      "flavor": "\"There's no need to sound the alarm. You are minding your post admirably. I am authorized. All is well.\"",
+      "artist": "Zezhou Chen",
+      "number": "57",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 452807,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452807&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Hypnotisierender Vedalken",
+          "text": "Wenn der Hypnotisierende Vedalken angreift, erhält eine Kreatur deiner Wahl, die ein Gegner kontrolliert, -2/-0 bis zum Ende des Zuges.",
+          "flavor": "„Es gibt keinen Grund, den Alarm auszulösen. Du wachst hervorragend über deinen Posten. Ich darf passieren. Alles ist gut.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453066&type=card",
+          "language": "German",
+          "multiverseid": 453066
+        },
+        {
+          "name": "Hipnotista vedalken",
+          "text": "Siempre que el Hipnotista vedalken ataque, la criatura objetivo que controla un oponente obtiene -2/-0 hasta el final del turno.",
+          "flavor": "\"No es necesario dar la alarma. Estás guardando tu puesto de forma admirable. Tengo autorización. Todo va bien\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453325&type=card",
+          "language": "Spanish",
+          "multiverseid": 453325
+        },
+        {
+          "name": "Mesmériste vedalken",
+          "text": "À chaque fois que le Mesmériste vedalken attaque, une créature ciblée qu'un adversaire contrôle gagne -2/-0 jusqu'à la fin du tour.",
+          "flavor": "« Inutile de donner l'alerte. Vous gardez admirablement bien votre poste. J'ai toutes les autorisations nécessaires. Tout va bien. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453584&type=card",
+          "language": "French",
+          "multiverseid": 453584
+        },
+        {
+          "name": "Vedalken Mesmerista",
+          "text": "Ogniqualvolta il Vedalken Mesmerista attacca, una creatura bersaglio controllata da un avversario prende -2/-0 fino alla fine del turno.",
+          "flavor": "\"Non c'è bisogno di lanciare l'allarme. Stai sorvegliando la tua postazione alla perfezione e io sono autorizzato. Va tutto bene.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=453843&type=card",
+          "language": "Italian",
+          "multiverseid": 453843
+        },
+        {
+          "name": "ヴィダルケンの催眠術師",
+          "text": "ヴィダルケンの催眠術師が攻撃するたび、対戦相手がコントロールしているクリーチャー１体を対象とする。ターン終了時まで、それは－２/－０の修整を受ける。",
+          "flavor": "「警報を鳴らす必要はありません。あなたは立派に持ち場を守っています。私は許可をもらっています。何も問題ありません。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454102&type=card",
+          "language": "Japanese",
+          "multiverseid": 454102
+        },
+        {
+          "name": "베달켄 현혹술사",
+          "text": "베달켄 현혹술사가 공격할 때마다, 상대가 조종하는 생물을 목표로 정한다. 그 생물은 턴종료까지 -2/-0을 받는다.",
+          "flavor": "\"경보를 켤 필요는 없다. 자네는 초소를 아주 잘 지키고 있다. 나는 허가받은 사람이다. 모든 것에 문제는 없다.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454361&type=card",
+          "language": "Korean",
+          "multiverseid": 454361
+        },
+        {
+          "name": "Mesmerista Vedalkeano",
+          "text": "Toda vez que Mesmerista Vedalkeano ataca, a criatura alvo que um oponente controla recebe -2/-0 até o final do turno.",
+          "flavor": "\"Não precisa soar o alarme. Você está cuidando admiravelmente bem de seu posto. Eu tenho autorização. Está tudo bem.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454620&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 454620
+        },
+        {
+          "name": "Ведалкен-Месмерист",
+          "text": "Каждый раз, когда Ведалкен-Месмерист атакует, целевое существо под контролем оппонента получает -2/-0 до конца хода.",
+          "flavor": "«Не нужно поднимать тревогу. Ты бдительно охраняешь свой пост. У меня есть пропуск. Все хорошо».",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=454879&type=card",
+          "language": "Russian",
+          "multiverseid": 454879
+        },
+        {
+          "name": "维多肯催眠师",
+          "text": "每当维多肯催眠师攻击时，目标由对手操控的生物得-2/-0直到回合结束。",
+          "flavor": "「不必拉响警报。你正恪尽职守。我已获准通行。一切平安无事。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455138&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 455138
+        },
+        {
+          "name": "維多肯催眠師",
+          "text": "每當維多肯催眠師攻擊時，目標由對手操控的生物得-2/-0直到回合結束。",
+          "flavor": "「不必拉響警報。你正恪盡職守。我已獲准通行。一切平安無事。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=455397&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 455397
+        }
+      ],
+      "printings": [
+        "GRN"
+      ],
+      "originalText": "Whenever Vedalken Mesmerist attacks, target creature an opponent controls gets -2/-0 until end of turn.",
+      "originalType": "Creature — Vedalken Wizard",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "246be8d6-0e5e-51b0-a3cf-c11fe76501fd"
+    },
+    {
+      "name": "Boros Guildgate",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "R",
+        "W"
+      ],
+      "type": "Land — Gate",
+      "supertypes": [],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [
+        "Gate"
+      ],
+      "rarity": "Common",
+      "set": "GRN",
+      "setName": "Guilds of Ravnica",
+      "text": "Boros Guildgate enters the battlefield tapped.\n{T}: Add {R} or {W}.",
+      "flavor": "\"The more trust breaks down, the more we must throw open the front gates.\"\n—Aurelia",
+      "artist": "Titus Lunter",
+      "number": "243",
+      "layout": "normal",
+      "multiverseid": 452993,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452993&type=card",
+      "variations": [
+        "bad5a88f-1bf9-54e0-9e49-eb398c098d76"
+      ],
+      "watermark": "boros",
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "The subtype Gate has no special rules significance, but other spells and abilities may refer to it."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Gate is not a basic land type."
+        }
+      ],
+      "foreignNames": [],
+      "printings": [
+        "C13",
+        "C15",
+        "C17",
+        "C19",
+        "CM2",
+        "DDL",
+        "DGM",
+        "GRN",
+        "GTC",
+        "MM3"
+      ],
+      "originalText": "Boros Guildgate enters the battlefield tapped.\n{T}: Add {R} or {W}.",
+      "originalType": "Land — Gate",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7ced4696-bb06-5394-89e5-6437c9929939"
     }
   ],
   "cardsOwned": [
@@ -5110,13 +9464,83 @@
     },
     {
       "ownerId": 1,
-      "cardId": "fd1e1d4f-b7db-551d-9a4b-d9ad456b5e85",
-      "id": 10
+      "cardId": "a90c60c1-6afb-5d0d-afe6-82cf6c2e9861",
+      "id": 11
     },
     {
       "ownerId": 1,
-      "cardId": "a90c60c1-6afb-5d0d-afe6-82cf6c2e9861",
-      "id": 11
+      "cardId": "dc80d2d7-c243-5b9f-ac04-2d7bfb5f7e4f",
+      "id": 12
+    },
+    {
+      "ownerId": 1,
+      "cardId": "79ee1a63-6533-5ee8-afca-0f9e2181e448",
+      "id": 13
+    },
+    {
+      "ownerId": 1,
+      "cardId": "d584c01a-d864-5c04-bcdb-48b01880cd99",
+      "id": 14
+    },
+    {
+      "ownerId": 1,
+      "cardId": "01f77b29-2d70-5b43-a316-088cb1abd232",
+      "id": 15
+    },
+    {
+      "ownerId": 1,
+      "cardId": "db3a1cc5-650b-5482-ad19-724b962b28d5",
+      "id": 16
+    },
+    {
+      "ownerId": 1,
+      "cardId": "246be8d6-0e5e-51b0-a3cf-c11fe76501fd",
+      "id": 17
+    },
+    {
+      "ownerId": 1,
+      "cardId": "7442a705-e34c-5362-8bf1-b4fac3b9007b",
+      "id": 18
+    },
+    {
+      "ownerId": 1,
+      "cardId": "6e0226df-c9a1-551a-a46a-efce42064e7d",
+      "id": 19
+    },
+    {
+      "ownerId": 1,
+      "cardId": "c6aa8c6f-537c-5bbc-841f-49c95133b0e0",
+      "id": 20
+    },
+    {
+      "ownerId": 1,
+      "cardId": "c30588b5-0a05-5c84-ae53-ad2403f3bff8",
+      "id": 21
+    },
+    {
+      "ownerId": 1,
+      "cardId": "1d51b03e-87ff-5822-9947-54fa77b309ba",
+      "id": 22
+    },
+    {
+      "ownerId": 1,
+      "cardId": "7ced4696-bb06-5394-89e5-6437c9929939",
+      "id": 23
+    },
+    {
+      "ownerId": 1,
+      "cardId": "8e47a118-27d7-56f6-8436-5aed7178c611",
+      "id": 24
+    },
+    {
+      "ownerId": 1,
+      "cardId": "c7e68041-3ef8-54c5-91a2-012fa711bbb0",
+      "id": 25
+    },
+    {
+      "ownerId": 1,
+      "cardId": "8bc16533-26ba-5829-adb1-7b25cd28b298",
+      "id": 27
     }
   ],
   "deck": [],

@@ -10,7 +10,9 @@ export const Card=(props)=>{
     <div className="card__name">{props.card.name} </div>
     <img className="MTGCard" src={props.card.imageUrl} alt={props.card.name}/>
     <button className="card__delete" 
-    onClick={()=>{deleteOwnedCard(props.ownedId)}}>Delete</button>
+    onClick={()=>{
+        deleteOwnedCard(props.ownedId)
+    }}>Delete</button>
         </div>
     </>)
 }
