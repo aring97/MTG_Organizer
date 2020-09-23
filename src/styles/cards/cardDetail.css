@@ -1,0 +1,15 @@
+.cardDetail{
+    background-color:whitesmoke;
+    display:flex;
+}
+.cardDetail__image{
+    width:50%;
+}
+.left{
+    width:50%;
+}
+.right{
+    width:50%;
+    background-color: silver;
+    border-radius: 10px;
+}

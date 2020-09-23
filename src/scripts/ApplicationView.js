@@ -5,6 +5,7 @@ import {CardsOwnedProvider} from "./providers/cardsOwnedProvider"
 import {CardCashProvider} from "./providers/cardCashingProvider"
 import {MTGProvider} from "./providers/MTGAPIProvider"
 import {CardSearch} from "./search/search"
+import {CardDetail} from "./mycards/CardsDetail"
 
 export const ApplicationView=(props)=>{
     return(
@@ -14,18 +15,18 @@ export const ApplicationView=(props)=>{
             <Route exact path="/">
                 <MyCardList/>
             </Route>
-        </CardsOwnedProvider>
-        </CardCashProvider>
-        
-        <CardsOwnedProvider>
-        <CardCashProvider>
+            <Route exact path='/cardDetail/:cardsId' render={
+                props=><CardDetail {...props} />
+            }/>
+
         <MTGProvider>
             <Route exact path="/search" render={
                 props=><CardSearch {...props}/>
             } />
         </MTGProvider>
-        </CardCashProvider>
+        
         </CardsOwnedProvider>
+        </CardCashProvider>
         </>
     )
 }
