@@ -1,21 +1,32 @@
 import React, {useContext} from "react"
 import {cardCashContext} from "../providers/cardCashingProvider"
 import{cardsOwnedContext} from "../providers/cardsOwnedProvider"
-export const SearchCard=({card, history})=>{
+export const SearchCard=({card})=>{
     const {addToCardsCashed}=useContext(cardCashContext)
-    const {cards, addToCardsOwned}=useContext(cardsOwnedContext)
+    const {cardsOwned, addToCardsOwned, GetCardsOwned}=useContext(cardsOwnedContext)
     
     const searchButtonFunction=(card)=>{
-        addToCardsCashed(card)
-        const cardInAPI=cards.find(ownedCard=>ownedCard.cardId===card.id)
-        if(cardInAPI===undefined){
-            const cardObj={
-                "ownerId":parseInt(localStorage.getItem("user")),
-                "cardId":card.id
+        GetCardsOwned()
+        .then(
+            addToCardsCashed(card))
+            .then(()=>{
+                const cardObj={
+                    "ownerId":parseInt(localStorage.getItem("user")),
+                    "cardId":card.id
+                }
+                const whoOwnes=cardsOwned.filter(ownedCard=>ownedCard.cardId===card.id)
+                
+                const idArray=whoOwnes.map(ownerObj=>{
+                    return ownerObj.ownerId
+                })
+                console.log(idArray)
+                if(!idArray.includes(parseInt(localStorage.getItem("user")))){
+                addToCardsOwned(cardObj)
             }
-            addToCardsOwned(cardObj)
-        }
+            }
+                )
     }
+    
     return(
     <>
     <div className="card">

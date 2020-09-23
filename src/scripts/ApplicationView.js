@@ -11,7 +11,7 @@ export const ApplicationView=(props)=>{
         <>
         <CardCashProvider>
         <CardsOwnedProvider>
-            <Route exact path="/myCards">
+            <Route exact path="/">
                 <MyCardList/>
             </Route>
         </CardsOwnedProvider>
@@ -20,7 +20,7 @@ export const ApplicationView=(props)=>{
         <CardsOwnedProvider>
         <CardCashProvider>
         <MTGProvider>
-            <Route exact path="/" render={
+            <Route exact path="/search" render={
                 props=><CardSearch {...props}/>
             } />
         </MTGProvider>

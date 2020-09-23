@@ -1,0 +1,20 @@
+.title{
+    color: silver;
+}
+
+.cards{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.card{
+background-color:whitesmoke ;
+padding: 3px;
+border: solid 3px black;
+border-radius: 15px;
+}
+
+.card__delete{
+    display:flex;
+}

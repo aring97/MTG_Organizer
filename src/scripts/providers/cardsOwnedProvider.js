@@ -3,7 +3,7 @@ import React, {useState, useEffect} from "react"
 export const cardsOwnedContext=React.createContext()
 
 export const CardsOwnedProvider=(props)=>{
-    const [cards, setColors]=useState([])
+    const [cardsOwned, setCards]=useState([])
 
     const GetCardsOwned=()=>{
         return fetch(`http://localhost:8088/cardsOwned`)
@@ -19,7 +19,6 @@ export const CardsOwnedProvider=(props)=>{
             body: JSON.stringify(cardObject)
         })
         .then(GetCardsOwned)
-        .then(console.log(cards))
         )
         }
 
@@ -34,7 +33,7 @@ export const CardsOwnedProvider=(props)=>{
     },[])
     return(
         <cardsOwnedContext.Provider value={{
-            cards,GetCardsOwned, addToCardsOwned, deleteOwnedCard
+            cardsOwned,GetCardsOwned, addToCardsOwned, deleteOwnedCard
         }}>
             {props.children}
         </cardsOwnedContext.Provider>
