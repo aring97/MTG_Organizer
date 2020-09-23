@@ -8,7 +8,7 @@ export const CardsOwnedProvider=(props)=>{
     const GetCardsOwned=()=>{
         return fetch(`http://localhost:8088/cardsOwned`)
         .then(res=>res.json())
-        .then(setColors)
+        .then(setCards)
     }
     const addToCardsOwned=(cardObject)=>{
         return (fetch(`http://localhost:8088/cardsOwned`,{
