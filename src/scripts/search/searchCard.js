@@ -25,6 +25,7 @@ export const SearchCard=({card})=>{
             }
             }
                 )
+                alert("card added to collection")
     }
     
     return(

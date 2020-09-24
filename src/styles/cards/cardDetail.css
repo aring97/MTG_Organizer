@@ -23,4 +23,7 @@
     margin-right: auto;
     width:55%;
 }
-.buttom{background-color: silver;}
+.buttom{
+    background-color: silver;
+    border-radius: 10px;
+}

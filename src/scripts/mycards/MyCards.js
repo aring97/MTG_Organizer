@@ -15,7 +15,7 @@ export const Card=(props)=>{
     <button className="card__delete" 
     onClick={()=>{
         deleteOwnedCard(props.ownedId)
-    }}>Delete</button>
+    }}>Remove From Collection</button>
         </div>
     </>)
 }

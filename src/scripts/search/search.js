@@ -1,7 +1,7 @@
 import React,{useContext, useRef} from "react"
 import {MTGContext} from "../providers/MTGAPIProvider"
 import {SearchCard} from "./searchCard"
-
+import "../../styles/search/load.css"
 export const CardSearch=(props)=>{
     const {cards,getCards}=useContext(MTGContext)
     const newCardSearch=useRef(null)
@@ -17,14 +17,17 @@ export const CardSearch=(props)=>{
         <button type="submit"
         onClick={event=>{
             event.preventDefault()
+            const load=document.getElementById("load")
             const cardName=newCardSearch.current.value
             const card={
                 "name":cardName
             }
             getCards(card)
+            load.style.display="flex"
+            setTimeout(()=>{load.style.display="none"},20000)
         }}>submit</button>
 
-<div className="load">text</div>
+<div id="load"></div>
         <div className="cards">
             {
                 cards.map(card=>{
