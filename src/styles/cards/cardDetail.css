@@ -1,8 +1,8 @@
-.cardDetail{
+.layout__normal{
     background-color:whitesmoke;
     display:flex;
 }
-.cardDetail__image{
+.card__image__normal{
     width:50%;
 }
 .left{
@@ -13,3 +13,14 @@
     background-color: silver;
     border-radius: 10px;
 }
+
+.layout__special{
+    background-color: ivory;
+}
+.card__image__special{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:55%;
+}
+.buttom{background-color: silver;}

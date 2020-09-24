@@ -23,6 +23,8 @@ export const CardSearch=(props)=>{
             }
             getCards(card)
         }}>submit</button>
+
+<div className="load">text</div>
         <div className="cards">
             {
                 cards.map(card=>{
