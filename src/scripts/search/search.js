@@ -1,11 +1,9 @@
 import React,{useContext, useRef} from "react"
-import { cardsOwnedContext } from "../providers/cardsOwnedProvider"
 import {MTGContext} from "../providers/MTGAPIProvider"
 import {SearchCard} from "./searchCard"
 
 export const CardSearch=(props)=>{
     const {cards,getCards}=useContext(MTGContext)
-    const {GetCardsOwned}=useContext(cardsOwnedContext)
     const newCardSearch=useRef(null)
     return (
         <>
@@ -25,6 +23,8 @@ export const CardSearch=(props)=>{
             }
             getCards(card)
         }}>submit</button>
+
+<div className="load">text</div>
         <div className="cards">
             {
                 cards.map(card=>{

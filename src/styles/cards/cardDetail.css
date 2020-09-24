@@ -1,0 +1,26 @@
+.layout__normal{
+    background-color:whitesmoke;
+    display:flex;
+}
+.card__image__normal{
+    width:50%;
+}
+.left{
+    width:50%;
+}
+.right{
+    width:50%;
+    background-color: silver;
+    border-radius: 10px;
+}
+
+.layout__special{
+    background-color: ivory;
+}
+.card__image__special{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:55%;
+}
+.buttom{background-color: silver;}

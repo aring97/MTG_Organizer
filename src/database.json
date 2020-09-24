@@ -9414,6 +9414,685 @@
         }
       ],
       "id": "7ced4696-bb06-5394-89e5-6437c9929939"
+    },
+    {
+      "name": "Time Vault",
+      "manaCost": "{2}",
+      "cmc": 2,
+      "colors": [],
+      "colorIdentity": [],
+      "type": "Artifact",
+      "supertypes": [],
+      "types": [
+        "Artifact"
+      ],
+      "subtypes": [],
+      "rarity": "Mythic",
+      "set": "VMA",
+      "setName": "Vintage Masters",
+      "text": "Time Vault enters the battlefield tapped.\nTime Vault doesn't untap during your untap step.\nIf you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault.\n{T}: Take an extra turn after this one.",
+      "artist": "Yeong-Hao Han",
+      "number": "287",
+      "layout": "normal",
+      "multiverseid": 383130,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=383130&type=card",
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If multiple “extra turn” effects resolve in the same turn, take them in the reverse of the order that the effects resolved."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "The choice of whether or not to skip a turn is made as that turn would begin, and only if Time Vault is tapped at that time. If you choose to skip your turn, Time Vault untaps before anything else happens in the next turn."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "This wording means that you no longer end up skipping multiple turns if you find a way to activate the ability multiple times."
+        }
+      ],
+      "foreignNames": [],
+      "printings": [
+        "2ED",
+        "CED",
+        "CEI",
+        "LEA",
+        "LEB",
+        "ME4",
+        "VMA"
+      ],
+      "originalText": "Time Vault enters the battlefield tapped.\nTime Vault doesn't untap during your untap step.\nIf you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault.\n{T}: Take an extra turn after this one.",
+      "originalType": "Artifact",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Banned"
+        },
+        {
+          "format": "Duel",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "id": "31d6be05-7e67-549f-a1e2-c66d19ef5348"
+    },
+    {
+      "name": "Immediate Action",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [],
+      "type": "Conspiracy",
+      "supertypes": [],
+      "types": [
+        "Conspiracy"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "CNS",
+      "setName": "Conspiracy",
+      "text": "Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)\nCreatures you control with the chosen name have haste.",
+      "artist": "Karl Kopinski",
+      "number": "5",
+      "layout": "normal",
+      "multiverseid": 382289,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382289&type=card",
+      "watermark": "conspiracy",
+      "rulings": [
+        {
+          "date": "2016-08-23",
+          "text": "Conspiracies are never put into your deck. Instead, you put any number of conspiracies from your card pool into the command zone as the game begins. These conspiracies are face up unless they have hidden agenda, in which case they begin the game face down."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "A conspiracy doesn’t count as a card in your deck for purposes of meeting minimum deck size requirements. (In most drafts, the minimum deck size is 40 cards.)"
+        },
+        {
+          "date": "2016-08-23",
+          "text": "You don’t have to play with any conspiracy you draft. However, you have only one opportunity to put conspiracies into the command zone, as the game begins. You can’t put conspiracies into the command zone after this point."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "You can look at any player’s face-up conspiracies at any time. You’ll also know how many face-down conspiracies a player has in the command zone, although you won’t know what they are."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "A conspiracy’s static and triggered abilities function as long as that conspiracy is face-up in the command zone."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "Conspiracies are colorless, have no mana cost, and can’t be cast as spells."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "Conspiracies aren’t legal for any sanctioned Constructed format, but may be included in other Limited formats, such as Cube Draft."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "You name the card as the game begins, as you put the conspiracy into the command zone, not as you turn the face-down conspiracy face up."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "There are several ways to secretly name a card, including writing the name on a piece of paper that’s kept with the face-down conspiracy. If you have multiple face-down conspiracies, you may name a different card for each one. It’s important that each named card is clearly associated with only one of the conspiracies."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "You must name a Magic card. Notably, you can’t name a token (except in the unusual case that a token’s name matches the name of a card, such as Illusion)."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "If you play multiple games after the draft, you can name a different card in each new game."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "As a special action, you may turn a face-down conspiracy face up. You may do so any time you have priority. This action doesn’t use the stack and can’t be responded to. Once face up, the named card is revealed and the conspiracy’s abilities will affect the game."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "At the end of the game, you must reveal any face-down conspiracies you own in the command zone to all players."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "A conspiracy with hidden agenda that has a triggered ability must be face up before that ability’s trigger condition is met in order for it to trigger. Turning it face up afterward won’t have any effect."
+        },
+        {
+          "date": "2016-08-23",
+          "text": "At the end of the game, you must reveal any face-down conspiracies you own in the command zone to all players. Notably, you can’t bluff conspiracies with hidden agenda by putting other cards into the command zone face down as the game starts."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "即応行動",
+          "text": "秘策（この策略を統率領域に裏向きで置いた状態でゲームを始め、秘密裏にカード名を１つ指定する。あなたはいつでもこの策略を表向きにして、指定したカードの名前を公表してもよい。）\nあなたがコントロールする指定した名前を持つクリーチャーは速攻を持つ。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382709&type=card",
+          "language": "Japanese",
+          "multiverseid": 382709
+        },
+        {
+          "name": "事不宜迟",
+          "text": "秘案（开始游戏时此诡局牌面朝下地置于统帅区，并私下决定一个牌名。你随时可以将此诡局翻回正面并公布该名称。）\n由你操控且具有该名称的生物具有敏捷异能。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382499&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 382499
+        }
+      ],
+      "printings": [
+        "CNS"
+      ],
+      "originalText": "Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nCreatures you control with the chosen name have haste.",
+      "originalType": "Conspiracy",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Banned"
+        }
+      ],
+      "id": "059f369d-42a5-56be-a13f-444838df2ac6"
+    },
+    {
+      "name": "Tempered Steel",
+      "manaCost": "{1}{W}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Enchantment",
+      "supertypes": [],
+      "types": [
+        "Enchantment"
+      ],
+      "subtypes": [],
+      "rarity": "Rare",
+      "set": "2XM",
+      "setName": "Double Masters",
+      "text": "Artifact creatures you control get +2/+2.",
+      "flavor": "\"Death shall prevail as long as our will falls to rust. May necessity anneal our resolve.\"\n—Ghalma the Shaper",
+      "artist": "Wayne Reynolds",
+      "number": "34",
+      "layout": "normal",
+      "multiverseid": 489707,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=489707&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Gehärteter Stahl",
+          "text": "Artefaktkreaturen, die du kontrollierst, erhalten +2/+2.",
+          "flavor": "„Der Tod wird siegen, solange unser Wille rostet. Möge die Not unsere Entschlusskraft stählen.\"\n—Ghalma die Formerin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=490039&type=card",
+          "language": "German",
+          "multiverseid": 490039
+        },
+        {
+          "name": "Acier trempé",
+          "text": "Les créatures-artefacts que vous contrôlez gagnent +2/+2.",
+          "flavor": "« La mort l'emportera tant que nos volontés succomberont à la rouille. Que la nécessité trempe notre détermination. »\n—Ghalma la forgeuse",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=490371&type=card",
+          "language": "French",
+          "multiverseid": 490371
+        },
+        {
+          "name": "鍛えられた鋼",
+          "text": "あなたがコントロールしているアーティファクト・クリーチャーは＋２/＋２の修整を受ける。",
+          "flavor": "「我々の意思が錆びていくならば、死が広まるでしょう。求める心が我らの決心を鍛えてくれることを願います。」\n――造物師ガルマ",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=490703&type=card",
+          "language": "Japanese",
+          "multiverseid": 490703
+        },
+        {
+          "name": "精炼钢",
+          "text": "由你操控的神器生物得+2/+2。",
+          "flavor": "「如果我们的意志生锈，死亡便将横行无阻；但愿困境能激励我们的决心。」\n～塑型师佳玛",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=491035&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 491035
+        }
+      ],
+      "printings": [
+        "2XM",
+        "HA3",
+        "PRM",
+        "PSOM",
+        "SOM"
+      ],
+      "originalText": "Artifact creatures you control get +2/+2.",
+      "originalType": "Enchantment",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7a2daf32-f23d-58e9-a251-3b83a4376824"
+    },
+    {
+      "name": "Morphic Tide",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [],
+      "type": "Phenomenon",
+      "supertypes": [],
+      "types": [
+        "Phenomenon"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "OPC2",
+      "setName": "Planechase 2012 Planes",
+      "text": "When you encounter Morphic Tide, each player shuffles all permanents they own into their library, then reveals that many cards from the top of their library. Each player puts all artifact, creature, land, and planeswalker cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of their library in any order. (Then planeswalk away from this phenomenon.)",
+      "artist": "Brandon Kitkouski",
+      "number": "3",
+      "layout": "planar",
+      "multiverseid": 226514,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=226514&type=card",
+      "rulings": [
+        {
+          "date": "2012-06-01",
+          "text": "This ability is very similar to that of Warp World, but note that planeswalkers are put onto the battlefield."
+        },
+        {
+          "date": "2012-06-01",
+          "text": "Taking it slowly, here's what happens when Morphic Tide's ability resolves: 1) Each player counts the number of permanents they own. 2) Each player shuffles those permanents into their library. 3) Each player reveals cards from the top of their library equal to the number that player counted. 4) Each player puts all artifact, creature, land, and planeswalker cards revealed this way onto the battlefield. All of these cards enter the battlefield at the same time. 5) Each player puts all enchantment cards revealed this way onto the battlefield. An Aura put onto the battlefield this way can enchant an artifact, creature, land, or planeswalker that was already put onto the battlefield, but can't enchant an enchantment that's being put onto the battlefield at the same time as it. If multiple players have Auras to put onto the battlefield, the player whose turn it is announces what their Auras will enchant, then each other player in turn order does the same, then all enchantments (both Auras and non-Auras) enter the battlefield at the same time. 6) Each player puts all of their other revealed cards (instants, sorceries, and Auras that can't enchant anything) on the bottom of their library in any order."
+        },
+        {
+          "date": "2012-06-01",
+          "text": "Cards such as Sakashima’s Student that can enter the battlefield as a copy of another permanent won’t be able to enter the battlefield as a copy of a permanent that’s entering the battlefield at the same time."
+        },
+        {
+          "date": "2012-06-01",
+          "text": "After all permanents are put onto the battlefield and you planeswalk away from Morphic Tide, any abilities that triggered from those permanents entering the battlefield, from the previous generation of permanents leaving the battlefield, and from the new plane or phenomenon will be put onto the stack. You’ll put all of your triggered abilities on the stack in any order, then each other player in turn order will do the same. (The last ability put on the stack will be the first one that resolves.)"
+        },
+        {
+          "date": "2012-06-01",
+          "text": "The permanents will enter the battlefield while Morphic Tide is face up. This means the game won’t be on any plane when determining if any abilities trigger because those permanents entered the battlefield, for example. However, you’ll planeswalk away from Morphic Tide before any such abilities are put on the stack. After you turn the next card of the planar deck face up, any abilities that triggered during the resolution of Morphic Tide (including any abilities that triggered because you encountered another phenomenon or planeswalked to the next plane) will be put on the stack. The planar controller will put their abilities on the stack in any order, followed by each other player in turn order. The last ability put on the stack will be the first one to resolve."
+        },
+        {
+          "date": "2012-06-01",
+          "text": "Token permanents a player owns will count toward the number of cards that player reveals. They’ll be shuffled into that player’s library and subsequently cease to exist. A token’s owner is the player under whose control it first entered the battlefield."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Morphende Strömung",
+          "text": "Wenn du auf die Morphende Strömung triffst, mischt jeder Spieler alle bleibenden Karten, die er besitzt, in seine Bibliothek und deckt dann ebenso viele Karten oben von seiner Bibliothek auf. Jeder Spieler bringt alle auf diese Weise aufgedeckten Artefakte, Kreaturen, Länder und Planeswalker ins Spiel, macht dies dann für Verzauberungen und legt alle auf diese Weise aufgedeckten, aber nicht ins Spiel gebrachten Karten in beliebiger Reihenfolge unter seine Bibliothek. (Weltenwandere dann von diesem Phänomen weg.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288519&type=card",
+          "language": "German",
+          "multiverseid": 288519
+        },
+        {
+          "name": "Marea metamórfica",
+          "text": "Cuando te encuentres con la Marea metamórfica, cada jugador baraja todos los permanentes que le pertenezcan en su biblioteca, luego muestra esa misma cantidad de cartas de la parte superior de su biblioteca. Cada jugador pone en el campo de batalla todas las cartas de artefacto, criatura, tierra y planeswalker mostradas de esta manera, luego hace lo mismo para las cartas de encantamiento, luego pone todas las cartas mostradas de esta manera que no fueron puestas en el campo de batalla en la parte inferior de su biblioteca en cualquier orden. (Luego camina por los planos desde este fenómeno.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288560&type=card",
+          "language": "Spanish",
+          "multiverseid": 288560
+        },
+        {
+          "name": "Vague morphique",
+          "text": "Quand vous rencontrez la Vague morphique, chaque joueur mélange tous les permanents qu'il possède à sa bibliothèque et révèle ensuite autant de cartes du dessus de sa bibliothèque. Chaque joueur met sur le champ de bataille toutes les cartes d'artefact, de créature, de terrain et de planeswalker révélées de cette manière, fait ensuite de même pour toutes les cartes d'enchantement, et met ensuite toutes les cartes révélées de cette manière qui n'ont pas été mises sur le champ de bataille au-dessous de sa bibliothèque, dans n'importe quel ordre. (Puis transplanez-vous depuis ce phénomène.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288478&type=card",
+          "language": "French",
+          "multiverseid": 288478
+        },
+        {
+          "name": "Marea Morfica",
+          "text": "Quando incontri la Marea Morfica, ogni giocatore rimescola tutti i permanenti che possiede nel proprio grimorio, poi rivela altrettante carte dalla cima del proprio grimorio. Ogni giocatore mette sul campo di battaglia tutte le carte artefatto, creatura, terra e planeswalker rivelate in questo modo, poi mette sul campo di battaglia tutte le carte incantesimo rivelate in questo modo, poi mette tutte le carte rivelate in questo modo che non sono state messe sul campo di battaglia in fondo al proprio grimorio in qualsiasi ordine. (Poi viaggia tra i piani da questo fenomeno.)",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288601&type=card",
+          "language": "Italian",
+          "multiverseid": 288601
+        },
+        {
+          "name": "変異の潮流",
+          "text": "あなたが変異の潮流に遭遇したとき、各プレイヤーは自分がオーナーであるすべてのパーマネントを自分のライブラリーに加えて切り直し、その後自分のライブラリーの一番上からその総数に等しい枚数のカードを公開する。 各プレイヤーは、これにより公開されたすべてのアーティファクト・カードとクリーチャー・カードと土地カードとプレインズウォーカー・カードを戦場に出し、その後、エンチャント・カードも同様に行い、その後、これにより公開されて戦場に出されなかったすべてのカードを自分のライブラリーの一番下に望む順番で置く。 （その後、この現象からプレインズウォークする。）",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288642&type=card",
+          "language": "Japanese",
+          "multiverseid": 288642
+        }
+      ],
+      "printings": [
+        "OPC2",
+        "OPCA"
+      ],
+      "originalText": "When you encounter Morphic Tide, each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, land, and planeswalker cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library in any order. (Then planeswalk away from this phenomenon.)",
+      "originalType": "Phenomenon",
+      "legalities": [],
+      "id": "56dbbfbd-c7fc-5979-8826-44739609bbaf"
+    },
+    {
+      "name": "Shiv",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Plane — Dominaria",
+      "supertypes": [],
+      "types": [
+        "Plane"
+      ],
+      "subtypes": [
+        "Dominaria"
+      ],
+      "rarity": "Common",
+      "set": "OHOP",
+      "setName": "Planechase Planes",
+      "text": "All creatures have \"{R}: This creature gets +1/+0 until end of turn.\"\nWhenever you roll {CHAOS}, create a 5/5 red Dragon creature token with flying.",
+      "artist": "rk post",
+      "number": "34",
+      "layout": "planar",
+      "multiverseid": 198086,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=198086&type=card",
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "A plane card is treated as if its text box included “When you roll {PW}, put this card on the bottom of its owner’s planar deck face down, then move the top card of your planar deck off that planar deck and turn it face up.” This is called the “planeswalking ability.”"
+        },
+        {
+          "date": "2009-10-01",
+          "text": "A face-up plane card that’s turned face down becomes a new object with no relation to its previous existence. In particular, it loses all counters it may have had."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "The controller of a face-up plane card is the player designated as the “planar controller.” Normally, the planar controller is whoever the active player is. However, if the current planar controller would leave the game, instead the next player in turn order that wouldn’t leave the game becomes the planar controller, then the old planar controller leaves the game. The new planar controller retains that designation until they leave the game or a different player becomes the active player, whichever comes first."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If an ability of a plane refers to “you,” it’s referring to whoever the plane’s controller is at the time, not to the player that started the game with that plane card in their deck. Many abilities of plane cards affect all players, while many others affect only the planar controller, so read each ability carefully."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Shiv",
+          "text": "Alle Kreaturen haben „{R}: Diese Kreatur erhält +1/+0 bis zum Ende des Zuges.\"\nImmer wenn du chaos würfelst, bringe einen 5/5 roten Drachen-Kreaturenspielstein mit Flugfähigkeit ins Spiel.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=211796&type=card",
+          "language": "German",
+          "multiverseid": 211796
+        },
+        {
+          "name": "Shiv",
+          "text": "Todas las criaturas tienen \"{R}: Esta criatura obtiene +1/+0 hasta el final del turno\".\nSiempre que lances caos, pon en el campo de batalla una ficha de criatura Dragón roja 5/5 con la habilidad de volar.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=211931&type=card",
+          "language": "Spanish",
+          "multiverseid": 211931
+        },
+        {
+          "name": "Shiv",
+          "text": "Toutes les créatures ont « {R} : Cette créature gagne +1/+0 jusqu'à la fin du tour. »\nÀ chaque fois que vous obtenez chaos, mettez sur le champ de bataille un jeton de créature 5/5 rouge Dragon avec le vol.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=211886&type=card",
+          "language": "French",
+          "multiverseid": 211886
+        },
+        {
+          "name": "Shiv",
+          "text": "Tutte le creature hanno \"{R}: Questa creatura prende +1/+0 fino alla fine del turno.\"\nOgniqualvolta tiri caos, metti sul campo di battaglia una pedina creatura Drago 5/5 rossa con volare.",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=211841&type=card",
+          "language": "Italian",
+          "multiverseid": 211841
+        },
+        {
+          "name": "シヴ",
+          "text": "すべてのクリーチャーは「{R}：このクリーチャーはターン終了時まで＋１/＋０の修整を受ける」を持つ。\nあなたがchaosを出すたび、飛行を持つ赤の５/５のドラゴン・クリーチャー・トークンを１体戦場に出す。",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=211976&type=card",
+          "language": "Japanese",
+          "multiverseid": 211976
+        }
+      ],
+      "printings": [
+        "OHOP",
+        "OPCA"
+      ],
+      "originalText": "All creatures have \"{R}: This creature gets +1/+0 until end of turn.\"\nWhenever you roll chaos, put a 5/5 red Dragon creature token with flying onto the battlefield.",
+      "originalType": "Plane - Dominaria",
+      "legalities": [],
+      "id": "606e5c7f-55a5-543c-bbf0-9e1826c69b4a"
+    },
+    {
+      "name": "Every Dream a Nightmare",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [],
+      "type": "Scheme",
+      "supertypes": [],
+      "types": [
+        "Scheme"
+      ],
+      "subtypes": [],
+      "rarity": "Common",
+      "set": "OE01",
+      "setName": "Archenemy: Nicol Bolas Schemes",
+      "text": "When you set this scheme in motion, each opponent discards a card. You draw a card for each land card discarded this way.",
+      "flavor": "\"Let me unburden you of these fatuous hopes.\"",
+      "artist": "Mathias Kollros",
+      "number": "6★",
+      "layout": "scheme",
+      "multiverseid": 430651,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430651&type=card",
+      "rulings": [
+        {
+          "date": "2017-06-13",
+          "text": "In a Supervillain Rumble game, first the next player in turn order chooses a card in hand without revealing it, then each other opponent in turn order does the same. Then all the chosen cards are discarded simultaneously."
+        }
+      ],
+      "foreignNames": [],
+      "printings": [
+        "OE01"
+      ],
+      "originalText": "When you set this scheme in motion, each opponent discards a card. You draw a card for each land card discarded this way.",
+      "originalType": "Scheme",
+      "legalities": [],
+      "id": "ffe957eb-b505-574f-b429-1b56d28298aa"
+    },
+    {
+      "name": "Boggart Birth Rite",
+      "manaCost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Tribal Sorcery — Goblin",
+      "supertypes": [],
+      "types": [
+        "Tribal",
+        "Sorcery"
+      ],
+      "subtypes": [
+        "Goblin"
+      ],
+      "rarity": "Common",
+      "set": "LRW",
+      "setName": "Lorwyn",
+      "text": "Return target Goblin card from your graveyard to your hand.",
+      "flavor": "Auntie excitedly held up the squalling newborn. \"This one looks like Byoog! Maybe he'll tell us what he saw and felt in the beyond.\"",
+      "artist": "Ralph Horsley",
+      "number": "101",
+      "layout": "normal",
+      "multiverseid": 142359,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142359&type=card",
+      "rulings": [],
+      "foreignNames": [
+        {
+          "name": "Geburtsritus der Boggarte",
+          "text": "Bringe eine Goblinkarte deiner Wahl aus deinem Friedhof auf deine Hand zurück.",
+          "flavor": "Tantchen hielt den zappelnden Neugeborenen begeistert in die Luft. „Der hier sieht wie Byoog aus Vielleicht wird er uns eines Tages erzählen, was er im Jenseits gesehen und gefühlt hat.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=154466&type=card",
+          "language": "German",
+          "multiverseid": 154466
+        },
+        {
+          "name": "Rito de nacimiento boggart",
+          "text": "Regresa la carta de Trasgo objetivo de tu cementerio a tu mano.",
+          "flavor": "La Tía levantó excitada al recién nacido chillón. \"¡Este se parece a Byoog Tal vez pueda decirnos qué vio y sintió en el más allá.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=156583&type=card",
+          "language": "Spanish",
+          "multiverseid": 156583
+        },
+        {
+          "name": "Rite de naissance boggart",
+          "text": "Renvoyez une carte de gobelin ciblée depuis votre cimetière dans votre main.",
+          "flavor": "Tantine brandit fièrement le nouveau né aux cris perçants. « Celui-là ressemble à Eumfrai Il va peut-être nous dire ce qui se passe dans l'au-delà. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=155379&type=card",
+          "language": "French",
+          "multiverseid": 155379
+        },
+        {
+          "name": "Rituale di Nascita Boggart",
+          "text": "Riprendi in mano una carta Goblin bersaglio dal tuo cimitero.",
+          "flavor": "La Zietta cullava eccitata il neonato in lacrime. \"Questo assomiglia a Byoog Forse ci dirà cosa ha visto e sentito nell'aldilà.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=155680&type=card",
+          "language": "Italian",
+          "multiverseid": 155680
+        },
+        {
+          "name": "ボガートの誕生の儀式",
+          "text": "あなたの墓地にあるゴブリン・カード１枚を対象とし、それをあなたの手札に戻す。",
+          "flavor": "婆は興奮して、泣き喚く生まれたての子供を持ち上げました。 「こいつはビューグそっくりだ！ 彼が地面の下に落っこちて何を見たのか、教えてくれるだろうさ。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=155981&type=card",
+          "language": "Japanese",
+          "multiverseid": 155981
+        },
+        {
+          "name": "Rito de Nascimento Papão",
+          "text": "Devolva o card de Goblin alvo de seu cemitério para sua mão.",
+          "flavor": "A titia segurou entusiasmada o recém-nascido aos berros. \"Esse se parece com Byoog Talvez nos dirá o que viu e sentiu no além.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=156884&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 156884
+        },
+        {
+          "name": "Обряд Рождения Боггартов",
+          "text": "Верните целевую карту Гоблина из вашего кладбища в вашу руку.",
+          "flavor": "В радостном волнении Тетка высоко подняла визжащего новорожденного. \"Этот похож на Баюга Может, он расскажет нам, что видел и что ощущал на том свете\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=156282&type=card",
+          "language": "Russian",
+          "multiverseid": 156282
+        },
+        {
+          "name": "波尬诞生仪式",
+          "text": "将目标精灵牌从你的坟墓场移回你手上。",
+          "flavor": "大婶高兴地抱起啼哭的婴儿， 「这家伙长得真像百欧！ 说不定他会告诉我们在那里见识的东西。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=154767&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 154767
+        }
+      ],
+      "printings": [
+        "LRW"
+      ],
+      "originalText": "Return target Goblin card from your graveyard to your hand.",
+      "originalType": "Tribal Sorcery - Goblin",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "430760f8-8253-5c05-9b69-e24e10753c1e"
+    },
+    {
+      "name": "Barrin",
+      "cmc": 0,
+      "colors": [],
+      "colorIdentity": [],
+      "type": "Vanguard",
+      "supertypes": [],
+      "types": [
+        "Vanguard"
+      ],
+      "subtypes": [],
+      "rarity": "Rare",
+      "set": "PVAN",
+      "setName": "Vanguard Series",
+      "text": "Sacrifice a permanent: Return target creature to its owner's hand.",
+      "flavor": "An old and powerful wizard living on the mysterious isle of Tolaria, Barrin is the teacher who trained the young Ertai. He is also Hanna's father, but for reasons known only to the two of them neither acknowledges the other—or their strained relationship.",
+      "artist": "Christopher Rush",
+      "number": "201",
+      "layout": "vanguard",
+      "multiverseid": 4957,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4957&type=card",
+      "hand": "+0",
+      "life": "+6",
+      "rulings": [],
+      "foreignNames": [],
+      "printings": [
+        "PVAN"
+      ],
+      "originalText": "You may sacrifice a permanent to return any creature to its owner's hand. Play this ability as an instant.",
+      "originalType": "Vanguard - Character",
+      "legalities": [],
+      "id": "b1ccc978-e9de-54d7-95d4-1fdfc2c986b7"
     }
   ],
   "cardsOwned": [
@@ -9541,6 +10220,76 @@
       "ownerId": 1,
       "cardId": "8bc16533-26ba-5829-adb1-7b25cd28b298",
       "id": 27
+    },
+    {
+      "ownerId": 1,
+      "cardId": "e9a22fd3-5c40-5cc6-a65a-abcca5842117",
+      "id": 28
+    },
+    {
+      "ownerId": 2,
+      "cardId": "31d6be05-7e67-549f-a1e2-c66d19ef5348",
+      "id": 29
+    },
+    {
+      "ownerId": 2,
+      "cardId": "059f369d-42a5-56be-a13f-444838df2ac6",
+      "id": 30
+    },
+    {
+      "ownerId": 2,
+      "cardId": "01f77b29-2d70-5b43-a316-088cb1abd232",
+      "id": 31
+    },
+    {
+      "ownerId": 2,
+      "cardId": "7a2daf32-f23d-58e9-a251-3b83a4376824",
+      "id": 32
+    },
+    {
+      "ownerId": 2,
+      "cardId": "b11120a9-7737-5a17-87d8-8e3883e3f65f",
+      "id": 33
+    },
+    {
+      "ownerId": 2,
+      "cardId": "c6aa8c6f-537c-5bbc-841f-49c95133b0e0",
+      "id": 34
+    },
+    {
+      "ownerId": 2,
+      "cardId": "56dbbfbd-c7fc-5979-8826-44739609bbaf",
+      "id": 35
+    },
+    {
+      "ownerId": 2,
+      "cardId": "606e5c7f-55a5-543c-bbf0-9e1826c69b4a",
+      "id": 36
+    },
+    {
+      "ownerId": 2,
+      "cardId": "d584c01a-d864-5c04-bcdb-48b01880cd99",
+      "id": 37
+    },
+    {
+      "ownerId": 2,
+      "cardId": "ffe957eb-b505-574f-b429-1b56d28298aa",
+      "id": 38
+    },
+    {
+      "ownerId": 2,
+      "cardId": "a90c60c1-6afb-5d0d-afe6-82cf6c2e9861",
+      "id": 39
+    },
+    {
+      "ownerId": 2,
+      "cardId": "430760f8-8253-5c05-9b69-e24e10753c1e",
+      "id": 40
+    },
+    {
+      "ownerId": 2,
+      "cardId": "b1ccc978-e9de-54d7-95d4-1fdfc2c986b7",
+      "id": 41
     }
   ],
   "deck": [],
