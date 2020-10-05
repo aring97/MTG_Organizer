@@ -10093,6 +10093,170 @@
       "originalType": "Vanguard - Character",
       "legalities": [],
       "id": "b1ccc978-e9de-54d7-95d4-1fdfc2c986b7"
+    },
+    {
+      "name": "Giltgrove Stalker",
+      "manaCost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "G"
+      ],
+      "type": "Creature — Merfolk Warrior",
+      "supertypes": [],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Merfolk",
+        "Warrior"
+      ],
+      "rarity": "Common",
+      "set": "RIX",
+      "setName": "Rivals of Ixalan",
+      "text": "Giltgrove Stalker can't be blocked by creatures with power 2 or less.",
+      "flavor": "\"The only gold I need is the sheltering shimmer of the trees.\"",
+      "artist": "Chris Seaman",
+      "number": "131",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439788,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439788&type=card",
+      "rulings": [
+        {
+          "date": "2018-01-19",
+          "text": "Once a creature with power 3 or greater has blocked this creature, changing the power of the blocking creature won’t cause this creature to become unblocked."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Goldmangroven-Schleicherin",
+          "text": "Die Goldmangroven-Schleicherin kann von Kreaturen mit Stärke 2 oder weniger nicht geblockt werden.",
+          "flavor": "„Das einzige Gold, für das ich mich interessiere, ist das behütende Schimmern der Mangroven.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439991&type=card",
+          "language": "German",
+          "multiverseid": 439991
+        },
+        {
+          "name": "Acechadora del bosque dorado",
+          "text": "La Acechadora del bosque dorado no puede ser bloqueada por criaturas con fuerza de 2 o menos.",
+          "flavor": "\"El único resplandor dorado que necesito es el de estos árboles protectores\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440194&type=card",
+          "language": "Spanish",
+          "multiverseid": 440194
+        },
+        {
+          "name": "Pisteuse du bosquet vermeil",
+          "text": "La Pisteuse du bosquet vermeil ne peut pas être bloquée par les créatures de force inférieure ou égale à 2.",
+          "flavor": "« Le seul or dont j'ai besoin est le scintillement protecteur des arbres. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440397&type=card",
+          "language": "French",
+          "multiverseid": 440397
+        },
+        {
+          "name": "Cacciatrice della Foresta Dorata",
+          "text": "La Cacciatrice della Foresta Dorata non può essere bloccata da creature con forza pari o inferiore a 2.",
+          "flavor": "\"L'unico oro di cui ho bisogno è la lucente protezione degli alberi.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440600&type=card",
+          "language": "Italian",
+          "multiverseid": 440600
+        },
+        {
+          "name": "金林の追跡者",
+          "text": "金林の追跡者は、パワーが２以下のクリーチャーによってはブロックされない。",
+          "flavor": "「私に必要な金とは、身を守ってくれる木々のきらめきのみだ。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=440803&type=card",
+          "language": "Japanese",
+          "multiverseid": 440803
+        },
+        {
+          "name": "금빛 숲의 추적자",
+          "text": "금빛 숲의 추적자는 공격력이 2 이하인 생물에게 방어될 수 없다.",
+          "flavor": "\"내게 필요한 유일한 황금빛은 나를 보호해주는 나무들의 광채뿐이다.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441006&type=card",
+          "language": "Korean",
+          "multiverseid": 441006
+        },
+        {
+          "name": "Espreitadora do Bosque D'ouro",
+          "text": "Espreitadora do Bosque D'ouro não pode ser bloqueada por criaturas com poder igual ou inferior a 2.",
+          "flavor": "\"O único ouro de que preciso é a cintilante proteção das árvores.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441209&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 441209
+        },
+        {
+          "name": "Следопытка Золоченой Рощи",
+          "text": "Следопытка Золоченой Рощи не может быть заблокирована существами с силой 2 или меньше.",
+          "flavor": "«Единственное золото, которое мне нужно, это дарующее укрытие сверкание листьев».",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441412&type=card",
+          "language": "Russian",
+          "multiverseid": 441412
+        },
+        {
+          "name": "熠金林伏击客",
+          "text": "熠金林伏击客不能被力量等于或小于2的生物阻挡。",
+          "flavor": "「我只要林冠闪熠的庇护金光。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441615&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 441615
+        },
+        {
+          "name": "熠金林伏擊客",
+          "text": "熠金林伏擊客不能被力量等於或小於2的生物阻擋。",
+          "flavor": "「我只要林冠閃熠的庇護金光。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=441818&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 441818
+        }
+      ],
+      "printings": [
+        "RIX"
+      ],
+      "originalText": "Giltgrove Stalker can't be blocked by creatures with power 2 or less.",
+      "originalType": "Creature — Merfolk Warrior",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "a2f7e91f-4403-5ff7-b022-c455f11cd007"
     }
   ],
   "cardsOwned": [
